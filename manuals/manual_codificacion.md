@@ -1,0 +1,546 @@
+# Manual de Codificacion Estudio 2
+
+Este manual se divide en dos partes:
+
+-   **A**: Introducción a aspectos generales de la Ligüistica Sistémico Funcional (a partir de ahora: LSF) y al sistema de codificación que se usará para el proyecto
+
+-   **B**: Aspectos ténicos de la codificación y de manejo de los datos
+
+Es importante tener en consideración que este manual está orientado a orientar en la codificación de una tesis doctoral de psicología. La LSF es un modelo teórico muchísimo más amplio de lo que aquí se presenta, en este texto solo nos enfocaremos en una pequeñísima parte de este, y en función de los objetivos centrales de la tesis.
+
+> [!NOTE]Los objetivos de esta tesis no serán explicados en detalle, ya que esto puede sesgar la codificación. Es importante que los asistentes no tengan conocimientos de ello, en tanto esto puede empujar a privilegiar ciertos códigos por sobre otros. Para mí como investigador es importante que haya otra persona codificando de modo de tener un punto de comparación,que me permita también revisar criticamente mis propios sesgos en la codificación.
+
+Objetivo de Aprendizaje con la sección "A"
+
+-   Reconocer los principios generales de la Teoría Lingüistica Sistémico Funcional.
+-   Identificar las categorías analíticas específicas que serán utilizadas en el sistema de codificación Lingüistica Sistémico Funcional.
+-   Describir una oración en base a las categorías análiticas de la Lingüistica Sistémico Funcional.
+
+# Seccion A ----
+
+## LECTURAS RECOMENDADAS
+
+Hay muchos elementos de la LSF que no van a poder ser abordados en este manual, por lo tanto **leer los siguientes textos introductorios primeros.** Están ordenados siguiendo en una secuencia de creciente especificidad. Por lo tanto recomiendo encarecidametne leerlos en el orden que se presentan
+
+Todos los textos que se recomiendan pueden encontrarse [aqui](https://drive.google.com/drive/folders/1pWMyKpSVkNSnL8bgZwiQ9-xjFY5rohHK?usp=sharing)
+
+> [!NOTE] Los textos están anotados con mis comentarios, asi que ignoren si ven alguna tontera entre ellos.
+> A lo largo del manuel iré agregando links a textos, no es necesario leer todos. Concentrarse en estos primeros 4. Los otros queda  acriterio e interés de cada cual.
+
+
+
+**1**. Sección 1.3 (pp.20-31) del Capítulo 1 del libro "Halliday's Introduction to Functional Grammar" de Halliday & Matthiesen (2013)
+
+Esta sección introduce los conceptos centrales que se deben entender la LSF para lo que se hablará en el manual Lo que se busca es:
+
+-   Estratificación: Comprender el lenguaje como un sistema organizado en niveles de abstracción socio-semiótica: Contexto $\leftrightarrow$ Semántica $\leftrightarrow$ Lexicogramática $\leftrightarrow$ Fonología/Grafología8.\
+-   Instanciación: Comprender la relación de generalización entre el sistema (el potencial global de significado) y el texto (la elección concreta en uso).
+-   Relaciones paradigmáticas (Sistema vs. Estructura): Comprender el eje del sistema como el conjunto de opciones contrastivas ("lo que se puede decir en lugar de otra cosa") expresadas técnicamente mediante redes sistémicas
+-   Diferencias entre metafunciones: Reforzar sus diferencias, y su simultaneidad metafuncional al interior de una misma cláusula (partes de una oración para quienes no somos lingüistas)
+
+**2**.Capitulo de Introduccion del libro "The Language of Evaluation" de Martin & White (2005). Llegar hasta página 34, justo antes de empezar sección 1.4
+
+Al igual que el anterior es un capítulo introductorio, pero más centrado en un estrado semántico discursivo. Enfocarse en que quede claro lo siguiente:
+
+-   Revisión de las metafunciones desde la semántica discursiva: Identificar cómo el significado evaluativo trasciende los límites de una sola cláusula para desplegarse prosódicamente a lo largo del texto
+-   Relaciones paradigmáticas en la semántica interpersonal: Comprender cómo los recursos evaluativos se organizan en paradigmas y matrices de elección contrastiva (por ejemplo, valores de probabilidad, orientación subjetiva u objetiva y grados de delicadeza)
+-   Estrato Semántico-Discursivo: ¿Qué lo diferencia, que aporta este nivel de análisis?
+
+**3**. "Appraisal" de Hood (2019). Capitulo 15 del libro: The Cambridge Handbook of Systemic Functional Linguistics
+
+Se introduce más en detalle en el sistema de VALORACION (appraisal) que será el foco de la codificación y de este manual. Hay elementos que este capítulo no tiene, debido a que no tiene los desarrollos más recientes
+
+De este texto es particularmente importante enfocarse en los siguiente
+
+-   ¿Que es el subsistema de Actitud?
+-   ¿Qué es el subsistema de Compromiso (engagement)?
+-   ¿Que es el subsistema de Gradación (gradation)?
+-   Diferencias entre actitud evocada e inscrita.
+
+> [!NOTE] Toda la terminología acá puede marear, más adelante se presentará de una forma un poco mas ordenada. Por lo pronto enfocarse en entender las diferencias entre esos 3 subsistemas.
+
+**4**. "El sistema de valoración como herramienta teórico-metodológica para el estudio social e ideológico del discurso" de Oteíza y Pinuer (2019) Este artículo lleva lo revisado hasta ahora el español, además de introducir algunas propuestas al sistema de actitud
+
+Acá enfocarse en lo siguiente:
+
+-   Reforzar diferencias entre Actitud, Compromiso y Gradación ahora con ejemplos en español
+-   Categorías de apreciación para evaluación de eventos, procesos y situaciones sociales
+
+
+---
+
+
+## TEORIA
+
+Si bien se las elcturas anteriores van a aportar una mejor introducción a cualquier cosa que yo peuda hacer. Hay algunas cosas que me interesa reforzar en tanto van a ser importantes de tener en mente para entender la codificación que se hará. Además se agregarán algunos otros antecedentes teóricos que no están incluidos en las lecturas anteriores, pero que aportan información adicional para entender algunas particularidades del discurso hablado.
+
+**Consideracciones importantes sobre estratificación**
+
+Tal y como se revisó en los textos un principio básico de la LSF es que el lenguaje se ordena en distintos estratos de distintos niveles de abstracción, los patrones en cada uno de estos estratos dan lugar a los siguientes
+
+```mermaid
+graph LR
+semantico--->registro
+
+subgraph lenguaje
+direction LR;
+fonético--->lexico--->semantico
+end
+
+subgraph contexto
+direction LR;
+registro--->género
+end
+
+subgraph registro
+direction TB;
+campo
+tenor
+modo
+
+end
+```
+
+La codificación que haremos está fundamentalmente centrado en el estrado Semántico-Discursivo. Sin embargo, hay elementos que se dan a nivel léxicogramatical que pueden ayudar a entender mejor qué está sucediendo a nivel semántico. Veamos las situientes frases:
+
+> [!EXAMPLE] 
+>- "Se debe privilegiar el acuerdo" -> Usa el clítico "se"", puede incluir o no al hablante. El actor queda indeterminado y difumina la responsabilidad, proyectando una necesidad normativa/institucional. 
+>- "Debemos privilegiar el acuerdo" -> Usa voz personal, se entiende que el hablante está incluido en la demanda. Invita a la solidaridad. 
+>- "El acuerdo debe ser privilegiado" -> Acá el foco se vuelve el acuerdo, no el agente que privilegia. La demanda se naturaliza sobre la entidad misma, reduciendo el margen para la disidencia al invisibilizar la agencia humana.
+>
+> En estos ejemplos se repite la idea de una obligación (modalización) con el verbo deber. Sin embargo, las distintas elecciones en el estrato lexicogramatical (cómo se articulan Actor, Meta y Tema) generan diferencias en el estrato semántico-discursivo y en la metafunción interpersonal.
+>
+> Lo que a su vez configura (y es configurado por) contextos distintos. 
+>¿Por qué decimos que: configura y es configurado por? Porque si bien ciertos contextos pueden promover instanciaciones como la primera, siempre puede ser que alguien "elija" la segunda, lo que a su vez puede modificar el tenor de la conversación.
+
+
+---
+
+
+**Consideraciones sobre las metafunciones**
+
+La simultaneidad de las metafunciones implica que nunca operan una sola. Sin embargo, no por ello debemos olvidar que cada una de estas aporta a configurar el registro desde "lados" distintos. Cada metafunción se realiza (típicamente) en el registro a través de una variable: la textual en el modo, la interpersonal en el tenor, la ideacional en el campo. Típicamete por qeu la relación no es mecánica, el tenor también se realiza a través de significados textuales e idecionales
+
+- **METAFUNCIÓN TEXTUAL:** Organización del mensaje como texto
+
+**¿De qué manera la organización del mensaje configura el texto y su modo de circulación?** $\rightarrow$ Nos puede hablar de diferencias en la metafunción textual (y esto a su vez en el modo del registro). 
+>[!EXAMPLE] Es distinta una discusión que se tiene en vivo a una que se tiene en los comentarios del Emol. Ambas son discusiones, pero adoptan formas distintas. 
+>También es distinto responder "Al weón no le digai nada" que "No le digai nada al weón": lo que se pone primero organiza el mensaje de otro modo.
+
+- **METAFUNCIÓN INTERPERSONAL:** Relaciones entre participantes de un acto comunicativo
+
+**¿De qué manera lo que se dice posiciona al hablante y configura el tipo de relación que se establece con otros?** $\rightarrow$ Nos puede hablar de diferencias en la metafunción interpersonal (y esto a su vez en el tenor del registro) 
+>[!EXAMPLE] Es distinto plantear el uso del clítico "se debe" a usar el "debemos"
+
+- **METAFUNCIÓN IDEACIONAL:** Experiencia humana
+
+**¿De qué manera lo que se dice construye lo que se está haciendo?** $\rightarrow$ Nos puede hablar de diferencias en la metafunción ideacional (y esto a su vez en el campo del registro) 
+>[!EXAMPLE] Es distinto plantear una actividad como una lucha ideológica o como un acto de trolleo, aun cuando el resultado final sea el mismo: cambian los procesos y participantes que se seleccionan para construir el evento.
+
+Si bien podemos separar estas metafunciones, queda claro que se influyen mutuamente. Una persona trolleando en la sección de comentarios de Emol probablemente va a actuar de forma distinta a alguien en la vida real para quién discutir tiene un matiz de lucha ideológica. Un dicho común es que una forma de perder frente a un troll es personalizar los ataques, es decir, el trolleo, por ejemplo, funciona en tanto es capaz de instaurar cierto vínculo interpersonal pero esto también es facilitado de formas distintas según el modo en que se da (es distinto en cara-a-cara que online)
+
+
+---
+
+
+**Consideraciones sobre discurso hablado**
+
+La mayoría de lo que se ha visto hasta acá, incluido los textos recomendados, están centrados en el análisis de texto escrito. Sin embargo, lo que vamos a analizar es discurso oral. El discurso oral obviamente tiene diferencias importantes con el escrito, por lo que haré un breve repaso de elementos a tener en cuenta. Al final de esta sección agregaré una serie de textos recomendados y por qué.
+Las conversación están organizadas en torno a **turnos de habla**  (más adelante veremos otros modos de dividir el discurso). Durante estos turnos las personas adoptar y negocian roles: entregan y solicitando informaci+on, bienes y servicios.
+Es decir, hay una dinámica de intercambio entre un turno y otro. En base a esto White y Rose proponen 13 funciones distintas que se realizan en la interacción entre hablantes (que también podría ser entre dos personas hablándose por chat)
+
+| |iniciar | responder | 
+| ---| ---| ---| 
+|**Entregar** informacion| afirmacion | reconocimiento | 
+|**Solicitar** informacion | pregunta| respuesta| 
+| **Entregar** bienes y servicios| ofrecimiento | aceptar | 
+|**Solicitar** bienes y servicios |solicitar | compliance | 
+
+A estas 8 funciones se le pueden sumar 5 más
+- Saludo (¡Hola!) y Respuesta a saludo (¿Qué tal?)
+- Llamado (¡Oye!) y respuesta a llamado (¿si?)
+- Exclamaciones (¡Ahhh!)
+
+Cada uno de estos actos implica adoptar un rol y asignarle un rol a otro que puede o no puede ser aceptado. Por eso es que a este sistema se le llama sistema de NEGOCIACIÓN.
+
+Si bien no vamos a codificar esto tratar de tener siempre en el fondo de la cabeza la siguiente pregunta **¿Esta persona esta entregando o solicitando algo?**
+
+Tipicamente la solicitud se realiza a través de una pregunta, y las afirmaciones a través de aserciones. Esto se llama **forma congruente** ¡Pero no siempre es así!
+
+>[!EXAMPLE] Digamos que quiero que alguien me pase una cerveza.
+>La forma congruente seria una solicitud con una pregunta "¿Me pasas una chela?"
+>Pero puedo solicitar lo mismo de forma indirecta "Uuuy, me encantaría una cerveza"
+>O a través de un imperativo: ¡Pásame una chela!
+>
+
+En cada uno de estos ejemplos solicito lo mismo, pero el tipo de relación que se establece con el oyente es muy distinta.
+A estas formas de realizar ciertas clausulas de forma no congruente se le llama **metáfora gramatical** y son muy útiles en tanto nos hablan del MODO (MOOD) el cual es el sistema que analiza la metafunción interpersonal a nivel lexiogramatical.
+
+>[!EXAMPLE] Un caso más extremo al anterior, es como puedo mostrar desacuerdo con alguien incluso a través de preguntas retóricas
+> "No creo que estes en lo correcto" vrs "¿De verdad crees que estás en lo correcto?" 
+> Dependiendo del tono en que se haga la pregunta puede ser que realmente este preguntandole a la otra persona eso, o que en verdad sea una pregunta retórica que dé cuenta de que no le creo
+
+
+
+**Modos de división del discurso**
+
+Las presentamos desde el "corte" más pequeño que se puede a una unidad de discurso hastas la más global. Por lo general distintas divisiones están al servicio de análisis estratales distintos. Un análisis semántico discursivo no puede limitarse a un análisis clausular, pero sin duda el análisis clausular peude dar insights de elementos semánticos discursivos. No todas estas categorías son propias de la LSF, pero son utiles para poder entender cómo organizar y dividir el discurso hablado.
+Es muy probable que para el análisis de las conversaciones que se hará baste con entender bien la diferencia hasta Turno de habla.
+
+- **Cláusula** :  Unidad mínima de análisis en el discurso, con una estructura sintáctica completa (sujeto, predicado, etc.). Es la base de todo lo que viene después
+
+>[!Example] "El gobierno implementó nuevas políticas educativas". Esta es una cláusula material (el sujeto es un actor que realiza una meta).
+
+ El sistema de TRANSITIVIDAD está orientado al análisis lexiogramatical que permite diferenciar distintos tipos de cláusulas, en función de las formas de representar la experiencia (función ideacional). Esto no es necesario de aprender para esta codificación pero si es posible recomiendo encarecidamente revisar este texto introductorio de [Quiroz(2023)](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-93032023000100529) que explica los componentes de una cláusula
+ 
+ Podemos identificar 6 tipos de procesos 
+ 
+| Proceso 	| Descripcion 	| Participante|Proceso|
+|---|---|---|---|
+|Mental|De pensar, sentir, percibir|Experimentando|Fenómeno|
+|Material|De hacer/ocurrir|Actor|Meta|
+|Existencial|De existir/estar|Existente|-|
+|Conductual|De comportarse|Conductante|Conducta|
+|Verbal|De decir/comunicar|Decidor|Lo dicho|
+|Relacional|De ser/estar siendo (como estado)|Portador|Atributo|
+	  
+- **Complejo Clausular** :Conjunto de cláusulas relacionadas entre sí, ya sea por subordinación, coordinación o anáfora. En LSF, estos complejos pueden reflejar jerarquías de significado (ej.: cláusulas subordinadas que modifican o amplían el sentido de una cláusula principal).
+ 
+ >[!Example] "El gobierno implementó nuevas políticas educativas porque busca reducir la desigualdad" (cláusula principal + cláusula subordinada causal)
+ 
+- **Movimiento discursivo**: Segmento del discurso que cumple una función retórica o discursiva
+
+Se le puede conceptualiar de distintas formas. En Eggins y Slade(1997): "*a unit which speaker change could occur without turn transfer being seen as an interruption*” (p.186). El movimiento como unidad de análisis busca identificar funciones discursivas. La noción de función discursiva es una derivada de los tipos de intercambio y roles presentes en el lenguaje (NEGOCIACION).
+Estas autoras usan criterios gramaticales (que la clausula sea independiente de cualquier otra clausula) y prosódicos (por ejemplo el silencio al terminar de hablar, entonaciones hacia el final del enunciado) para identificar cuando empieza y termina un movimiento
+
+>[!EXAMPLE]
+> - Patricia: Gusto en conocerlos   -> Respuesta a saludo (movimiento 1)
+> - Patricia: Ya, oye, el tiempo corre y tenemos como 4 minutos. Veamos las fotos que nos dejaron acá en la mesa. -> Hace una solicitud (movimiento 2)
+> - Patricia: La primera foto esta medio brígida -->Entrega información (movimiento 3)
+
+En el ejemplo anterior Patricia podría haber dejado de hablar en cualquier momento de los 3 movimientos. Cada uno se entiende por si mismo, cada uno realiza una función distinta
+
+>[!TIP]
+>Un truco para determinar cuando termina un movimiento independiente (al margen que pueda haber mas de una en mismo turno) es agrega "o no?" al final.
+>Esto técnicamente se dice "a move that can be tagged" 
+> - Turno1: "Trajiste el pollo a la casa, o no?"
+> - Turno2: m1 "Ahi esta, o no?" m2"Ahora podemos cocinarlo, o no?"
+> Hay excepciones para esta reglas. En particular en exlamaciones o saludos
+
+En el contexto de un estudio de las prácticas de argumentación colectiva [Nuñez y Oyadenel (2009)](https://drive.google.com/file/d/1K4vy0euKa1OYVqnJZSKmpBvPPYSTGR8P/view?usp=sharing) desarrollan una tipología de 16 movimientos basada en la presencia o no de seis elementos binarios, para la clasificación de funciones en el marco de una tarea conjunta:
+- Expresa/No expresa acuerdo con una opinión
+- Introduce/No introduce nueva información a una opinión 
+- Implica/No implica toma de postura frente a una opinión
+- Introduce/No introduce nuevo tema en la conversación 
+- Se orienta/No se orienta al(los) interactuantes
+- Reacciona/No reacciona a un movimiento anterior de otro participante.
+
+
+- **Turno de habla** : Contribución individual de un participante en la conversación, delimitada por pausas, interrupciones o marcadores conversacionales. En el análisis de conversaciones (Eggins y Slade), un turno puede contener uno o varios movimientos discursivos.
+
+>[!EXAMPLE] En el ejemplo anterior los tres movimientos de Patricia son un solo turno de habla
+
+- **Episodio**: Segmento del discurso organizado alrededor de un tópico o tema central, que incluye tanto el contenido proposicional como los procedimientos conversacionales que lo organizan. Un episodio puede contener múltiples turnos y movimientos discursivos, pero comparte una coherencia temática y participativa
+
+El episodio se define por su tema central, pero también por cómo los participantes lo abordan (ej.: turnos que introducen, desarrollan o cierran el tema).
+
+>[!EXAMPLE] Personas discutiendo sobre un tiktok que vieron
+
+
+- **Etapa y Fase** : Los género discursivos son definidos por la LSF por una serie de etapas predecibles 
+
+Etapa: Segmento más amplio de un género discursivo (ej.: en una entrevista, las etapas podrían ser "introducción", "desarrollo" y "cierre"). Estas se dan siempre
+Fase: Subsegmento dentro de una etapa, con funciones específicas (ej.: en la etapa "desarrollo", una fase podría ser "presentación de argumentos" o "respuesta a objeciones"). Estas pueden variar
+
+- **Ejemplo Integrado:**
+
+  - Cláusula: "El gobierno no ha cumplido sus promesas" (Clausula conductual).
+  - Complejo clausular: "El gobierno no ha cumplido sus promesas // porque los fondos se desviaron a otros proyectos" (cláusula principal + subordinada causal).
+  - Movimiento discursivo: El gobierno no ha cumplido sus promesas porque los fondos se desviaron a otros proyectos ---> Justifica la problamacion inicial con argumento del desvio de dinero
+  - Turno de habla: "A: El gobierno no ha cumplido sus promesas. B: Eso es falso, porque..." (A proclama; B refuta).
+  - Episodio: "Críticas a la gestión del gobierno en educación" (incluye varios turnos sobre el tema).
+  - Etapa: "Desarrollo de argumentos".
+  - Fase: "Análisis de fallas en la implementación" .
+  - Género: Discusión política
+
+
+---
+
+
+## Codificación de VALORACION:Compromiso
+
+Una idea que debe guia toda la comprensión del sistema de COMPROMISO es la siguiente cita de [Martin & White (2005), p.94](https://drive.google.com/drive/folders/1pWMyKpSVkNSnL8bgZwiQ9-xjFY5rohHK?usp=sharing)
+
+>[!QUOTE] " El marco agrupa juntas bajo el titular de "Compromiso" todas esas locuciones que proveen los medios para que la voz autorial se posicione a sí misma en relación con otras voces, y que así se ‘comprometa’ con ellas y con las posiciones alternativas construidas como tomando parte en el contexto comunicativo" 
+> En el original: "The framework groups together under the heading of ‘engagement’ all those locutions which provide the means for the authorial voice to position itself with respect to, and hence to ‘engage’ with, the other voices and alternative positions con- strued as being in play in the current communicative contex""
+
+Si bien la organización del subsistema de COMPROMISO que presentaremos acá es un poco distinta a la que plantean Martin y White (ya que se introducirán los diversos aportes de Oteiza) esta definición me parece súper esclarecedora de **en qué fijarnos al codificar y analizar COMPROMISO**
+
+>[!NOTE] Es una convención en la literatura de la LSF escribir en mayuscula los distintos sistemas ysubsistemas organizados en redes semánticas (VALORACION, COMPROMISO, ACTITUD) para diferenciar cuando se habla de estas en esos términos o en uso ordinario
+
+
+Esta es una red semántica super compleja, así que vamos a ir por distintos "niveles": desde los niveles más generales hasta los más específicos.
+
+Primero vamos a ver **Tipo de Voz** y luego veremos las distintas **Funciones Retóricas** que este tipo de voces puces realizar
+
+```mermaid
+graph LR;
+a[COMPROMISO] --> b[Tipo de voz] & c[Función Retorica]
+```
+
+### Tipo de Voz
+
+Esta es una categoría para el análisis de COMPROMISO que propone [Oteiza, 2026](https://drive.google.com/file/d/1oxj9yBCrtPzcMaUxexByoQzIGHEUIK88/view?usp=drive_link) 
+
+Tiene que ver con (valga la redundancia) el tipo de voz que se utiliza para comunicar algo: **la fuente y grado de especificación de su origen**. 
+
+A veces "traemos" la voz de otras personas para citar una idea, para apoyarnos en ellas, para criticarlas. Pero ese "traer otras voces" puede hacerse reconociendola explícitamente, o haciendola pasar como una "voz de la razón". También a veces no citamos a nadie, y hablamos de nuestra opinión tratandola de hacerla pasar por la verdad, o explicitando que es "nuestra opinión". Todos estos son tipos de voces distintas Y las diferencias entre los tipos de voz usadas pueden ayudarnos a entender mejor **qué intentamos hacer con las voces que insertamos en nuestro hablar**.
+
+Hay 4 tipos de voz que codificaremos (entre paréntesis la sigla que se usará en su codificación) 
+
+- Voz autoral Implícita (voz_a_impl) 
+>[!EXAMPLE] HOLA
+
+- Voz autoral Manifiesta (voz_a_mnf) 
+>[!EXAMPLE] HOLA
+
+- Extravocalización (exv) 
+>[!EXAMPLE] HOLA
+
+- Intravocalizacion (inv) 
+>[!EXAMPLE] HOLA
+
+### Función Retórica
+
+Vamos a ver cuatro niveles de profundidad. 
+- El primer nivel diferencia entre monoglosia y heteroglosia. Acá nos movemos en la distinción entre el reconocimiento o no reconocimiento de voces alternativas y lo que se puede hacer al reconocerlas 
+- El siguiente nivel especifica 3 tipos de operaciones contractivas. Contraer otras voces puede estar al servicio de **refutarlas, demandar algo o proclamar algo** 
+- El siguiente nivel desglosa aun más los modos de **refutacion** y de **proclamación** 
+- El siguiente nivel (el más específico al que llegaremos) desglosa aun más sub-tipos específicos de proclamación.
+
+Esto puede ser mucho así que iremos paso por paso. Tomando los mismos ejemplos y progresivamente especificandolos más y más. **Se espera que al menos los dos primeros niveles queden 100% claros**
+
+**Nivel 1: DISTINCIÓN FUNDAMENTAL 1** $\rightarrow$ Esta distinción debe quedar 100% clara
+
+```mermaid
+graph LR;
+a[funcion retorica] 
+b[monoglosia]
+c[heteroglosia]
+d[contraer]
+e[expandir]
+
+
+a -->b & c
+c -->d & e
+
+
+subgraph nivel 1
+b & d & e
+end
+```
+
+
+
+
+
+Ahora bien, el discurso hablado introduce un matiz importante. Y es la dificultad de encontrar monoglosias en conversaciones. Esto está fundamentado teóricamente en loS principios de dialogiCIdad de [Linell, 1998](https://drive.google.com/file/d/1sIPVulEqzXgVkJjMcd4LpGtPXbNlx3fc/view?usp=drive_link)
+
+Este autor plantea tres principios característicos de una interacción dialógica
+
+- **Secuencialidad:** Cada acción, contribución o secuencia constituyente obtiene una parte significativa de su significado de su posición dentro de una secuencia (la cual, en la interacción en tiempo real, es, por supuesto, de naturaleza temporal). p.85
+- **Construcción Conjunta:** Ninguna parte es producto o experiencia exclusiva de un solo individuo. Por otro lado, la distribución de las contribuciones al diálogo co-construido suele ser asimétrica. p.96
+- **Interdependencia acto-actividad:** Los actos, enunciados y secuencias en el discurso están siempre, en esencia, situados dentro de una actividad que los engloba (un diálogo, un encuentro), la cual es producida conjuntamente por los participantes. Esta actividad puede entenderse, a menudo, como la representación de un tipo general o como perteneciente a un género particular. Algunos aspectos del significado de los actos elementales derivan del hecho de que están integrados en dicha actividad global y contribuyen a su realización. Al mismo tiempo, el tipo de actividad o género se manifiesta —en un sentido wittgensteiniano, es decir, de forma implícita más que explícitamente formulada o «dicha»— a través de las maneras en que los actores se expresan en el discurso. p.87
+
+Esto describe muy bien la estructura conjunta y secuencial de una conversación.
+
+
+Esto significa que en cada contribución discursiva (cada movimiento en la terminología que hemos usamos) hay una conexión con lo previo (orientación retrospectiva) y con lo que se inicia (orientación prospectiva)
+
+```mermaid
+graph LR
+a[enunciado hablante n]-->b[respuesta a lo previo n-1: **elementos que se recogen explicita o implictamente**] & c[iniciacion de algo nuevo: **elementos que se introducen**]
+
+c--NEGOCIACION-->d[enunciado hablante n+1]
+
+d--->e[respuesta a n: **elementos que se recogen explicita o implictamente**] & f[iniciacion de algo nuevo: **elementos que se introducen**]
+
+subgraph turno 1
+a & b & c
+end
+
+subgraph turno 2
+d & e & f
+end
+```
+
+
+**Cada enunciado en si mismo tiene una propiedad de respuesta y de iniciacion. El enunciado responde a y abre a algo al mismo tiempo**
+Esto significa que incluso entregar información objetiva en respuesta a alguien que solicita información es un acto heteroglósico en una conversación. Pues me estoy orientando hacia la voz de ese otro, y entregando información que permite el despliegue posterior de la conversación.
+
+>[!TIP] 
+> No usar la categoría de monoglosia a no ser que hayan muchas razones para hacerlo. No me cierro a la posibilidad de encontrar casos donde ocurra en discurso hablado, pero sería muuuuuuy poco común que corura
+
+
+**Nivel 2: DISTINCIÓN FUNDAMENTAL 2** $\rightarrow$ Esta distinción debe quedar 100% clara
+
+Acá empezamos a desglosar especificamente las funciones heteroglósicas. Es problable que los análisis estadisticos que se hagan con los datos lleguen hasta este nivel de especificidad. Por lo tanto es **muuuuuy importante** que estas queden 100% claras.
+
+```mermaid
+graph LR;
+d[contraer]
+e[expandir]
+f[refutar]
+g[demandar]
+h[proclamar]
+i[considerar]
+
+d-->f & g & h
+e--> i
+
+subgraph n_codf 2
+f & g & h & i
+end
+```
+
+**Nivel 3: Modos de refutar y proclamar**
+
+Este nivel de especificidad es útil para entender dos funciones que están por así decir "en polos opuestos" de contracción heteroglósica.
+
+```mermaid
+graph LR;
+
+f[refutar]
+g[demandar]
+h[proclamar]
+j[negar]
+k[oponer]
+l[acordar]
+m[respaldar]
+n[reforzar]
+
+
+f-->j & k
+h-->l & m & n
+
+subgraph nivel 2
+f & g & h
+end
+
+
+subgraph nivel 3
+j & k & l & m & n
+end
+```
+
+
+**Nivel 4: Modos de proclamar::acordar y proclamar:reforzar**
+
+Este es el nivel más exhaustivo al que llegaremos. Se entiende si llegado a este punto ya se está medio mareada. Son un nivel de sensibilidad muy alto que permite hacer distinciones finas respecto a modos de estar de acuerdo con otros o de reforzar un punto
+
+```mermaid
+graph LR;
+
+
+j[refutar:negar]
+k[refutar:oponer]
+l[proclamar:acordar]
+m[proclamar:respaldar]
+n[proclamar:reforzar]
+o[prounciar]
+p[justificar]
+q[afirmar]
+r[conceder]
+
+
+
+l-->q & r
+n--->o & p
+
+subgraph nivel  3
+j & k & l & m & n
+end
+
+subgraph nivel 4
+o & p & q & r
+end
+```
+
+**Modelo Completo de Función Retórica**
+
+Dado que hay ciertas funciones que tienen distintos niveles de sensibilidad, para la codificación final se van a usar la categoría "más sensible" para cada función. En total serán un total de 10 categorías de codificación distintas, que están marcadas con negrita en el siguiente gráfico
+
+```mermaid
+graph LR;
+a[funcion retorica] 
+b[**monoglosia**]
+c[heteroglosia]
+d[contraer]
+e[expandir]
+f[refutar]
+g[**demandar**]
+h[proclamar]
+i[**considerar**]
+j[**negar**]
+k[**oponer**]
+l[acordar]
+m[**respaldar**]
+n[reforzar]
+o[**prounciar**]
+p[**justificar**]
+q[**afirmar**]
+r[**conceder**]
+
+a -->b & c
+c -->d & e
+d-->f & g & h
+e--> i
+f-->j & k
+h-->l & m & n
+l-->q & r
+n--->o & p
+
+subgraph n_codf 1
+b & d & e
+end
+
+subgraph n_codf 2
+f & g & h & i
+end
+
+subgraph n_codf 3
+j & k & l & m & n
+end
+
+subgraph n_codf 4
+o & p & q & r
+end
+```
+
+En caso que no se vea bien la negrita las categorías a usar son (entre parentesis las sigla que se usará para cada una): 
+- Monoglosia (m) 
+- Negar (rfr_n) 
+- Oponer (frt_o) 
+- Demandar (dmdr) 
+- Afirmar (p_afir) 
+- Conceder (p_ccdr) 
+- Respaldar (p_resp) 
+- Pronunciar (p_pron) 
+- Justificar (p_jstf) 
+- Considerar (cnsdr)
+
+
+---
+
+
+## Codificación de VALORACION:Actitud
+
+
+
+
+---
+---
+
+
+
+# Seccion B ----
