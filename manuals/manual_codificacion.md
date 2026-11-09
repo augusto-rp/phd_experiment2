@@ -17,7 +17,7 @@ Objetivo de Aprendizaje:
 
 Hay muchos elementos de la LSF que no van a poder ser abordados en este manual, por lo tanto **leer los siguientes textos introductorios primero.** Están ordenados siguiendo en una secuencia de creciente especificidad. Por lo tanto recomiendo encarecidamente leerlos en el orden que se presentan
 
-Todos los textos que se recomiendan pueden encontrarse [aqui](https://drive.google.com/drive/folders/1pWMyKpSVkNSnL8bgZwiQ9-xjFY5rohHK?usp=sharing)
+Todos los textos que se recomiendan pueden encontrarse <!--[aqui](https://drive.google.com/drive/folders/1pWMyKpSVkNSnL8bgZwiQ9-xjFY5rohHK?usp=sharing)-->
 
 > [!NOTE] Los textos están anotados con mis comentarios, asi que ignoren si ven alguna tontera entre ellos.
 > A lo largo del manuel iré agregando links a textos, no es necesario leer todos. Concentrarse en estos primeros 4. Los otros queda a criterio e interés de cada cual.
@@ -192,7 +192,7 @@ Es muy probable que para el análisis de las conversaciones que se hará sea suf
 
 >[!Example] "El gobierno implementó nuevas políticas educativas". Esta es una cláusula material (el sujeto es un actor que realiza una meta).
 
- El sistema de TRANSITIVIDAD está orientado al análisis lexiogramatical que permite diferenciar distintos tipos de cláusulas, en función de las formas de representar la experiencia (función ideacional). Esto no es necesario de aprender para esta codificación pero si es posible recomiendo encarecidamente revisar este texto introductorio de [Quiroz(2023)](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-93032023000100529) que explica los componentes de una cláusula
+ El sistema de TRANSITIVIDAD está orientado al análisis lexiogramatical que permite diferenciar distintos tipos de cláusulas, en función de las formas de representar la experiencia (función ideacional). Esto no es necesario de aprender para esta codificación pero si es posible recomiendo encarecidamente revisar este texto introductorio de <!--[Quiroz(2023)](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-93032023000100529)--> que explica los componentes de una cláusula
  
  Podemos identificar 6 tipos de procesos 
  
@@ -228,7 +228,7 @@ En el ejemplo anterior Patricia podría haber dejado de hablar en cualquier mome
 > - Turno2: m1 "Ahi esta, o no?" m2"Ahora podemos cocinarlo, o no?"
 > Hay excepciones para esta reglas. En particular en exlamaciones o saludos
 
-En el contexto de un estudio de las prácticas de argumentación colectiva [Nuñez y Oyadenel (2009)](https://drive.google.com/file/d/1K4vy0euKa1OYVqnJZSKmpBvPPYSTGR8P/view?usp=sharing) desarrollan una tipología de 16 movimientos basada en la presencia o no de seis elementos binarios, para la clasificación de funciones en el marco de una tarea conjunta:
+En el contexto de un estudio de las prácticas de argumentación colectiva <!--[Nuñez y Oyadenel (2009)](https://drive.google.com/file/d/1K4vy0euKa1OYVqnJZSKmpBvPPYSTGR8P/view?usp=sharing)--> desarrollan una tipología de 16 movimientos basada en la presencia o no de seis elementos binarios, para la clasificación de funciones en el marco de una tarea conjunta:
 - Expresa/No expresa acuerdo con una opinión
 - Introduce/No introduce nueva información a una opinión 
 - Implica/No implica toma de postura frente a una opinión
@@ -270,7 +270,7 @@ Fase: Subsegmento dentro de una etapa, con funciones específicas (ej.: en la et
 
 ## Codificación de VALORACION:Compromiso
 
-Una idea que debe guiar toda la comprensión del sistema de COMPROMISO es la siguiente cita de [Martin & White (2005), p.94](https://drive.google.com/drive/folders/1pWMyKpSVkNSnL8bgZwiQ9-xjFY5rohHK?usp=sharing)
+Una idea que debe guiar toda la comprensión del sistema de COMPROMISO es la siguiente cita de <!--[Martin & White (2005), p.94](https://drive.google.com/drive/folders/1pWMyKpSVkNSnL8bgZwiQ9-xjFY5rohHK?usp=sharing)-->
 
 >[!QUOTE] " El marco agrupa juntas bajo el titular de "Compromiso" todas esas locuciones que proveen los medios para que la voz autorial se posicione a sí misma en relación con otras voces, y que así se ‘comprometa’ con ellas y con las posiciones alternativas construidas como tomando parte en el contexto comunicativo" 
 > En el original: "The framework groups together under the heading of ‘engagement’ all those locutions which provide the means for the authorial voice to position itself with respect to, and hence to ‘engage’ with, the other voices and alternative positions con- strued as being in play in the current communicative contex""
@@ -291,7 +291,7 @@ a[COMPROMISO] --> b[Tipo de voz] & c[Función Retorica]
 
 ### Tipo de Voz
 
-Esta es una categoría para el análisis de COMPROMISO que propone [Oteiza, 2026](https://drive.google.com/file/d/1oxj9yBCrtPzcMaUxexByoQzIGHEUIK88/view?usp=drive_link). Tiene que ver con (valga la redundancia) el tipo de voz que se utiliza para comunicar algo: **la fuente y grado de especificación de su origen**. 
+Esta es una categoría para el análisis de COMPROMISO que propone <!--[Oteiza, 2026](https://drive.google.com/file/d/1oxj9yBCrtPzcMaUxexByoQzIGHEUIK88/view?usp=drive_link)-->. Tiene que ver con (valga la redundancia) el tipo de voz que se utiliza para comunicar algo: **la fuente y grado de especificación de su origen**. 
 
 A veces "traemos" la voz de otras personas para citar una idea, para apoyarnos en ellas, para criticarlas. Pero ese "traer otras voces" puede hacerse reconociendola explícitamente, o haciendola pasar como una "voz de la razón". También a veces no citamos a nadie, y hablamos de nuestra opinión tratandola de hacerla pasar por la verdad, o explicitando que es "nuestra opinión". Todos estos son tipos de voces distintas Y las diferencias entre los tipos de voz usadas pueden ayudarnos a entender mejor **qué intentamos hacer con las voces que insertamos en nuestro hablar**.
 
@@ -415,7 +415,7 @@ Estos marcadores pueden tener un rol importante en la introducción de otras voc
 
 **Particularidad del Discurso Hablado**
 
-Ahora bien, el discurso hablado introduce un matiz importante. Y es la dificultad de encontrar monoglosias en conversaciones. Esto está fundamentado teóricamente en los principios de dialogicidad de [Linell, 1998](https://drive.google.com/file/d/1sIPVulEqzXgVkJjMcd4LpGtPXbNlx3fc/view?usp=drive_link)
+Ahora bien, el discurso hablado introduce un matiz importante. Y es la dificultad de encontrar monoglosias en conversaciones. Esto está fundamentado teóricamente en los principios de dialogicidad de <!--[Linell, 1998](https://drive.google.com/file/d/1sIPVulEqzXgVkJjMcd4LpGtPXbNlx3fc/view?usp=drive_link)-->
 
 Este autor plantea tres principios característicos de una interacción dialógica
 
