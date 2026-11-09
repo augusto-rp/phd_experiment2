@@ -1,37 +1,32 @@
 # Manual de Codificacion Estudio 2
 
-Este manual se divide en dos partes:
-
--   **A**: Introducción a aspectos generales de la Ligüistica Sistémico Funcional (a partir de ahora: LSF) y al sistema de codificación que se usará para el proyecto
-
--   **B**: Aspectos ténicos de la codificación y de manejo de los datos
+Este manual sirve de Introducción a aspectos generales de la Ligüistica Sistémico Funcional (a partir de ahora: LSF) y al sistema de codificación que se usará para el proyecto
 
 Es importante tener en consideración que este manual está orientado a orientar en la codificación de una tesis doctoral de psicología. La LSF es un modelo teórico muchísimo más amplio de lo que aquí se presenta, en este texto solo nos enfocaremos en una pequeñísima parte de este, y en función de los objetivos centrales de la tesis.
 
 > [!NOTE]Los objetivos de esta tesis no serán explicados en detalle, ya que esto puede sesgar la codificación. Es importante que los asistentes no tengan conocimientos de ello, en tanto esto puede empujar a privilegiar ciertos códigos por sobre otros. Para mí como investigador es importante que haya otra persona codificando de modo de tener un punto de comparación,que me permita también revisar criticamente mis propios sesgos en la codificación.
 
-Objetivo de Aprendizaje con la sección "A"
+Objetivo de Aprendizaje:
 
 -   Reconocer los principios generales de la Teoría Lingüistica Sistémico Funcional.
 -   Identificar las categorías analíticas específicas que serán utilizadas en el sistema de codificación Lingüistica Sistémico Funcional.
--   Describir una oración en base a las categorías análiticas de la Lingüistica Sistémico Funcional.
-
-# Seccion A ----
+-   Describir un texto en base a las categorías análiticas de la Lingüistica Sistémico Funcional.
+-   Analizar diferencias entre textos en base a las categorías análiticas de la Lingüistica Sistémico Funcional. 
 
 ## LECTURAS RECOMENDADAS
 
-Hay muchos elementos de la LSF que no van a poder ser abordados en este manual, por lo tanto **leer los siguientes textos introductorios primeros.** Están ordenados siguiendo en una secuencia de creciente especificidad. Por lo tanto recomiendo encarecidametne leerlos en el orden que se presentan
+Hay muchos elementos de la LSF que no van a poder ser abordados en este manual, por lo tanto **leer los siguientes textos introductorios primero.** Están ordenados siguiendo en una secuencia de creciente especificidad. Por lo tanto recomiendo encarecidamente leerlos en el orden que se presentan
 
 Todos los textos que se recomiendan pueden encontrarse [aqui](https://drive.google.com/drive/folders/1pWMyKpSVkNSnL8bgZwiQ9-xjFY5rohHK?usp=sharing)
 
 > [!NOTE] Los textos están anotados con mis comentarios, asi que ignoren si ven alguna tontera entre ellos.
-> A lo largo del manuel iré agregando links a textos, no es necesario leer todos. Concentrarse en estos primeros 4. Los otros queda  acriterio e interés de cada cual.
+> A lo largo del manuel iré agregando links a textos, no es necesario leer todos. Concentrarse en estos primeros 4. Los otros queda a criterio e interés de cada cual.
 
 
 
 **1**. Sección 1.3 (pp.20-31) del Capítulo 1 del libro "Halliday's Introduction to Functional Grammar" de Halliday & Matthiesen (2013)
 
-Esta sección introduce los conceptos centrales que se deben entender la LSF para lo que se hablará en el manual Lo que se busca es:
+Esta sección introduce los conceptos centrales que se deben entender la LSF para lo que se hablará en el manual. Centrarse especialmente en los siguientes conceptos:
 
 -   Estratificación: Comprender el lenguaje como un sistema organizado en niveles de abstracción socio-semiótica: Contexto $\leftrightarrow$ Semántica $\leftrightarrow$ Lexicogramática $\leftrightarrow$ Fonología/Grafología8.\
 -   Instanciación: Comprender la relación de generalización entre el sistema (el potencial global de significado) y el texto (la elección concreta en uso).
@@ -49,12 +44,11 @@ Al igual que el anterior es un capítulo introductorio, pero más centrado en un
 **3**. "Appraisal" de Hood (2019). Capitulo 15 del libro: The Cambridge Handbook of Systemic Functional Linguistics
 
 Se introduce más en detalle en el sistema de VALORACION (appraisal) que será el foco de la codificación y de este manual. Hay elementos que este capítulo no tiene, debido a que no tiene los desarrollos más recientes
-
 De este texto es particularmente importante enfocarse en los siguiente
 
--   ¿Que es el subsistema de Actitud?
+-   ¿Qué es el subsistema de Actitud?
 -   ¿Qué es el subsistema de Compromiso (engagement)?
--   ¿Que es el subsistema de Gradación (gradation)?
+-   ¿Qué es el subsistema de Gradación (gradation)?
 -   Diferencias entre actitud evocada e inscrita.
 
 > [!NOTE] Toda la terminología acá puede marear, más adelante se presentará de una forma un poco mas ordenada. Por lo pronto enfocarse en entender las diferencias entre esos 3 subsistemas.
@@ -72,11 +66,11 @@ Acá enfocarse en lo siguiente:
 
 ## TEORIA
 
-Si bien se las elcturas anteriores van a aportar una mejor introducción a cualquier cosa que yo peuda hacer. Hay algunas cosas que me interesa reforzar en tanto van a ser importantes de tener en mente para entender la codificación que se hará. Además se agregarán algunos otros antecedentes teóricos que no están incluidos en las lecturas anteriores, pero que aportan información adicional para entender algunas particularidades del discurso hablado.
+Si bien las lecturas anteriores van a aportar una mejor introducción a cualquier cosa que yo pueda hacer, hay algunas cosas que me interesa reforzar en tanto van a ser importantes de tener en mente para entender la codificación que se hará. Además se agregarán algunos otros antecedentes teóricos que no están incluidos en las lecturas anteriores, pero que aportan información adicional para entender algunas particularidades del discurso hablado.
 
 **Consideracciones importantes sobre estratificación**
 
-Tal y como se revisó en los textos un principio básico de la LSF es que el lenguaje se ordena en distintos estratos de distintos niveles de abstracción, los patrones en cada uno de estos estratos dan lugar a los siguientes
+Tal y como se revisó en los textos un principio básico de la LSF es que el lenguaje se ordena en distintos estratos de distintos niveles de abstracción, los patrones en cada uno de estos estratos se organiza de la siguiente manera:
 
 ```mermaid
 graph LR
@@ -101,7 +95,7 @@ modo
 end
 ```
 
-La codificación que haremos está fundamentalmente centrado en el estrado Semántico-Discursivo. Sin embargo, hay elementos que se dan a nivel léxicogramatical que pueden ayudar a entender mejor qué está sucediendo a nivel semántico. Veamos las situientes frases:
+La codificación que haremos está fundamentalmente centrado en el estrato Semántico-Discursivo. Sin embargo, hay elementos que se dan a nivel léxicogramatical que pueden ayudar a entender mejor qué está sucediendo a nivel semántico. Veamos las situientes frases:
 
 > [!EXAMPLE] 
 >- "Se debe privilegiar el acuerdo" -> Usa el clítico "se"", puede incluir o no al hablante. El actor queda indeterminado y difumina la responsabilidad, proyectando una necesidad normativa/institucional. 
@@ -119,7 +113,7 @@ La codificación que haremos está fundamentalmente centrado en el estrado Semá
 
 **Consideraciones sobre las metafunciones**
 
-La simultaneidad de las metafunciones implica que nunca operan una sola. Sin embargo, no por ello debemos olvidar que cada una de estas aporta a configurar el registro desde "lados" distintos. Cada metafunción se realiza (típicamente) en el registro a través de una variable: la textual en el modo, la interpersonal en el tenor, la ideacional en el campo. Típicamete por qeu la relación no es mecánica, el tenor también se realiza a través de significados textuales e idecionales
+La simultaneidad de las metafunciones implica que nunca operan una sola. Sin embargo, no por ello debemos olvidar que cada una de estas aporta a configurar el registro desde "lados" distintos. Cada metafunción se realiza (típicamente) en el registro a través de una variable: la textual en el modo, la interpersonal en el tenor, la ideacional en el campo. Típicamete por que la relación no es mecánica, el tenor también se podría realizar a través de significados textuales e ideacionales
 
 - **METAFUNCIÓN TEXTUAL:** Organización del mensaje como texto
 
@@ -146,8 +140,8 @@ Si bien podemos separar estas metafunciones, queda claro que se influyen mutuame
 **Consideraciones sobre discurso hablado**
 
 La mayoría de lo que se ha visto hasta acá, incluido los textos recomendados, están centrados en el análisis de texto escrito. Sin embargo, lo que vamos a analizar es discurso oral. El discurso oral obviamente tiene diferencias importantes con el escrito, por lo que haré un breve repaso de elementos a tener en cuenta. Al final de esta sección agregaré una serie de textos recomendados y por qué.
-Las conversación están organizadas en torno a **turnos de habla**  (más adelante veremos otros modos de dividir el discurso). Durante estos turnos las personas adoptar y negocian roles: entregan y solicitando informaci+on, bienes y servicios.
-Es decir, hay una dinámica de intercambio entre un turno y otro. En base a esto White y Rose proponen 13 funciones distintas que se realizan en la interacción entre hablantes (que también podría ser entre dos personas hablándose por chat)
+Las conversaciones están organizadas en torno a **turnos de habla**  (más adelante veremos otros modos de dividir el discurso). Durante estos turnos las personas adoptar y negocian roles: entregan y solicitando información, bienes y servicios.
+Es decir, hay una dinámica de intercambio entre un turno y otro. En base a esto White y Rose (2007) proponen 13 funciones distintas que se realizan en la interacción entre hablantes (que también podría ser entre dos personas hablándose por chat)
 
 | |iniciar | responder | 
 | ---| ---| ---| 
@@ -163,9 +157,9 @@ A estas 8 funciones se le pueden sumar 5 más
 
 Cada uno de estos actos implica adoptar un rol y asignarle un rol a otro que puede o no puede ser aceptado. Por eso es que a este sistema se le llama sistema de NEGOCIACIÓN.
 
-Si bien no vamos a codificar esto tratar de tener siempre en el fondo de la cabeza la siguiente pregunta **¿Esta persona esta entregando o solicitando algo?**
+Si bien no vamos a codificar dicho sistema, tratar de siempre tener en el fondo de la cabeza la siguiente pregunta **¿Esta persona está entregando o solicitando algo?**
 
-Tipicamente la solicitud se realiza a través de una pregunta, y las afirmaciones a través de aserciones. Esto se llama **forma congruente** ¡Pero no siempre es así!
+Tipicamente la solicitud se realiza a través de una pregunta, y las afirmaciones a través de aserciones. Estas formas "típicas" se llaman **formas congruentes** ¡Pero no siempre es así!
 
 >[!EXAMPLE] Digamos que quiero que alguien me pase una cerveza.
 >La forma congruente seria una solicitud con una pregunta "¿Me pasas una chela?"
@@ -182,10 +176,17 @@ A estas formas de realizar ciertas clausulas de forma no congruente se le llama 
 
 
 
+>[!INFO] Algunos textos recomendados e caso que se quiera profundizar en esto son
+>
+>- Linell - Approaching Dialogue Talk
+>- Eggins & Slade - Analysung Casual Conversatio
+>
+
+
 **Modos de división del discurso**
 
-Las presentamos desde el "corte" más pequeño que se puede a una unidad de discurso hastas la más global. Por lo general distintas divisiones están al servicio de análisis estratales distintos. Un análisis semántico discursivo no puede limitarse a un análisis clausular, pero sin duda el análisis clausular peude dar insights de elementos semánticos discursivos. No todas estas categorías son propias de la LSF, pero son utiles para poder entender cómo organizar y dividir el discurso hablado.
-Es muy probable que para el análisis de las conversaciones que se hará baste con entender bien la diferencia hasta Turno de habla.
+Las presentamos desde el "corte" más pequeño que se puede a una unidad de discurso hastas la más global. Por lo general distintas divisiones están al servicio de análisis estratales distintos. Un análisis semántico discursivo no puede limitarse a un análisis clausular, pero sin duda el análisis clausular puede dar insights de elementos semánticos discursivos. No todas estas categorías son propias de la LSF, pero son utiles para poder entender cómo organizar y dividir el discurso hablado.
+Es muy probable que para el análisis de las conversaciones que se hará sea suficiente con entender bien la diferencia hasta Turno de habla.
 
 - **Cláusula** :  Unidad mínima de análisis en el discurso, con una estructura sintáctica completa (sujeto, predicado, etc.). Es la base de todo lo que viene después
 
@@ -269,7 +270,7 @@ Fase: Subsegmento dentro de una etapa, con funciones específicas (ej.: en la et
 
 ## Codificación de VALORACION:Compromiso
 
-Una idea que debe guia toda la comprensión del sistema de COMPROMISO es la siguiente cita de [Martin & White (2005), p.94](https://drive.google.com/drive/folders/1pWMyKpSVkNSnL8bgZwiQ9-xjFY5rohHK?usp=sharing)
+Una idea que debe guiar toda la comprensión del sistema de COMPROMISO es la siguiente cita de [Martin & White (2005), p.94](https://drive.google.com/drive/folders/1pWMyKpSVkNSnL8bgZwiQ9-xjFY5rohHK?usp=sharing)
 
 >[!QUOTE] " El marco agrupa juntas bajo el titular de "Compromiso" todas esas locuciones que proveen los medios para que la voz autorial se posicione a sí misma en relación con otras voces, y que así se ‘comprometa’ con ellas y con las posiciones alternativas construidas como tomando parte en el contexto comunicativo" 
 > En el original: "The framework groups together under the heading of ‘engagement’ all those locutions which provide the means for the authorial voice to position itself with respect to, and hence to ‘engage’ with, the other voices and alternative positions con- strued as being in play in the current communicative contex""
@@ -290,25 +291,52 @@ a[COMPROMISO] --> b[Tipo de voz] & c[Función Retorica]
 
 ### Tipo de Voz
 
-Esta es una categoría para el análisis de COMPROMISO que propone [Oteiza, 2026](https://drive.google.com/file/d/1oxj9yBCrtPzcMaUxexByoQzIGHEUIK88/view?usp=drive_link) 
-
-Tiene que ver con (valga la redundancia) el tipo de voz que se utiliza para comunicar algo: **la fuente y grado de especificación de su origen**. 
+Esta es una categoría para el análisis de COMPROMISO que propone [Oteiza, 2026](https://drive.google.com/file/d/1oxj9yBCrtPzcMaUxexByoQzIGHEUIK88/view?usp=drive_link). Tiene que ver con (valga la redundancia) el tipo de voz que se utiliza para comunicar algo: **la fuente y grado de especificación de su origen**. 
 
 A veces "traemos" la voz de otras personas para citar una idea, para apoyarnos en ellas, para criticarlas. Pero ese "traer otras voces" puede hacerse reconociendola explícitamente, o haciendola pasar como una "voz de la razón". También a veces no citamos a nadie, y hablamos de nuestra opinión tratandola de hacerla pasar por la verdad, o explicitando que es "nuestra opinión". Todos estos son tipos de voces distintas Y las diferencias entre los tipos de voz usadas pueden ayudarnos a entender mejor **qué intentamos hacer con las voces que insertamos en nuestro hablar**.
 
 Hay 4 tipos de voz que codificaremos (entre paréntesis la sigla que se usará en su codificación) 
 
 - Voz autoral Implícita (voz_a_impl) 
->[!EXAMPLE] HOLA
+
+Este es el tipo de voz que asociamos a aseveraciones. El autor de la enunciación no es identificable en su contenido. Es importante tener claro que **la voz autoral implicita no implica ausencia de juicios de valor**. No se trata de la "objetividad" del contenido de lo enunciado, sino de la ausencia de marcadores en el texto que permitan atribuir el contenido a alguien específico.
+Habiendo dicho lo anterior, los enunciados que quieren parecer objetivos típicamente usan este tipo de voz autoral (pero no exclusivamente)
+
+>[!EXAMPLE] 
+>- "Quemar una micro no es "legítima protesta", es vandalismo puro y duro" --> En este caso hay una valoración negativa sobre ciertas formas de protestas. Sin embargo, en el texto no hay ningún indicador de la voz del hablante.
+>Contrastar con ejemplo de abajo
+
 
 - Voz autoral Manifiesta (voz_a_mnf) 
->[!EXAMPLE] HOLA
+
+El autor (o autores) de la enunciación es identificable por distintos tipos de marcadores conversacionales ("personalmente", "en mi opinion"), conjugaciones verbales y otros recursos (vb. uso del "yo")  que ponen de manifiesto al subejtividad de quien realiza el enunciado.  Este mismo tipo de manifestación de la voz autora no necesariamente tiene que ser singular, también puede plurarizarse siempre que incluya al hablante
+La risa también la tomaremos como un indicador de voz autoral manifiesta en tanto acentua una reacción subjetiva del hablante frente a lo que dice.
+
+>[!EXAMPLE]
+> - "A mi juicio quemar una micro no es "legítima protesta", es vandalismo puro y duro" -->"A mi juicio" localiza el texto como una propiedad del hablante específico. La valoración engativa es idéntica al caso anterior, pero al plantearlo com "a mi juicio" se especifica como una opinión específica del hablante particular
+>- "Opinamos que quemar una micro no es "legítima protesta", es vandalismo puro y duro"--> "Opinamos" supone un experimentando que incluye al hablante y a otros más. Por lo tanto conjufaciones verbales en primera persona plural suele ser indicativos de este tipo de voz
 
 - Extravocalización (exv) 
->[!EXAMPLE] HOLA
+
+El autor (o autores) son identificados, es decir, **el enunciado es atribuido a un tercero** (que puedo ser yo mismo) que puede ser humano o cosa. Así mismo ese tercero a quién se le atribuye la enunciación puede variar en su grado de especificidad (puede ser Manuel Francisco Antonio Julián Montt Torres o simplemente "la gente"). Siempre que se adjudique una acción a un personaje (independiente del grado de especificación) será extravocalización.
+Un caso que puede pareceer contraintuitivo es el uso del "nadie". Por ejmplo: "Nadie diría ....X" Esto también es extravocalización, en tanto el nadie indica que se le esta atribuyendo a todo mundo una oposicion contraria a lo que se afirma
+
+
+>[!EXAMPLE]
+>
+>- "De acuerdo a la ley quemar una micro no es "legítima" protesta, es vandalismo puro y duro" --> Acá la aseveración es "lo que dice la ley". Es la ley quien habla, no yo.
+>- "La gente piensa que quemar una micro no es "legítima" protesta, es vandalismo puro y duro" --> Acá la aseveración es "la gente". Recurso muy útil para construir retóricamente "el sentido común"
+>- "En ese momento yo te habría dicho que quemar una micro no es "legítima" protesta, es vandalismo puro y duro " --> Acá hay una autocitación, me trato a mi mismo como un tercero desde el cual viene el enunciado
 
 - Intravocalizacion (inv) 
->[!EXAMPLE] HOLA
+
+Como su nombre sugiere, se insertan otras voces pero de forma implícita. No hay indicadores textuales que permitan identificar de quién es propiedad el enunciado, pero tampoco se presenta como una mera aseveración 
+Para identificar estos casos sirve saber un poco de las categoria sde TRANSITIVIDAD descritas arriba, cuando procesos mentales (sentir/querer/percibir y que por ende requierne un experimentando) se describen como procesos materiales es probable que haya intravocalizacion  
+
+>[!EXAMPLE]
+>- "Tras el estallido, quedo la convicción de que quemar una micro no es "legítima" protesta, es vandalismo puro y duro" --> Es una convicción que podemos intuir que le pertenence a la gente, o a algún grupo de personas. Peor no hay ningún marcador en el texto. Acá "quedo la sensación" habla de un estado de las cosas (proceso material), que sin embargo, le pertenece a alguien/un grupo (proceso mental)
+>- "La lectura que aquí puede realizarse es que se está frente a un hito" --> Implicito esta la posibilidad de que puen derealizarse distinta lecturas, si bien no hay ningun marcador de quién podría realizarla. 
+
 
 ### Función Retórica
 
@@ -340,11 +368,54 @@ b & d & e
 end
 ```
 
+En lo que se dice **¿Hay un reconocimiento de que pude haber una perspectiva distinta a la expresada?**
+- En caso de que **NO**: Monoglosia. 
+  - La monoglosia se da necesariamente a través de un tipo de voz_a_impl(voz autoral implicita). Esto pues  los otros tipos de voz implican el reconocimiento de forma explicita o implicita de otras voces posibles.
+Clausulas declarativas con fuerte presencia de procesos relacionales, existenciales o materiales. En general cuando algo "se da por sentado" se tata de monoglosia, sin embargo, como se verá más abajo el lenguaje oral complica esto
+
+>[!Example]
+>- "El estado no es una empresa"
+>- "La delincuencia igual está súper desatada hoy en día"
+>- "La foto de abajo es una micro quemada"
+>- "La gente tiene miedo"
+>- "El gobierno no quiere levantar el secreto bancario"
+
+- En caso de que **SI**: Heteroglosia
+  - En caso que si, pero esas voces se traigan para refutarlas, demandar algo o como respaldo para fortalecer cierto punto de vista: **Contraer**
+El uso de lenguaje que busca defender una posición sobre otra es contractiva 
+
+>[!Example]
+>- "Dudo mucho que te metan a un registro nacional de vándalos por un sticker" --> voz_a_mnf (voz autoral manifiesta) que reconoce otra opinión pero la refuta
+>- "Exigimos que la ley sea equitativa" --> voz_a_mnf pero que demanda algo a otro
+>- "Mis padres dirían que hay que fortalecer las atribuciones" --> exv (extravocalizacion) para respalda una idea
+>- "Las leyes se pueden interpretar así, ese es el miedo que tengo " --> inv (No se especifica quien podría interpretar ley) + exv ("que tengo"). Esta complejo clausular reconoce otras voces para justificar su punto de vista
+>- "El estado no debería ser una empresa"--> el "no debería" reconoce implicitamente que hay perspectivas que lo ven así, y se opone a ellas. Esto lo hace heteroglosico y através de una inv
+  
+  - En caso que si, y que esas voces se traigan para considerar su punto de vista *independiente de nivel de acuerdo con ellas*: **Expandir**
+Reconoce la contingencialidad de la posiciones del hablante, modalizaciones (podría, probablemente, eventualmente) son importantes acá
+
+
+>[!Example]
+>- "Encuentro que esa imagen igual tiene un punto re válido"
+>- "Lo que dices me hace sentido"
+>- "Podríamos agregar la idea de limitar las atribuciones de la policia"
+>- "Eventualmente sus ideas se sumarían al plan de gobierno"
 
 
 
+Los marcadores discursivos cumplen un rol para negociar significados. Existen distintos tipos
 
-Ahora bien, el discurso hablado introduce un matiz importante. Y es la dificultad de encontrar monoglosias en conversaciones. Esto está fundamentado teóricamente en loS principios de dialogiCIdad de [Linell, 1998](https://drive.google.com/file/d/1sIPVulEqzXgVkJjMcd4LpGtPXbNlx3fc/view?usp=drive_link)
+- Modalidad epistémica (por supuesto, claro, desde luego)
+- Modalidad deóntica (bueno, bien, vale)
+- Enfocadores de alteridad (mira, oye, ¿no?)
+- Metadiscursivos conversacionales (ya, bien, ajá)
+
+Estos marcadores pueden tener un rol importante en la introducción de otras voces. Por ejemplo:  "Es como que (...)" $\rightarrow$ :Esta formulación de tipo argumentativo que además tiene una función atenuadora al parafrasear cumple un rol insertando voces externas y alineandose/desalieandose de estas
+
+
+**Particularidad del Discurso Hablado**
+
+Ahora bien, el discurso hablado introduce un matiz importante. Y es la dificultad de encontrar monoglosias en conversaciones. Esto está fundamentado teóricamente en los principios de dialogicidad de [Linell, 1998](https://drive.google.com/file/d/1sIPVulEqzXgVkJjMcd4LpGtPXbNlx3fc/view?usp=drive_link)
 
 Este autor plantea tres principios característicos de una interacción dialógica
 
