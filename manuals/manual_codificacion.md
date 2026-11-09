@@ -4,7 +4,8 @@ Este manual sirve de Introducción a aspectos generales de la Ligüistica Sisté
 
 Es importante tener en consideración que este manual está orientado a orientar en la codificación de una tesis doctoral de psicología. La LSF es un modelo teórico muchísimo más amplio de lo que aquí se presenta, en este texto solo nos enfocaremos en una pequeñísima parte de este, y en función de los objetivos centrales de la tesis.
 
-> [!NOTE]Los objetivos de esta tesis no serán explicados en detalle, ya que esto puede sesgar la codificación. Es importante que los asistentes no tengan conocimientos de ello, en tanto esto puede empujar a privilegiar ciertos códigos por sobre otros. Para mí como investigador es importante que haya otra persona codificando de modo de tener un punto de comparación,que me permita también revisar criticamente mis propios sesgos en la codificación.
+>[!NOTE]
+> Los objetivos de esta tesis no serán explicados en detalle, ya que esto puede sesgar la codificación. Es importante que los asistentes no tengan conocimientos de ello, en tanto esto puede empujar a privilegiar ciertos códigos por sobre otros. Para mí como investigador es importante que haya otra persona codificando de modo de tener un punto de comparación,que me permita también revisar criticamente mis propios sesgos en la codificación.
 
 Objetivo de Aprendizaje:
 
@@ -19,7 +20,8 @@ Hay muchos elementos de la LSF que no van a poder ser abordados en este manual, 
 
 Todos los textos que se recomiendan pueden encontrarse <!--[aqui](https://drive.google.com/drive/folders/1pWMyKpSVkNSnL8bgZwiQ9-xjFY5rohHK?usp=sharing)-->
 
-> [!NOTE] Los textos están anotados con mis comentarios, asi que ignoren si ven alguna tontera entre ellos.
+>[!NOTE] 
+> Los textos están anotados con mis comentarios, asi que ignoren si ven alguna tontera entre ellos.
 > A lo largo del manuel iré agregando links a textos, no es necesario leer todos. Concentrarse en estos primeros 4. Los otros queda a criterio e interés de cada cual.
 
 
@@ -51,7 +53,8 @@ De este texto es particularmente importante enfocarse en los siguiente
 -   ¿Qué es el subsistema de Gradación (gradation)?
 -   Diferencias entre actitud evocada e inscrita.
 
-> [!NOTE] Toda la terminología acá puede marear, más adelante se presentará de una forma un poco mas ordenada. Por lo pronto enfocarse en entender las diferencias entre esos 3 subsistemas.
+>[!NOTE] 
+> Toda la terminología acá puede marear, más adelante se presentará de una forma un poco mas ordenada. Por lo pronto enfocarse en entender las diferencias entre esos 3 subsistemas.
 
 **4**. "El sistema de valoración como herramienta teórico-metodológica para el estudio social e ideológico del discurso" de Oteíza y Pinuer (2019) Este artículo lleva lo revisado hasta ahora el español, además de introducir algunas propuestas al sistema de actitud
 
@@ -78,7 +81,7 @@ semantico--->registro
 
 subgraph lenguaje
 direction LR;
-fonético--->lexico--->semantico
+fonético--->lexico-gramatical--->semantico-discursivo
 end
 
 subgraph contexto
@@ -188,7 +191,7 @@ A estas formas de realizar ciertas clausulas de forma no congruente se le llama 
 Las presentamos desde el "corte" más pequeño que se puede a una unidad de discurso hastas la más global. Por lo general distintas divisiones están al servicio de análisis estratales distintos. Un análisis semántico discursivo no puede limitarse a un análisis clausular, pero sin duda el análisis clausular puede dar insights de elementos semánticos discursivos. No todas estas categorías son propias de la LSF, pero son utiles para poder entender cómo organizar y dividir el discurso hablado.
 Es muy probable que para el análisis de las conversaciones que se hará sea suficiente con entender bien la diferencia hasta Turno de habla.
 
-- **Cláusula** :  Unidad mínima de análisis en el discurso, con una estructura sintáctica completa (sujeto, predicado, etc.). Es la base de todo lo que viene después
+- **1.Cláusula** :  Unidad mínima de análisis en el discurso, con una estructura sintáctica completa (sujeto, predicado, etc.). Es la base de todo lo que viene después
 
 >[!Example] "El gobierno implementó nuevas políticas educativas". Esta es una cláusula material (el sujeto es un actor que realiza una meta).
 
@@ -205,11 +208,11 @@ Es muy probable que para el análisis de las conversaciones que se hará sea suf
 |Verbal|De decir/comunicar|Decidor|Lo dicho|
 |Relacional|De ser/estar siendo (como estado)|Portador|Atributo|
 	  
-- **Complejo Clausular** :Conjunto de cláusulas relacionadas entre sí, ya sea por subordinación, coordinación o anáfora. En LSF, estos complejos pueden reflejar jerarquías de significado (ej.: cláusulas subordinadas que modifican o amplían el sentido de una cláusula principal).
+- **2.Complejo Clausular** :Conjunto de cláusulas relacionadas entre sí, ya sea por subordinación, coordinación o anáfora. En LSF, estos complejos pueden reflejar jerarquías de significado (ej.: cláusulas subordinadas que modifican o amplían el sentido de una cláusula principal).
  
  >[!Example] "El gobierno implementó nuevas políticas educativas porque busca reducir la desigualdad" (cláusula principal + cláusula subordinada causal)
  
-- **Movimiento discursivo**: Segmento del discurso que cumple una función retórica o discursiva
+- **3.Movimiento discursivo**: Segmento del discurso que cumple una función retórica o discursiva
 
 Se le puede conceptualiar de distintas formas. En Eggins y Slade(1997): "*a unit which speaker change could occur without turn transfer being seen as an interruption*” (p.186). El movimiento como unidad de análisis busca identificar funciones discursivas. La noción de función discursiva es una derivada de los tipos de intercambio y roles presentes en el lenguaje (NEGOCIACION).
 Estas autoras usan criterios gramaticales (que la clausula sea independiente de cualquier otra clausula) y prosódicos (por ejemplo el silencio al terminar de hablar, entonaciones hacia el final del enunciado) para identificar cuando empieza y termina un movimiento
@@ -237,18 +240,18 @@ En el contexto de un estudio de las prácticas de argumentación colectiva <!--[
 - Reacciona/No reacciona a un movimiento anterior de otro participante.
 
 
-- **Turno de habla** : Contribución individual de un participante en la conversación, delimitada por pausas, interrupciones o marcadores conversacionales. En el análisis de conversaciones (Eggins y Slade), un turno puede contener uno o varios movimientos discursivos.
+- **4.Turno de habla** : Contribución individual de un participante en la conversación, delimitada por pausas, interrupciones o marcadores conversacionales. En el análisis de conversaciones (Eggins y Slade), un turno puede contener uno o varios movimientos discursivos.
 
 >[!EXAMPLE] En el ejemplo anterior los tres movimientos de Patricia son un solo turno de habla
 
-- **Episodio**: Segmento del discurso organizado alrededor de un tópico o tema central, que incluye tanto el contenido proposicional como los procedimientos conversacionales que lo organizan. Un episodio puede contener múltiples turnos y movimientos discursivos, pero comparte una coherencia temática y participativa
+- **5.Episodio**: Segmento del discurso organizado alrededor de un tópico o tema central, que incluye tanto el contenido proposicional como los procedimientos conversacionales que lo organizan. Un episodio puede contener múltiples turnos y movimientos discursivos, pero comparte una coherencia temática y participativa
 
 El episodio se define por su tema central, pero también por cómo los participantes lo abordan (ej.: turnos que introducen, desarrollan o cierran el tema).
 
 >[!EXAMPLE] Personas discutiendo sobre un tiktok que vieron
 
 
-- **Etapa y Fase** : Los género discursivos son definidos por la LSF por una serie de etapas predecibles 
+- **6.Etapa y Fase** : Los género discursivos son definidos por la LSF por una serie de etapas predecibles 
 
 Etapa: Segmento más amplio de un género discursivo (ej.: en una entrevista, las etapas podrían ser "introducción", "desarrollo" y "cierre"). Estas se dan siempre
 Fase: Subsegmento dentro de una etapa, con funciones específicas (ej.: en la etapa "desarrollo", una fase podría ser "presentación de argumentos" o "respuesta a objeciones"). Estas pueden variar
@@ -277,7 +280,8 @@ Una idea que debe guiar toda la comprensión del sistema de COMPROMISO es la sig
 
 Si bien la organización del subsistema de COMPROMISO que presentaremos acá es un poco distinta a la que plantean Martin y White (ya que se introducirán los diversos aportes de Oteiza) esta definición me parece súper esclarecedora de **en qué fijarnos al codificar y analizar COMPROMISO**
 
->[!NOTE] Es una convención en la literatura de la LSF escribir en mayuscula los distintos sistemas ysubsistemas organizados en redes semánticas (VALORACION, COMPROMISO, ACTITUD) para diferenciar cuando se habla de estas en esos términos o en uso ordinario
+>[!NOTE] 
+>Es una convención en la literatura de la LSF escribir en mayuscula los distintos sistemas ysubsistemas organizados en redes semánticas (VALORACION, COMPROMISO, ACTITUD) para diferenciar cuando se habla de estas en esos términos o en uso ordinario
 
 
 Esta es una red semántica super compleja, así que vamos a ir por distintos "niveles": desde los niveles más generales hasta los más específicos.
@@ -368,7 +372,7 @@ b & d & e
 end
 ```
 
-En lo que se dice **¿Hay un reconocimiento de que pude haber una perspectiva distinta a la expresada?**
+En lo que se dice **¿Hay un reconocimiento de que puede haber una perspectiva distinta a la expresada?**
 - En caso de que **NO**: Monoglosia. 
   - La monoglosia se da necesariamente a través de un tipo de voz_a_impl(voz autoral implicita). Esto pues  los otros tipos de voz implican el reconocimiento de forma explicita o implicita de otras voces posibles.
 Clausulas declarativas con fuerte presencia de procesos relacionales, existenciales o materiales. En general cuando algo "se da por sentado" se tata de monoglosia, sin embargo, como se verá más abajo el lenguaje oral complica esto
@@ -402,7 +406,7 @@ Reconoce la contingencialidad de la posiciones del hablante, modalizaciones (pod
 >- "Eventualmente sus ideas se sumarían al plan de gobierno"
 
 
-Cómo se observa en uno de los ejemplos de Contraer, un mismo complejo clausular puede tener varias funciones retóricas juntas. Estas **Micromaniobras** son despliegues al interior de un mismo complejo de distintos recursos de COMPROMISO, y tienen un efecto acumulativo. Es decir, construyenprogresivamente cierta perspectiva
+Cómo se observa en uno de los ejemplos de Contraer, un mismo complejo clausular puede tener varias funciones retóricas juntas. Estas **Micromaniobras** son despliegues al interior de un mismo complejo de distintos recursos de COMPROMISO, y tienen un efecto acumulativo. Es decir, construyen progresivamente cierta perspectiva
 
 
 Los marcadores discursivos cumplen un rol para negociar significados. Existen distintos tipos
@@ -459,10 +463,14 @@ Esto significa que incluso entregar información objetiva en respuesta a alguien
 
 Acá empezamos a desglosar especificamente las funciones heteroglósicas. Es probable que los análisis estadisticos que se hagan con los datos lleguen hasta este nivel de especificidad. Por lo tanto es **muuuuuy importante** que estas queden 100% claras.
 
-Además empezamos a complejizar un poco más la codificación. La sección anterior pudo haber dado la impresión de que basta con que nos fijemos en la cláusula para definir si estamos frente a una monoglosia, hetergolosia:contractiva o heteroglosia:expansiva ¡No!. Recordar que estamos trabajando a un nivel de análisis semántico discursivo, por lo tanto, para entender el tipo de función retórica que se realiza debemos fijarnos como el enunciado conecta con lo que turnos de habla (o movimientos dentro del mismo turno) que vienen antes **¿A qué se está respondiendo?** Algo que puede parecer una señal de acuerdo con alguien en reaelidad puede ser una apertura a considerar una perspectiva nueva, si es que el hablanta hasta entonces se había mantenido en una posición de oposición.
-Esto no quiere decir, que fijarse en elementos lexicogramaticales no sirva para diferenciar entre funciones retóricas. Ayudan y por lo mismo en la sección anterior se señalan un par de recursos, el tema es que no se peude limitar el análisis a eso.
+Además empezamos a complejizar un poco más la codificación. La sección anterior pudo haber dado la impresión de que basta con que nos fijemos en la cláusula para definir si estamos frente a una monoglosia, hetergolosia:contractiva o heteroglosia:expansiva ¡No!. 
 
->[TIP]
+Recordar que estamos trabajando a un nivel de análisis semántico discursivo, por lo tanto, para entender el tipo de función retórica que se realiza debemos fijarnos como el enunciado conecta con lo que turnos de habla (o movimientos dentro del mismo turno) que vienen antes **¿A qué se está respondiendo?** 
+
+Algo que puede parecer una señal de acuerdo con alguien en realidad puede ser una apertura a considerar una perspectiva nueva, si es que el hablante hasta entonces se había mantenido en una posición de oposición.
+Esto no quiere decir, que fijarse en elementos lexicogramaticales no sirva para diferenciar entre funciones retóricas. Ayudan y por lo mismo en la sección anterior se señalan un par de recursos, el tema es que no podemos limitar el análisis a eso.
+
+>[!TIP]
 > LEER EL TEXTO ENTERO ANTES DE EMPEZAR A CODIFICAR
 > Familiarizarse con él y con los hablantes. Esto permite dar una perspectiva global de como ciertos turnos pueden estar conectrados entre sí. Recordar los principios de Linell recien revisados, lo que sucede en una conversación esta conectado. Por lo tanto, qué es contractivo y qué es expansivo va a depender en gran medida de las posiciones que van tomando y como evolucionan en el tiempo.
 
@@ -516,8 +524,8 @@ Implica representar una posicion como dada, o válida que a su vez suprime o des
 - **Heteroglosia:Considerar**
 Esta categoría es la única de expandir.. Por lo que funcionalmente no mucho más que agregar respecto a lo que en la sección pasada se habló de considerar.
 Solo agregar que
-- Algo puede parecer un acuerdo o desacuerdo con otra voz, pero en realidad tratarse de una consideración en la medida que en la secuencia de la interacción se reconoce una apertura a considerar esa otra voz.
-- El uso de preguntas retóricas o abiertas, puede ser indicativo de una "invitación" a otras voces a hacerse presentes
+  - Algo puede parecer un acuerdo o desacuerdo con otra voz, pero en realidad tratarse de una consideración en la medida que en la secuencia de la interacción se reconoce una apertura a considerar esa otra voz.
+  - El uso de preguntas retóricas o abiertas, puede ser indicativo de una "invitación" a otras voces a hacerse presentes
 
 >[!EXAMPLE]
 >- "Pongamos que la ley tiene que ser pareja para todos" -->En el contexto de una discusión con puntos de vista distintos y alguien que intenta dar cabida a puntos de vista distintos que han habido en la discusión
