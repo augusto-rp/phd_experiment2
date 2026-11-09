@@ -402,6 +402,8 @@ Reconoce la contingencialidad de la posiciones del hablante, modalizaciones (pod
 >- "Eventualmente sus ideas se sumarían al plan de gobierno"
 
 
+Cómo se observa en uno de los ejemplos de Contraer, un mismo complejo clausular puede tener varias funciones retóricas juntas. Estas **Micromaniobras** son despliegues al interior de un mismo complejo de distintos recursos de COMPROMISO, y tienen un efecto acumulativo. Es decir, construyenprogresivamente cierta perspectiva
+
 
 Los marcadores discursivos cumplen un rol para negociar significados. Existen distintos tipos
 
@@ -455,7 +457,16 @@ Esto significa que incluso entregar información objetiva en respuesta a alguien
 
 **Nivel 2: DISTINCIÓN FUNDAMENTAL 2** $\rightarrow$ Esta distinción debe quedar 100% clara
 
-Acá empezamos a desglosar especificamente las funciones heteroglósicas. Es problable que los análisis estadisticos que se hagan con los datos lleguen hasta este nivel de especificidad. Por lo tanto es **muuuuuy importante** que estas queden 100% claras.
+Acá empezamos a desglosar especificamente las funciones heteroglósicas. Es probable que los análisis estadisticos que se hagan con los datos lleguen hasta este nivel de especificidad. Por lo tanto es **muuuuuy importante** que estas queden 100% claras.
+
+Además empezamos a complejizar un poco más la codificación. La sección anterior pudo haber dado la impresión de que basta con que nos fijemos en la cláusula para definir si estamos frente a una monoglosia, hetergolosia:contractiva o heteroglosia:expansiva ¡No!. Recordar que estamos trabajando a un nivel de análisis semántico discursivo, por lo tanto, para entender el tipo de función retórica que se realiza debemos fijarnos como el enunciado conecta con lo que turnos de habla (o movimientos dentro del mismo turno) que vienen antes **¿A qué se está respondiendo?** Algo que puede parecer una señal de acuerdo con alguien en reaelidad puede ser una apertura a considerar una perspectiva nueva, si es que el hablanta hasta entonces se había mantenido en una posición de oposición.
+Esto no quiere decir, que fijarse en elementos lexicogramaticales no sirva para diferenciar entre funciones retóricas. Ayudan y por lo mismo en la sección anterior se señalan un par de recursos, el tema es que no se peude limitar el análisis a eso.
+
+>[TIP]
+> LEER EL TEXTO ENTERO ANTES DE EMPEZAR A CODIFICAR
+> Familiarizarse con él y con los hablantes. Esto permite dar una perspectiva global de como ciertos turnos pueden estar conectrados entre sí. Recordar los principios de Linell recien revisados, lo que sucede en una conversación esta conectado. Por lo tanto, qué es contractivo y qué es expansivo va a depender en gran medida de las posiciones que van tomando y como evolucionan en el tiempo.
+
+Habiendo hecho esta breve introducción al segundo nivel analítico. Pasamos ahora a caracterizar en mayor detalle las funciones heteroglósicas.
 
 ```mermaid
 graph LR;
@@ -469,10 +480,61 @@ i[considerar]
 d-->f & g & h
 e--> i
 
-subgraph n_codf 2
+subgraph nivel 2
 f & g & h & i
 end
 ```
+
+- **Heteroglosia:Refutar**
+Implica una oposicion a otra posición, ya sea por un rechazo explicito o una suplantación. Para identificarlas también es importante ver la secuencia, pues puede hacer referencia directa o indirecta a posiciones previamente expresadas.
+El uso de palabras como  "No" y "Pero" suelen ser buenos indicadores de que se trata de una refutación **PERO NO BASARSE EXCLUSIVAMENTE EN ESO**
+
+>[!EXAMPLE]
+>- "Dudo mucho que te metan a un registro nacional de vándalos por un sticker"
+>- "El estado no debería ser una empresa" --->Esta podría ser una proclamación (ver abajo) o una refutación si se esta diciendo en oposición a alguien que planteó esa idea.
+>- "Pero yo prefiero cuidar la privacidad."
+
+- **Heteroglosia:Demandar**
+Formulaciones de obligación que implican un esfuerzo de reducción de las posibilidades del oyente. En las órdenes o demandas la voz autoral o una voz externa propone que el lector ideal o putativo realice una determinada acción con diferentes grados de obligación (debes/te pido/haz), la cual típicamente refleja una posición del mundo o una posición ideológica particular.
+
+
+>[!EXAMPLE]
+>- "Exigimos que la ley sea equitativa"
+>- "El secreto bancario debería poder levantarse con control judicial para investigar delitos graves."
+>- "Vamos a seguir en lo que estabamos" 
+>
+>Ojo como "exigimos" / "debería poder levantarse" / "a seguir" tienen distinta Fuerza. Esto es para lo cual el sistema de MODALIDAD (estato lexicogramatical) y GRADACIÓN (estrato semántico discursivo) sirven. En este manual tocaré brevemente sobre el sistema de GARADACIÓN pero no es foco del análisis en la codificación. 
+
+- **Heteroglosia:Proclamar**
+Implica representar una posicion como dada, o válida que a su vez suprime o desestica otras posiciones alternativas. Estás pueden ser un poco más dificiles de identificar porque no hay un rechazo directo de otra posición, sino que más bien en virtud de lo que comunican reducen las alternativas existentes, disminuyen las posiciones esperadas en conversacion/texto.
+
+>[!EXAMPLE]
+>- "Mis padres dirían que hay que fortalecer las atribuciones"
+>- "Es que la delincuencia igual está súper desatada hoy en día"
+>- "Viéndolo de forma súper práctica, quemar una micro es la peor inversión de la vida"
+
+- **Heteroglosia:Considerar**
+Esta categoría es la única de expandir.. Por lo que funcionalmente no mucho más que agregar respecto a lo que en la sección pasada se habló de considerar.
+Solo agregar que
+- Algo puede parecer un acuerdo o desacuerdo con otra voz, pero en realidad tratarse de una consideración en la medida que en la secuencia de la interacción se reconoce una apertura a considerar esa otra voz.
+- El uso de preguntas retóricas o abiertas, puede ser indicativo de una "invitación" a otras voces a hacerse presentes
+
+>[!EXAMPLE]
+>- "Pongamos que la ley tiene que ser pareja para todos" -->En el contexto de una discusión con puntos de vista distintos y alguien que intenta dar cabida a puntos de vista distintos que han habido en la discusión
+>- "¿Se estará acabando el futuro?""
+>- "¿Cómo agregamos estas ideas?"
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Nivel 3: Modos de refutar y proclamar**
 
