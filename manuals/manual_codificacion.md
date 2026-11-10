@@ -105,7 +105,7 @@ La codificación que haremos está fundamentalmente centrado en el estrato Semá
 >- "Debemos privilegiar el acuerdo" -> Usa voz personal, se entiende que el hablante está incluido en la demanda. Invita a la solidaridad. 
 >- "El acuerdo debe ser privilegiado" -> Acá el foco se vuelve el acuerdo, no el agente que privilegia. La demanda se naturaliza sobre la entidad misma, reduciendo el margen para la disidencia al invisibilizar la agencia humana.
 >
-> En estos ejemplos se repite la idea de una obligación (modalización) con el verbo deber. Sin embargo, las distintas elecciones en el estrato lexicogramatical (cómo se articulan Actor, Meta y Tema) generan diferencias en el estrato semántico-discursivo y en la metafunción interpersonal.
+> En estos ejemplos se repite la idea de una obligación (modulación) con el verbo deber. Sin embargo, las distintas elecciones en el estrato lexicogramatical (cómo se articulan Actor, Meta y Tema) generan diferencias en el estrato semántico-discursivo y en la metafunción interpersonal.
 >
 > Lo que a su vez configura (y es configurado por) contextos distintos. 
 >¿Por qué decimos que: configura y es configurado por? Porque si bien ciertos contextos pueden promover instanciaciones como la primera, siempre puede ser que alguien "elija" la segunda, lo que a su vez puede modificar el tenor de la conversación.
@@ -514,7 +514,7 @@ Formulaciones de obligación que implican un esfuerzo de reducción de las posib
 >Ojo como "exigimos" / "debería poder levantarse" / "a seguir" tienen distinta Fuerza. Esto es para lo cual el sistema de MODALIDAD (estato lexicogramatical) y GRADACIÓN (estrato semántico discursivo) sirven. En este manual tocaré brevemente sobre el sistema de GARADACIÓN pero no es foco del análisis en la codificación. 
 
 - **Heteroglosia:Proclamar**
-Implica representar una posicion como dada, o válida que a su vez suprime o desestica otras posiciones alternativas. Estás pueden ser un poco más dificiles de identificar porque no hay un rechazo directo de otra posición, sino que más bien en virtud de lo que comunican reducen las alternativas existentes, disminuyen las posiciones esperadas en conversacion/texto.
+Implica representar una posicion como dada, o válida que a su vez suprime o desestima otras posiciones alternativas. Estás pueden ser un poco más dificiles de identificar porque no hay un rechazo directo de otra posición, sino que más bien en virtud de lo que comunican reducen las alternativas existentes, disminuyen las posiciones esperadas en conversacion/texto.
 
 >[!EXAMPLE]
 >- "Mis padres dirían que hay que fortalecer las atribuciones"
@@ -522,25 +522,15 @@ Implica representar una posicion como dada, o válida que a su vez suprime o des
 >- "Viéndolo de forma súper práctica, quemar una micro es la peor inversión de la vida"
 
 - **Heteroglosia:Considerar**
-Esta categoría es la única de expandir.. Por lo que funcionalmente no mucho más que agregar respecto a lo que en la sección pasada se habló de considerar.
+Esta categoría es la única de expandir. Por lo que funcionalmente no mucho más que agregar respecto a lo que en la sección pasada se habló de considerar.
 Solo agregar que
   - Algo puede parecer un acuerdo o desacuerdo con otra voz, pero en realidad tratarse de una consideración en la medida que en la secuencia de la interacción se reconoce una apertura a considerar esa otra voz.
-  - El uso de preguntas retóricas o abiertas, puede ser indicativo de una "invitación" a otras voces a hacerse presentes
+  - El uso de preguntas retóricas o abiertas, puede ser indicativo de una "invitación" a otras voces a hacerse presentes (a veces las pregutnas retóricas también pueden ser para refutar)
 
 >[!EXAMPLE]
 >- "Pongamos que la ley tiene que ser pareja para todos" -->En el contexto de una discusión con puntos de vista distintos y alguien que intenta dar cabida a puntos de vista distintos que han habido en la discusión
 >- "¿Se estará acabando el futuro?""
 >- "¿Cómo agregamos estas ideas?"
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -574,10 +564,51 @@ j & k & l & m & n
 end
 ```
 
+- **Heteroglosia:Contraer:Proclamar:Acordar**
+
+
+>[!Example]
+>
+>
+
+- **Heteroglosia:Contraer:Proclamar:Respaldar**
+
+
+>[!Example]
+>
+>
+
+
+- **Heteroglosia:Contraer:Proclamar:Reforzar**
+
+
+>[!Example]
+>
+>
+
+
+- **Heteroglosia:Contraer:Proclamar:Negar**
+
+
+>[!Example]
+>
+>
+
+- **Heteroglosia:Contraer:Refutar:Oponer**
+
+
+>[!Example]
+>
+>
+
+
+
 
 **Nivel 4: Modos de proclamar::acordar y proclamar:reforzar**
 
 Este es el nivel más exhaustivo al que llegaremos. Se entiende si llegado a este punto ya se está medio mareada. Son un nivel de sensibilidad muy alto que permite hacer distinciones finas respecto a modos de estar de acuerdo con otros o de reforzar un punto
+Si bien en la codificación se usaran estas categorías, lo cierto es que para fines estadístincis no es tan terrible si hay errores en estos, siempre y cuando la codificación del nivel 2 este correcta.
+
 
 ```mermaid
 graph LR;
@@ -607,9 +638,45 @@ o & p & q & r
 end
 ```
 
+
+- **Heteroglosia:Contraer:Proclamar:Acordar:Afirmar**
+
+
+>[!Example]
+>
+>
+
+- **Heteroglosia:Contraer:Proclamar:Acordar:Conceder**
+
+
+>[!Example]
+>
+>
+
+
+- **Heteroglosia:Contraer:Proclamar:Pronunciar**
+
+
+>[!Example]
+>
+>
+
+
+- **Heteroglosia:Contraer:Proclamar:Justificar**
+
+
+>[!Example]
+>
+>
+
+
+
+
 **Modelo Completo de Función Retórica**
 
 Dado que hay ciertas funciones que tienen distintos niveles de sensibilidad, para la codificación final se van a usar la categoría "más sensible" para cada función. En total serán un total de 10 categorías de codificación distintas, que están marcadas con negrita en el siguiente gráfico
+Se espera que la codificación sea lo más acertada posible hasta el nivel 2. Es decir, si algo que era afirmar se marca como pronunciar no es tan terrible en tanto ambas son proclamar. Pero si algo que es negar se marca como considerar si es un problema grande
+
 
 ```mermaid
 graph LR;
@@ -676,6 +743,19 @@ En caso que no se vea bien la negrita las categorías a usar son (entre parentes
 
 ## Codificación de VALORACION:Actitud
 
+Si bien se espera que se hayan revisado algunos textos que expliquen el sistema de ACTITUD, voy a realziar un breve punteo de algunas ideas importantes a tener en mente al momento de codificar.
+- La actitud no es un fenómeno aislado, se contruye en relación con otros. Es decir, implica un posicionamiento frente a un hecho, evento, o conducta. Al momento de codificar entonces no basta con solo fijarnos en las palabras que se usan para calificar algo, hay que entender como esas palabras están vinculadas con el contexto más amplio de la interacción que se está llevando a cabo.
+>[!Example] 
+>-"La policia está actuando de forma super agresiva"
+>Para alguien típicamente de izquierda esto puede ser una crítica, pero para alguien que cree que el principal deber del estado es garantizar la seguridad esta frase puede ser indicativa de resolutividad. Por lo tanto, tenemos que ver la relación con el texto circundante.
+
+- Por lo mismo la actitud puede servir para establecer vínculos de afinidad, distancia, o conflicto. Acá la relación de actitud con los análisis de COMPROMISO, son super útiles, pues nos permiten entender como se construye una voz colectiva o propia alineada o desalineada con otros.
+A veces la identificación del tipo de función retórica nos va a ayudar a entender qué tipo de actitud se está realizando. Por lo mismo (y esto es solo basado en mi experiencia) recomiendo siempre codificar primero el sistema de COMPROMISO y despúes el de ACTITUD.
+
+- **LA DISTINCION ENTRE ACTITUD INVOCADA Y ACTITUD ISNCRITA ES FUNDAMENTAL**
+Para profundizar más en esto recomiendo *e n c a r e c i d a m e n t e* leer [DON, 2016](https://link.springer.com/article/10.1186/s40554-016-0033-1) que entrega una serie de recursos muy utiles para identificar actitudes invocadas y sus distintos "grados"
+En la pagina 9 de este texto se presenta una clina de modos de invocacion de actitudes. Que van desde evocacion (que implica señales textuales que "marcan" cierta actitud ) hasta evocación (que implica el uso de elementos experienciales que dan a entender algo).
+
 
 
 
@@ -684,4 +764,3 @@ En caso que no se vea bien la negrita las categorías a usar son (entre parentes
 
 
 
-# Seccion B ----
