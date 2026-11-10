@@ -752,11 +752,42 @@ Si bien se espera que se hayan revisado algunos textos que expliquen el sistema 
 - Por lo mismo la actitud puede servir para establecer vínculos de afinidad, distancia, o conflicto. Acá la relación de actitud con los análisis de COMPROMISO, son super útiles, pues nos permiten entender como se construye una voz colectiva o propia alineada o desalineada con otros.
 A veces la identificación del tipo de función retórica nos va a ayudar a entender qué tipo de actitud se está realizando. Por lo mismo (y esto es solo basado en mi experiencia) recomiendo siempre codificar primero el sistema de COMPROMISO y despúes el de ACTITUD.
 
-- **LA DISTINCION ENTRE ACTITUD INVOCADA Y ACTITUD ISNCRITA ES FUNDAMENTAL**
+- **LA DISTINCION ENTRE ACTITUD INVOCADA Y ACTITUD INSCRITA ES FUNDAMENTAL**
 Para profundizar más en esto recomiendo *e n c a r e c i d a m e n t e* leer [DON, 2016](https://link.springer.com/article/10.1186/s40554-016-0033-1) que entrega una serie de recursos muy utiles para identificar actitudes invocadas y sus distintos "grados"
+
+>[!NOTE] Si bien en la codificación no se hará distintiones entre actitud invocada e inscrita, es importante estar atento a ello pues es común que los desacuerdos se expresen más de forma invocada que inscrita, em especial en contextos en que hay personas con distintas creencias políticas.
+
 En la pagina 9 de este texto se presenta una clina de modos de invocacion de actitudes. Que van desde evocacion (que implica señales textuales que "marcan" cierta actitud ) hasta evocación (que implica el uso de elementos experienciales que dan a entender algo).
 
 ![image of don 2016 invocation cline](don(2016)-invocationcline.jpg)
+
+
+- Recordemos que el subsistema de ACTITUD se divide a su vez en tres
+  -**JUICIO:** Valoración de personas y sus acciones
+  -**AFECTO:** Emociones y disposiciones al valorar algo
+  -**APRECIACION:** Valoración de cosas, proceso o entidades abstractas
+  
+A continuación vamos a describir el modo de codificación de cada uno por separado
+
+>[NOTE]
+> Estas categorías no actuán de forma aislada, sino que se entrelazan en el discurso para construir una actitud. 
+
+### Juicio: 
+
+
+
+
+### Afecto: 
+
+
+
+### Apreciacion: 
+
+
+
+
+
+
 
 
 
