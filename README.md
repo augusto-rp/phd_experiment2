@@ -1,9 +1,9 @@
-This repository will contain files pertaining to the second experiment from mh PhD.
+This repository will contain files pertaining to the second experiment from my PhD.
 
 **As of the moment I'm writing this (november 8, 2026) I'm working on the codification manual that can be viewed in the corresponding folder.**
 
 This repository hosts data, analytical scripts, codification manuals and code for an empirical study investigating how humorous framing (memes) in political messaging influences small-group political conversation dynamics, perspective-taking, and future political engagement.
-Given ethical considerations, no transcription nor audiovisual media created in the project will be uploaded. Ho
+Given ethical considerations, no transcription nor audiovisual media created in the project will be uploade (see note be)
 
 - Political discussions often carry a high perceived seriousness that deters individuals from engaging with opposing viewpoints. This study examines whether introducing humorous cues creates a more playful and open conversational climate, ultimately lowering barriers to political discourse among ideologically diverse individuals.
 
@@ -18,7 +18,7 @@ Analysis of the form and flow of the conversation will also be conducted in orde
 **Repository Contents**
 data/ — Preprocessing, raw codification (without trnascription) and ENA adjacency matrices.
 
->note: I commit to attempt to upload a version of the transcripts with sensitive information removed, to the extent permitted by the relevant research ethics committee. However, I cannot guarantee this. In any case, if it is not possible to include a transcript, the spreadsheets containing the coding data for each experimental record will still be uploaded.
+>note: I commit to attempt to upload a version of the transcripts with sensitive information removed, to the extent permitted by the corresponding research ethics committee. However, I cannot guarantee this. In any case, if it is not possible to include a transcript, the spreadsheets containing the coding data for each experimental record will still be uploaded.
 
 analysis/ — Processed data and code
 
