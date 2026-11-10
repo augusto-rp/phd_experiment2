@@ -756,6 +756,7 @@ A veces la identificación del tipo de función retórica nos va a ayudar a ente
 Para profundizar más en esto recomiendo *e n c a r e c i d a m e n t e* leer [DON, 2016](https://link.springer.com/article/10.1186/s40554-016-0033-1) que entrega una serie de recursos muy utiles para identificar actitudes invocadas y sus distintos "grados"
 En la pagina 9 de este texto se presenta una clina de modos de invocacion de actitudes. Que van desde evocacion (que implica señales textuales que "marcan" cierta actitud ) hasta evocación (que implica el uso de elementos experienciales que dan a entender algo).
 
+![image of don 2016 invocation cline](don(2016)-invocationcline.jpg)
 
 
 
