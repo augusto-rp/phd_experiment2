@@ -201,7 +201,7 @@ Es muy probable que para el análisis de las conversaciones que se hará sea suf
  
 | Proceso 	| Descripcion 	| Participante|Proceso|
 |---|---|---|---|
-|Mental|De pensar, sentir, percibir|Experimentando|Fenómeno|
+|Mental|De pensar, sentir, percibir|Experimentante|Fenómeno|
 |Material|De hacer/ocurrir|Actor|Meta|
 |Existencial|De existir/estar|Existente|-|
 |Conductual|De comportarse|Conductante|Conducta|
@@ -270,6 +270,10 @@ Fase: Subsegmento dentro de una etapa, con funciones específicas (ej.: en la et
 
 ---
 
+# VALORACION
+
+La VALORACION tiene que ver con la negociación de significados entre interlocutores reales o potenciales, de modo que cada enunciado entra en procesos de alineamiento o desalineamiento con otros, lo que nos ayuda a comprender los niveles y tipos de solidaridad ideológica que los autores mantienen con sus posibles lectores u oyentes.
+>Texto Original: Appraisal has to do with the negotiation of meanings among real or potential interlocutors, such that every utterance enters into processes of alignment or misalignment with others, helping us to understand the levels and types of ideological solidarity that authors maintain with their potential readers/listeners. En Schleppegrell & Oteiza (2017), p.457. Del "The Routledge Handbook of Systemic Funcional Linguistics"
 
 ## Codificación de VALORACION:Compromiso
 
@@ -389,7 +393,7 @@ Clausulas declarativas con fuerte presencia de procesos relacionales, existencia
 El uso de lenguaje que busca defender una posición sobre otra es contractiva 
 
 >[!Example]
->- "Dudo mucho que te metan a un registro nacional de vándalos por un sticker" --> voz_a_mnf (voz autoral manifiesta) que reconoce otra opinión pero la refuta
+>- "Un sticker es una falta menor, nadie debería ir al registro por eso"
 >- "Exigimos que la ley sea equitativa" --> voz_a_mnf pero que demanda algo a otro
 >- "Mis padres dirían que hay que fortalecer las atribuciones" --> exv (extravocalizacion) para respalda una idea
 >- "Las leyes se pueden interpretar así, ese es el miedo que tengo " --> inv (No se especifica quien podría interpretar ley) + exv ("que tengo"). Esta complejo clausular reconoce otras voces para justificar su punto de vista
@@ -400,7 +404,7 @@ Reconoce la contingencialidad de la posiciones del hablante, modalizaciones (pod
 
 
 >[!Example]
->- "Encuentro que esa imagen igual tiene un punto re válido"
+>- "Pensandolo bien, esa imagen igual tiene un punto re válido"
 >- "Lo que dices me hace sentido"
 >- "Podríamos agregar la idea de limitar las atribuciones de la policia"
 >- "Eventualmente sus ideas se sumarían al plan de gobierno"
@@ -498,9 +502,10 @@ Implica una oposicion a otra posición, ya sea por un rechazo explicito o una su
 El uso de palabras como  "No" y "Pero" suelen ser buenos indicadores de que se trata de una refutación **PERO NO BASARSE EXCLUSIVAMENTE EN ESO**
 
 >[!EXAMPLE]
->- "Dudo mucho que te metan a un registro nacional de vándalos por un sticker"
->- "El estado no debería ser una empresa" --->Esta podría ser una proclamación (ver abajo) o una refutación si se esta diciendo en oposición a alguien que planteó esa idea.
->- "Pero yo prefiero cuidar la privacidad."
+>- "Eso no va a solucionar nadar"
+>- "El estado no debería ser una empresa" ---> Esta podría ser una proclamación (ver abajo) o una refutación si se esta diciendo en oposición a alguien que planteó esa idea.
+>- "Pero yo prefiero cuidar la privacidad." --> El "pero" es un buen indicador de refutación, ¡pero no siempre es asi! Recordar revisar que viena antes
+>- "Nadie te va a menter preso por pegar un sticker" --> No se reconoce la posibilidad de que así sea. La voz_a_impl se posiciona entonces negando esa otra voz
 
 - **Heteroglosia:Demandar**
 Formulaciones de obligación que implican un esfuerzo de reducción de las posibilidades del oyente. En las órdenes o demandas la voz autoral o una voz externa propone que el lector ideal o putativo realice una determinada acción con diferentes grados de obligación (debes/te pido/haz), la cual típicamente refleja una posición del mundo o una posición ideológica particular.
@@ -526,11 +531,14 @@ Esta categoría es la única de expandir. Por lo que funcionalmente no mucho má
 Solo agregar que
   - Algo puede parecer un acuerdo o desacuerdo con otra voz, pero en realidad tratarse de una consideración en la medida que en la secuencia de la interacción se reconoce una apertura a considerar esa otra voz.
   - El uso de preguntas retóricas o abiertas, puede ser indicativo de una "invitación" a otras voces a hacerse presentes (a veces las pregutnas retóricas también pueden ser para refutar)
+  - Recordar que considerar otras voces **no necesariamente implica acuerdo con ellas** Pero si al menos estar dispuesto a reconocerlas sin necesariamente buscar limitarlas
+
 
 >[!EXAMPLE]
 >- "Pongamos que la ley tiene que ser pareja para todos" -->En el contexto de una discusión con puntos de vista distintos y alguien que intenta dar cabida a puntos de vista distintos que han habido en la discusión
 >- "¿Se estará acabando el futuro?""
->- "¿Cómo agregamos estas ideas?"
+>- "Podríamos agregar la idea de limitar las atribuciones de la policia" --> Invita a considerar ideas anteriores 
+>- "Dudo que te vayan a meter a un registro nacional de vándalos por un sticker" --> Eso podría ser una oposición pero el "Dudo mucho" relativiza (técnicamente se dice "modaliza") la posición en la voz_a_mnf: Esto tiene como resultado que se mantiene abierta la posibilidad de que así sea
 
 
 
@@ -566,41 +574,50 @@ end
 
 - **Heteroglosia:Contraer:Proclamar:Acordar**
 
+De forma explicita se genera un acuerdo con un otro, hay una concurrencia de posiciones. Debe haber al menos dos para que se acuerde algo, pero no necesariamente tiene que estar citado el otro
+En términos de micromaniobras el acuerdo puede preceder oposiciones ("Efectivamente hace calor[acordar], pero lo prefiero al frio [oposicion]")
 
->[!Example]
->
->
+>[!Example] 
+>- "Yo creo que tiene harto sentido, la verdad."
+>- "La imagen igual tiene un punto re válido." --> Dependiendo de lo que venga antes también podría ser un considerar, en caso que se observe que la persona se abre a una perspectiva que antes no tenia en cuenta.
 
 - **Heteroglosia:Contraer:Proclamar:Respaldar**
 
+Implica referencias a fuentes especificadas o no especificadas que sirvan como evidencia para sostener la posicion. Estar atento a verbos procesuales (muestra, evidencia, señalan, apunta a). Se entra en una relación dialógica con aquel(lo) en base a lo cual se respalda cierta posición
 
 >[!Example]
->
->
+>- "Es importante que los carabineros sean respaldados: Mis padres dirían que hay que fortalecer las atribuciones" --->Se extravocaliza voz de padres para servir de respaldo a una idea de participante
+>- "Es que con el gobierno de Boric quedó la sensación de que costaba condenar ciertas cosas" --->Apela a un "sentir general" (inv) durante el gobierno de Boric como evidencia de una afirmación
 
 
 - **Heteroglosia:Contraer:Proclamar:Reforzar**
 
+Pronunciamientos que buscan enfatizar cierta perspectiva. Esta función acentua y explicita el interés en defender un cierto punto de vista, típicamente en oposición a ota posición
+Se diferencia de acordar en tanto en el caso de **reforzar no se trata de generar un acuerdo**, y se diferencia de respaldar  en que **reforzar no hay un imbricamiento entre dos o más voces para sostener dicha posición**
 
 >[!Example]
->
->
+>- "Es que la delincuencia igual está súper desatada hoy en día"" -->El conector "es que" sirve como un reforzador explicativo que busca servir de justificación
+>- "Viéndolo de forma súper práctica, quemar una micro es la peor inversión de la vida" -->"Viendolo de forma super practica" -->Establece un marco conceptual desde el cual lo que se dice hace sentido.
 
 
-- **Heteroglosia:Contraer:Proclamar:Negar**
+- **Heteroglosia:Contraer:Refutar:Negar**
 
+Algo interesante de la negación es que introduce su positivo, es decir si algo se niega es que implicitamente se está reconociendo su contrario (esto es lo que le hace heteroglosico). Algo que no ocurre necesariamente con las afirmaciones
+Esto hace a la negación una categoría muy útil para entender supuestos implícitos.
 
 >[!Example]
->
->
+>"No te van a meter a un registro nacional de vándalos por un sticker" -->Niega la posibilidad de que alguien pueda ingresar al registro nacional de vándalos por pegar un sticker.
+>"El estado no debería ser una empresa"  --> Implicitamente se reconoce que algunos piensan que el estado debería ser una empresa
 
 - **Heteroglosia:Contraer:Refutar:Oponer**
 
+Una posición que toma el lugar de otra, remplaza lo que se esperaría en su lugar . Común que se de con conjunciones y conectivos ("a pesar de que...").
+Puede presentarse en conjunto con negación
 
 >[!Example]
->
->
-
+>"Pero yo prefiero cuidar la privacidad."
+>"El Estado tiene que dar seguridad. Punto. Y castigar al que la rompe." --->Esto en si mismo puede parecer una proclamación, pero si es en respuesta a una oposición distinta esta oponiendo a ella
+>"No sé si el Estado debería ser una empresa [negacion] Marco. Igual tiene un rol de cuidar a la gente. [oposición]" -->Al igual que en ejemplo anterior aca la segun parte se opone a una posición expresada por Marco.
 
 
 
@@ -654,7 +671,7 @@ end
 >
 
 
-- **Heteroglosia:Contraer:Proclamar:Pronunciar**
+- **Heteroglosia:Contraer:Proclamar:Reforzar:Pronunciar**
 
 
 >[!Example]
@@ -662,7 +679,7 @@ end
 >
 
 
-- **Heteroglosia:Contraer:Proclamar:Justificar**
+- **Heteroglosia:Contraer:Proclamar:Reforzar:Justificar**
 
 
 >[!Example]
@@ -743,6 +760,8 @@ En caso que no se vea bien la negrita las categorías a usar son (entre parentes
 
 ## Codificación de VALORACION:Actitud
 
+
+
 Si bien se espera que se hayan revisado algunos textos que expliquen el sistema de ACTITUD, voy a realziar un breve punteo de algunas ideas importantes a tener en mente al momento de codificar.
 - La actitud no es un fenómeno aislado, se contruye en relación con otros. Es decir, implica un posicionamiento frente a un hecho, evento, o conducta. Al momento de codificar entonces no basta con solo fijarnos en las palabras que se usan para calificar algo, hay que entender como esas palabras están vinculadas con el contexto más amplio de la interacción que se está llevando a cabo.
 >[!Example] 
@@ -762,7 +781,8 @@ En la pagina 9 de este texto se presenta una clina de modos de invocacion de act
 ![image of don 2016 invocation cline](don(2016)-invocationcline.jpg)
 
 
-- Recordemos que el subsistema de ACTITUD se divide a su vez en tres
+- Recordemos que el subsistema de ACTITUD se divide a su vez en tres:
+
   -**JUICIO:** Valoración de personas y sus acciones
   -**AFECTO:** Emociones y disposiciones al valorar algo
   -**APRECIACION:** Valoración de cosas, proceso o entidades abstractas
@@ -778,6 +798,44 @@ A continuación vamos a describir el modo de codificación de cada uno por separ
 
 
 ### Afecto: 
+
+nunciados o formulaciones que caracterizan de forma positiva o negativa el carácter aféctivo o disposicional de seres humanos. Se divide en cuatro categorías bipolares
+
+- felicidad/infelicidad:
+- seguridad/inseguridad: sentimientos de paz, ansiedad, temor
+- satisfaccion/insatisfaccion: sentimientos de logro, fracaso, frustracion, exito
+- inclinación/desinclinacion: sentimientos de miedo o deseo
+
+
+Al momento de codificar afecto es importante tener claro que **no por hablar de emociones se está valorando afectivamente algo**.
+>Lo siguiente está en el Capitulo de Thompson(2014) en el libro "Evaluation in Context"
+
+- El uso de lexis emocional al hacer referencia a hechos históricos se trata más de apreciación. Es importante preservar en la categoría de afecto un criterio de Transitividad en que haya un experimentante a quien se le atribuye el proceso afectivo descrito.
+- Así mismo es importante identificar una fuente del afecto. El uso de lexis emocional para describir a alguien no debe ser clasificado de esta manera ("Ella es una persona feliz"), acá se trata más bien e un juiico de estima
+
+En conclusión a lo anterior el autor señala que solo se codifica afecto a aquellos casos en que el habla emocional haga referencia a un afecto dirigido a una relación entre un experimentante y una fuente.
+En sus propias palabras:
+
+>[!NOTE]
+>I would argue that affect should be limited to interactant-sourced directed feeling. Other types of construal of feeling, falling under the broader category of ‘emotion talk’, should be treated as sharing with affect the general characteristic of providing a particular kind of what we might call ‘textual relief’ – adding emotional light and shade to the discourse – for a range of purpose. p.56
+
+Para la codificación que haremos este será el nivel de Actitud más sencillo de codificar.
+
+- **Afecto negativo** (afecto_n)
+>[!EXAMPLE]
+> "Preocupa que se use mal contra la protesta pacífica."
+> "Ese sería el miedo que me da" ---> Ojo como acá el afecto es frente a una situación hipótetica. Esto gramaticalmente se llamada *modo irrealis*
+> "Me parece mal el metro quemado"
+> "Me da ene ansiedad pensar en estar en la calle y que pasen esas cosas"
+
+- **Afecto positivo** (afecto_p)
+>[!EXAMPLE]
+> "Me gustaría ver nuevas regulaciones" -->Irrealis
+> "Ella quedo satisfecha con lo que paso en el senado"
+> "Me da tranquilidad saber que se persiguen a los criminales"
+> "Gabriel quedo contento con su nuevo libro"
+
+En general 
 
 
 
