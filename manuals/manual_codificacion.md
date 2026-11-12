@@ -77,7 +77,7 @@ Tal y como se revisó en los textos un principio básico de la LSF es que el len
 
 ```mermaid
 graph LR
-semantico--->registro
+
 
 subgraph lenguaje
 direction LR;
@@ -96,6 +96,8 @@ tenor
 modo
 
 end
+
+lenguaje-->contexto
 ```
 
 La codificación que haremos está fundamentalmente centrado en el estrato Semántico-Discursivo. Sin embargo, hay elementos que se dan a nivel léxicogramatical que pueden ayudar a entender mejor qué está sucediendo a nivel semántico. Veamos las situientes frases:
