@@ -61,7 +61,7 @@ De este texto es particularmente importante enfocarse en los siguiente
 Acá enfocarse en lo siguiente:
 
 -   Reforzar diferencias entre Actitud, Compromiso y Gradación ahora con ejemplos en español
--   Categorías de apreciación para evaluación de eventos, procesos y situaciones sociales
+-   Categorías de apreciación para evaluación de eventos, procesos y situaciones sociales.
 
 
 ---
@@ -762,6 +762,9 @@ o & p & q & r
 end
 ```
 
+
+### CATEGORÍAS DE CODIFICACIÓN PARA VALORACION:COMPROMISO
+
 En caso que no se vea bien la negrita las categorías a usar son (entre parentesis las sigla que se usará para cada una): 
 - Monoglosia (m) 
 - Negar (rfr_n) 
@@ -775,7 +778,8 @@ En caso que no se vea bien la negrita las categorías a usar son (entre parentes
 - Considerar (cnsdr)
 
 
->[!NOTE] OTROS CASOS DE INTERES DURANTE CODIFICACIÓN
+>[!INFO]
+> OTROS CASOS DE INTERES DURANTE CODIFICACIÓN
 > - Turnos de habla fallidos: Si alguien empieza a hablar y se corta antes de que quede claro al función retórica o valoración  **NO SE CODIFICA**
 > - Muletillas: El uso del lenguaje hablado está lleno de muletillas. Por ejemplo, el uso de "pero" o "igual" al inicio de hablar. Esto puede dar la idea de que hay oposicion o concesión, por lo que es importante saber si tienen esa función o son muletillas
 > - Funciones repetidas: Si un hablante repite la misma función retórica varias veces en el mismo movimiento se codifica una sola vez. EXCEPTO SI hay cambio de tipo de voz en el mismo turno
@@ -806,6 +810,10 @@ Para profundizar más en esto recomiendo *e n c a r e c i d a m e n t e* leer [D
 En la pagina 9 de este texto se presenta una clina de modos de invocacion de actitudes. Que van desde evocacion (que implica señales textuales que "marcan" cierta actitud ) hasta evocación (que implica el uso de elementos experienciales que dan a entender algo).
 
 ![image of don 2016 invocation cline](don(2016)-invocationcline.jpg)
+
+
+>[!TIP]
+> Partir siempre con codificación de evaluaciones inscritas y solo una vez finalizadas estas pasar a registrar las invocadas.
 
 
 - Recordemos que el subsistema de ACTITUD se divide a su vez en tres:
@@ -869,37 +877,83 @@ Sin embargo, el criterio que usaremos, es que cuando se habla de grupos de perso
 Típicamente en los juicios de estima social se trata de comentarios que responden a la normalidad, capacidad o tenacidad de una persona o grupo.
   
 >[!EXAMPLE] Ejemplo de estima social negativa (estimasocial_n)
->- "No sirve de nada salir a protestar"-->Se valora negativamente la capacidad de protestar de tener efectos
->- "Nadie estaría de acuerdo con hacer eso"-->Se valora como anormal una conducta
+>- "No sirve de nada salir a protestar"--> Se valora negativamente la capacidad de protestar de tener efectos
+>- "Nadie estaría de acuerdo con hacer eso"--> Se valora como anormal una conducta
 
 
 >[!EXAMPLE] Ejemplo de estima social positiva (estimasocial_p)
->-"Logramos generar un cambio presionando al gobierno" -->Se pone de relieve capacidad de influencia
->-"No le deberían hacer nada a quien anda marchando piola" --->La conducta de "marchar piola" se valora como Comportamiento aceptable que no merece sanción o reproche de capacidad
+>- "Logramos generar un cambio presionando al gobierno" --> Se pone de relieve capacidad de influencia
+>- "No le deberían hacer nada a quien anda marchando piola" ---> La conducta de "marchar piola" se valora como Comportamiento aceptable que no merece sanción o reproche de capacidad
 
  
 - SANCIÓN SOCIAL: Enunciados o formulaciones que responden de forma positiva o negativa a características de individuos típicamente asociados a la moralidad o fidelidad de sus acciones o creencias. 
-Típicamente en los juicios de sanción social se trata de comentarios que responden a la integridad, honestidad, y moralidad de una persoan o grupo
+Típicamente en los juicios de sanción social se trata de comentarios que responden a la integridad, honestidad, y moralidad de una persona o grupo
 
 
-  -negativa (sancionsocial_n)
-  
->[!EXAMPLE]
+>[!EXAMPLE] Ejemplo de sanción social negativa (sansionsocia_n)
 >- "Los comunistas son unos manipuladores" --->Sancion social engativa sobre la integridad de un grupo de personas en función de su identidad política
 >- "Quemar una micro no tiene nada de "legítima protesta" -->Se cuestiona la integridad moral de la conducta de quemar una micro
 
-
-  -positiva (sancionsocial_p)
   
->[!EXAMPLE]
+>[!EXAMPLE] Ejemplo de sanción social positiva (sansionsocia_p)
 >- "Yo le agregaría que estamos de acuerdo en que el vandalismo duro sí hay que castigarlo firme, para que en la hoja no suene a que lo avalamos" -->voz_a_mnf:pronunciamiento+justificación que busca mostrar que los participantes se están comportando de forma ética (no avalando protesta)
 >- "Yo no voy a firmar nada que valide el vandalismo." --->Similar a lo anterior la negación aquí afirma alineamiento de hablante con un valor de integridad moral desde su perspectiva
 
 
-
-
 ### APRECIACION: 
 
+Se refiere a enunciados o formulaciones que evaluán de forma positiva o negativa productos, procesos y entidades no humanas de origen natural, manufacturado, insitucional o abstracto. En caso que se hable de entes humanos como entes abstractos (por ejemplo "el papa" como símbolo de poder religioso y no como individuo) particular se puede incluir en esta categoría.
+Recordar además que en base a lo señalado en la sección anterior consideramos aquí tambien valoraciones en torno a conductas de grupos humanos en el marco de un orden institucional ("Carabineros actúa de forma desproporcionada" sería Apreciación, mientras que "Ese carabinero actúo de forma desproporcionada sería Juicio)
+
+La nominalización es particularmente desafiante. La nominalización (o sustantivación) es el proceso lingüístico por el cual se transforma una palabra que pertenece a otra categoría gramatical (como un verbo o un adjetivo) en un sustantivo. Por ejemplo decir: "El operativo militar en el territorio ocupado" vuelve una acción (invasión, matanza, control) en un sustantivo "operativo militar"
+
+Cuando un comportamiento es nominalizado esta entre un acción y un producto. Se podría pensar que es una apreciacion o un juicio.
+El criterio de Thompson, 2014 (en Evaluation in Context), es basarse en la lexis, el hecho que se hable de una maenra y no otra es informativo (esta es una orientación paradigmática). Por lo que decir "La pelicula era inteligente", teóricamente se puede descomponer en "La película fue hecha por el director de forma inteligente", pero lo cierto es que no se decidio eso, el peso se puso sobre la pelicula, no el director.
+
+- **REACCION:** Valoraciones en torno al impacto que la entidad tiene sobre hablante o audiencia.
+
+>[!EXAMPLE]
+>- ejemplo de reaccion_p: "Oye, sí, qué cuático eso del segundo panel" -->Esto se vuelve valoración positiva en tanto el texto circundante permtia verificar que se está señalando acuerdo
+>- ejemplo de reaccion_n: ""El primer meme está medio brígido" -->Se menciona la reacción que genera una imagen (es )
+
+- **VALUACION:** Valoraciones en torno al valor estético, práctico o moral que tiene la entidad.
+
+>[!EXAMPLE]
+>- ejemplo de valuacion_p: "Siento que es súper real lo que plantea." --> Se habla sobre el valor de verdad de una imagen "super cierto"
+>- ejemplo de valuacion_n: "No aporta mucho al país ese tipo de películas" --> Se cuestiona el aporte al país de un objeto cultural. 
+
+- **COMPOSICIÓN:** Valoraciones en torno a la estructura del evento/entidad o modo en que este es presentado
+
+>[!EXAMPLE]
+>- ejemplo de composicion_p: "Eso balancea super bien lo que hemos dicho" --> "Ese balancea" hace referencia a la forma en que se presenta una idea
+>- ejemplo de composicion_n: "Igual yo creo que el meme de Bob Esponja exagera la nota para el otro lado" --> Acá no se habla de la reacción que genera, sino de la forma en que está hecho (exageradamente)
+
+
+Además para nuestra codificación utilizaremos 4 categorías más propuestas por Oteizan y Pinuer (2019) que buscan dar mayor precisión *"para el análisis de eventos, situaciones y procesos históricos, sociales, culturales, económicos, u otros, es necesario trabajar con categorías más precisas que permitan explorar las maneras en que se legitiman y deslegitiman eventos, procesos y situaciones en el discurso que no responden a objetos semióticos ni a fenómenos naturales."* (p.216)
+
+- **CONFLICTIVIDAD:** Construcción discursiva de relaciones de poder en un momento histórico más o menos definido temporalmente al interior de una sociedad o entre comunidades sociales en las que se manifiesta tensión, oposición o contradicción de valores, relaciones sociales, sobre liderazgos políticos y económicos u otros, expresados con diferentes grados de radicalidad y/o de violencia.
+
+>[!EXAMPLE]
+>- ejemplo de conflictividad_p: "La lucha armada era la única solución en esos momentos de represión" --> Se valora de foram positiva la lucha armada en función de un contexto de alta conflcitividad (represión). Si se hablara de las consecuencia de esa lucha armada pasaría a ser aprecacion:impacto
+>- ejemplo de conflictividad_n: "Los tribunales son incapaces de lidiar con el problema del narcotráfico por culpa de las garantías a los crimiales" -->Se identifca un conflicto entre lidiar con narcotrafico vs garantías. Hablante señala consecuencias negativas de este conflicto
+
+- **PODER:**Refiere a la representación de eventos o procesos en los que se muestra el ejercicio del poder desde posiciones dominantes o de resistencia en contextos de desigualdad social. Como dimensión de acción de los seres humanos, puede manifestarse en todas las esferas de la vida social.
+
+>[!EXAMPLE]
+>- ejemplo de poder_p: "El Estado tiene que dar seguridad. Punto. Y castigar al que la rompe."--> Este enunciado da cuenta de una visión positiva  del ejercicio de poder del estado sobre la seguridad.
+>- ejemplo de poder_n: "No sé si el Estado debería ser una empresa"--> Acá hay una visión negativa (aunque modalizada) de una forma de ejercicio de poder del estado
+
+- **IMPACTO:** Esta categoría captura en el análisis la importancia o significación que la voz autoral o voz externa atribuye explícita o implicitamente a eventos o procesos históricos, sociales, culturales en el discurso. 
+
+>[!EXAMPLE]
+>- ejemplo de impacto_p: "Gracias a lo que pasó ahora podemos descansar los fines de semana" --> Un hecho histórico es planteado como positivo en función de las consencuencias actuales.
+>- ejemplo de impacto_n: "El estallido social solo sirvio para acabar con la economía" --> Un hecho histórico es es visto como relevante solo en función de una consecuencias negativa.
+
+- **INTEGRIDAD:** Alude a valoraciones de naturaleza moral o legal. Similar a JUICIO:Sancion Social pero aplicado a proceos y eventos históricos, legales, sociales y culturales.
+
+>[!EXAMPLE]
+>- ejemplo de integridad_p: "El Registro de Vándalos es para los que queman y destruyen, no para el que anda marchando piola." --> Se plantea que la ejecución de proyecto de ley se va a realizar de forma igualitaria
+>- ejemplo de integridad_n: "Ese es mi miedo, que al final se use para perseguir a gente que protesta y no a los que realmente hacen daño" --> Se hipotetiza con idea de que ley sea usada de forma antojadiza, rompiendo con principios legales
 
 
 
@@ -912,12 +966,16 @@ a[ACTITUD] --> b[**juicio** sobre conductas] & c[afecto] & d[**apreciacion** sob
 4[integridad] 
 5[impacto]
 r[reacion] 
-ev[evaluacion] 
+ev[valuacion] 
 cm[composicion]
 
 b--> es[**estima social** : normalidad, capacidad y resolutividad] & ss[**sancion social** : veracidad y eticidad]
 
 c-->p[positivo] & n[negativo]
+
+subgraph sh0[nivel 1]
+b & c & d
+end
 
 subgraph sg1[Objetos/ Entes no humanos]
 r & ev & cm
@@ -934,7 +992,38 @@ d---> sg1 & sg2
 >[!NOTE] Recordar que para categoria de Juicio y Apreciacion si codifica sie s negativo (_n) o positivo (_p)
 
 
->[!TIP] OTROS CASOS DE INTERES DURANTE CODIFICACIÓ
+
+### Categorías de codificación en VALORACION:ACTITUD
+
+En caso que no se vea bien la negrita las categorías a usar son (entre parentesis las sigla que se usará para cada una): 
+- estima social positiva (estimasocial_p)
+- estima social negativa (estimasocial_n)
+- sanción social positiva (sancionsocial_p)
+- sanción social negativa (sancionsocial_n)
+- afecto positivo (afecto_p)
+- afecto negativo (afecto_n)
+- reacción positiva (reaccion_p)
+- reacción negativa (reaccion_n)
+- valuación positiva (valuacion_p)
+- valuación negativa (valuacion_n)
+- composición positivo (composicion_p)
+- composición negativa (composicion_n)
+- conflictividad positiva (conflictividad_p)
+- conflictividad negativa (conflictividad_n)
+- poder positivo (poder_p)
+- poder negativo (poder_n)
+- impacto positivo (impacto_p)
+- impacto negativo (impacto_n)
+- integridad positiva (integridad_p)
+- integridad negativo (integridad_n)
+
+>[!NOTE]
+> Puedo imaginar que ver esta tremenda lista de códigos se vea super intimidante
+> Probablemente el análisis estadístico se realice hasta el nivel 1 INCLUYENDO LA DIFERENCIA ENTRE _n y _p. Por lo tanto es importante lograr la mayor precisión posible en diferenciar juicio, afecto y apreciación. Igual se solciitará en la codificación usar las categorías con mayor sensibilidad, pero no es tan terrible confundir apreciacion:impacto con apreciacion:reaccion.
+
+
+>[!INFO]
+> OTROS CASOS DE INTERES DURANTE CODIFICACIÓN
 >- "Solo se codifican aquellas valoraciones sobre la temática del estímulo o la tarea que se realiza".
 > - "Yo soy buena para redactar, si quieren anoto" Es un juicio de estima social por capacidad positivo, pero no se codifica porque es sobre algo que no tiene que ver con la tarea que se realiza.
 >- Para cada codificación de VALORACION hay que marcar la entidad que se está valorando. Esto se explicará en más detalle en el manual técnico sobre la codificación
