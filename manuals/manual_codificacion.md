@@ -232,12 +232,16 @@ En el ejemplo anterior Patricia podría haber dejado de hablar en cualquier mome
 > Hay excepciones para esta reglas. En particular en exlamaciones o saludos
 
 En el contexto de un estudio de las prácticas de argumentación colectiva <!--[Nuñez y Oyadenel (2009)](https://drive.google.com/file/d/1K4vy0euKa1OYVqnJZSKmpBvPPYSTGR8P/view?usp=sharing)--> desarrollan una tipología de 16 movimientos basada en la presencia o no de seis elementos binarios, para la clasificación de funciones en el marco de una tarea conjunta:
-  - Expresa/No expresa acuerdo con una opinión
-  - Introduce/No introduce nueva información a una opinión 
-  - Implica/No implica toma de postura frente a una opinión
-  - Introduce/No introduce nuevo tema en la conversación 
-  - Se orienta/No se orienta al(los) interactuantes
-  - Reacciona/No reacciona a un movimiento anterior de otro participante.
+ 
+ | Criterio | Opcion 1 | Opcion 2 |
+ |---|---|---|
+ |**Acuerdo**| Expresa acuerdo| No expresa acuerdo/ Expresa desacuerdo|
+ |**Nueva información**| Introduce|No introduce|
+ |**Toma Postura**|Toma postura|No toma postura|
+ |**Nuevo tema**|Introduce|No introduce|
+ |**Orientado a otros**|Se orienta|No se orienta a otros|
+ |**Orientacion a turno anterior**|Se orienta|No se orienta|
+ 
 
 
 - **4.Turno de habla** : Contribución individual de un participante en la conversación, delimitada por pausas, interrupciones o marcadores conversacionales. En el análisis de conversaciones (Eggins y Slade), un turno puede contener uno o varios movimientos discursivos.
@@ -389,9 +393,9 @@ Clausulas declarativas con fuerte presencia de procesos relacionales, existencia
 >- "La gente tiene miedo"
 >- "El gobierno no quiere levantar el secreto bancario"
 
-- En caso de que **SI**: Heteroglosia
 
-  - **Heteroglosia Contractiva**: En caso que si, pero esas voces se traigan para refutarlas, demandar algo o como respaldo para fortalecer cierto punto de vista
+
+- **Heteroglosia Contractiva**: En caso que si, pero esas voces se traigan para refutarlas, demandar algo o como respaldo para fortalecer cierto punto de vista
 El uso de lenguaje que busca defender una posición sobre otra es contractiva 
 
 >[!Example]
@@ -401,7 +405,7 @@ El uso de lenguaje que busca defender una posición sobre otra es contractiva
 >- "Las leyes se pueden interpretar así, ese es el miedo que tengo " --> inv (No se especifica quien podría interpretar ley) + exv ("que tengo"). Esta complejo clausular reconoce otras voces para justificar su punto de vista
 >- "El estado no debería ser una empresa"--> el "no debería" reconoce implicitamente que hay perspectivas que lo ven así, y se opone a ellas. Esto lo hace heteroglosico y através de una inv
   
-  - **Heteroglosia Expansiva**: En caso que si, y que esas voces se traigan para considerar su punto de vista *independiente de nivel de acuerdo con ellas*.
+- **Heteroglosia Expansiva**: En caso que si, y que esas voces se traigan para considerar su punto de vista *independiente de nivel de acuerdo con ellas*.
 Implica también la invitación de otras voces,  intentos de integrar la perspectiva o conocimiento del otro a la conversacion
 Reconoce la contingencialidad de la posiciones del hablante, modalizaciones (podría, probablemente, eventualmente) son importantes acá
 
@@ -479,6 +483,7 @@ Esto no quiere decir, que fijarse en elementos lexicogramaticales no sirva para 
 
 >[!TIP]
 > LEER EL TEXTO ENTERO ANTES DE EMPEZAR A CODIFICAR
+>
 > Familiarizarse con él y con los hablantes. Esto permite dar una perspectiva global de como ciertos turnos pueden estar conectrados entre sí. Recordar los principios de Linell recien revisados, lo que sucede en una conversación esta conectado. Por lo tanto, qué es contractivo y qué es expansivo va a depender en gran medida de las posiciones que van tomando y como evolucionan en el tiempo.
 
 Habiendo hecho esta breve introducción al segundo nivel analítico. Pasamos ahora a caracterizar en mayor detalle las funciones heteroglósicas.
@@ -855,35 +860,41 @@ Para la codificación que haremos este será el nivel de Actitud más sencillo d
 
 ### JUICIO: 
 
-- ESTIMA SOCIAL:
-  -negativa (estimasocial_n)
-  
->[!EXAMPLE]
->-
->-
->-
+Valoraciones centradas en las conductas o creencias de individuos específicos o grupos de personas (más o menos especificados). 
 
-  -positiva (estimasocial_p)
+Hay casos límite en que se habla de grupos de personas pero que tienen un comportamietno más similar a una entidad no humana. Por ejemplo: "El estado" o "El gobierno" son instituciones que se pueden evaluar usando un lenguaje típicamente asociado a personas "son corruptos", y por lo tanto entrarían en esta categoría. 
+Sin embargo, el criterio que usaremos, es que cuando se habla de grupos de personas con un orden institucional o reglamentario los trataremos como entidades no humanas. Con este mismo criterio halar de grupso humanos amplios como "la izquierda" o "la derecha" sí entraría en la categoría de juicio, ya que "la izquierda" no tiene en si misma un orden institucional. Por el contrario, si se habla de "La Democracia Cristiana" si estamos frente a una institucionalidad que entrega un orden no sujeto simplemente a la conducta de los individuos.
+
+- ESTIMA SOCIAL: Enunciados o formulaciones que responden de forma positiva o negativa a características de individuos típicamente asociados a habilidades o capacidades que generan admiración o crítica hacia estos. 
+Típicamente en los juicios de estima social se trata de comentarios que responden a la normalidad, capacidad o tenacidad de una persona o grupo.
+  
+>[!EXAMPLE] Ejemplo de estima social negativa (estimasocial_n)
+>- "No sirve de nada salir a protestar"-->Se valora negativamente la capacidad de protestar de tener efectos
+>- "Nadie estaría de acuerdo con hacer eso"-->Se valora como anormal una conducta
+
+
+>[!EXAMPLE] Ejemplo de estima social positiva (estimasocial_p)
+>-"Logramos generar un cambio presionando al gobierno" -->Se pone de relieve capacidad de influencia
+>-"No le deberían hacer nada a quien anda marchando piola" --->La conducta de "marchar piola" se valora como Comportamiento aceptable que no merece sanción o reproche de capacidad
+
  
->[!EXAMPLE]
->-
->-
->-
- 
-- SANCIÓN SOCIAL
+- SANCIÓN SOCIAL: Enunciados o formulaciones que responden de forma positiva o negativa a características de individuos típicamente asociados a la moralidad o fidelidad de sus acciones o creencias. 
+Típicamente en los juicios de sanción social se trata de comentarios que responden a la integridad, honestidad, y moralidad de una persoan o grupo
+
+
   -negativa (sancionsocial_n)
   
 >[!EXAMPLE]
->-
->-
->-
+>- "Los comunistas son unos manipuladores" --->Sancion social engativa sobre la integridad de un grupo de personas en función de su identidad política
+>- "Quemar una micro no tiene nada de "legítima protesta" -->Se cuestiona la integridad moral de la conducta de quemar una micro
+
 
   -positiva (sancionsocial_p)
   
 >[!EXAMPLE]
->-
->-
->-
+>- "Yo le agregaría que estamos de acuerdo en que el vandalismo duro sí hay que castigarlo firme, para que en la hoja no suene a que lo avalamos" -->voz_a_mnf:pronunciamiento+justificación que busca mostrar que los participantes se están comportando de forma ética (no avalando protesta)
+>- "Yo no voy a firmar nada que valide el vandalismo." --->Similar a lo anterior la negación aquí afirma alineamiento de hablante con un valor de integridad moral desde su perspectiva
+
 
 
 
@@ -892,8 +903,43 @@ Para la codificación que haremos este será el nivel de Actitud más sencillo d
 
 
 
+```mermaid
+graph LR;
+a[ACTITUD] --> b[**juicio** sobre conductas] & c[afecto] & d[**apreciacion** sobre eventos/figuras]
+
+1[conflictividad] 
+2[poder]
+4[integridad] 
+5[impacto]
+r[reacion] 
+ev[evaluacion] 
+cm[composicion]
+
+b--> es[**estima social** : normalidad, capacidad y resolutividad] & ss[**sancion social** : veracidad y eticidad]
+
+c-->p[positivo] & n[negativo]
+
+subgraph sg1[Objetos/ Entes no humanos]
+r & ev & cm
+end
+
+subgraph sg2[Procesos Históricos o institucionales]
+1 & 2 & 4 & 5
+end
 
 
+d---> sg1 & sg2
+```
+
+>[!NOTE] Recordar que para categoria de Juicio y Apreciacion si codifica sie s negativo (_n) o positivo (_p)
+
+
+>[!TIP] OTROS CASOS DE INTERES DURANTE CODIFICACIÓ
+>- "Solo se codifican aquellas valoraciones sobre la temática del estímulo o la tarea que se realiza".
+> - "Yo soy buena para redactar, si quieren anoto" Es un juicio de estima social por capacidad positivo, pero no se codifica porque es sobre algo que no tiene que ver con la tarea que se realiza.
+>- Para cada codificación de VALORACION hay que marcar la entidad que se está valorando. Esto se explicará en más detalle en el manual técnico sobre la codificación
+>- Cuando solo se este citando (exv) lo que dice un tercero sobre algo no se codifica VALORACIÓN. Solo se codifica VALORACION cuando se trata de como hablanta evalua cierto tema
+> -"Ya, la primera imagen dice que la izquierda se queja de que la legítima protesta va a ser perseguida, pero que la protesta es buses quemados y destrozos. Jaja, bueno, algo de cierto tiene po."--->En este ejemplo solo el "algo de ceirto tiene po" se codificaria
 
 
 ---
