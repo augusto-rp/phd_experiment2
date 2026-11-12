@@ -232,12 +232,12 @@ En el ejemplo anterior Patricia podría haber dejado de hablar en cualquier mome
 > Hay excepciones para esta reglas. En particular en exlamaciones o saludos
 
 En el contexto de un estudio de las prácticas de argumentación colectiva <!--[Nuñez y Oyadenel (2009)](https://drive.google.com/file/d/1K4vy0euKa1OYVqnJZSKmpBvPPYSTGR8P/view?usp=sharing)--> desarrollan una tipología de 16 movimientos basada en la presencia o no de seis elementos binarios, para la clasificación de funciones en el marco de una tarea conjunta:
-- Expresa/No expresa acuerdo con una opinión
-- Introduce/No introduce nueva información a una opinión 
-- Implica/No implica toma de postura frente a una opinión
-- Introduce/No introduce nuevo tema en la conversación 
-- Se orienta/No se orienta al(los) interactuantes
-- Reacciona/No reacciona a un movimiento anterior de otro participante.
+  - Expresa/No expresa acuerdo con una opinión
+  - Introduce/No introduce nueva información a una opinión 
+  - Implica/No implica toma de postura frente a una opinión
+  - Introduce/No introduce nuevo tema en la conversación 
+  - Se orienta/No se orienta al(los) interactuantes
+  - Reacciona/No reacciona a un movimiento anterior de otro participante.
 
 
 - **4.Turno de habla** : Contribución individual de un participante en la conversación, delimitada por pausas, interrupciones o marcadores conversacionales. En el análisis de conversaciones (Eggins y Slade), un turno puede contener uno o varios movimientos discursivos.
@@ -376,20 +376,22 @@ b & d & e
 end
 ```
 
-En lo que se dice **¿Hay un reconocimiento de que puede haber una perspectiva distinta a la expresada?**
+Para este primer nivel, la identificación de qué tipo de función retórica se estpa realizando se responde con la pregunta
+**¿Hay un reconocimiento de que puede haber una perspectiva distinta a la expresada?**
 - En caso de que **NO**: Monoglosia. 
   - La monoglosia se da necesariamente a través de un tipo de voz_a_impl(voz autoral implicita). Esto pues  los otros tipos de voz implican el reconocimiento de forma explicita o implicita de otras voces posibles.
 Clausulas declarativas con fuerte presencia de procesos relacionales, existenciales o materiales. En general cuando algo "se da por sentado" se tata de monoglosia, sin embargo, como se verá más abajo el lenguaje oral complica esto
 
 >[!Example]
->- "El estado no es una empresa"
+>- "El estado debe proteger"
 >- "La delincuencia igual está súper desatada hoy en día"
 >- "La foto de abajo es una micro quemada"
 >- "La gente tiene miedo"
 >- "El gobierno no quiere levantar el secreto bancario"
 
 - En caso de que **SI**: Heteroglosia
-  - En caso que si, pero esas voces se traigan para refutarlas, demandar algo o como respaldo para fortalecer cierto punto de vista: **Contraer**
+
+  - **Heteroglosia Contractiva**: En caso que si, pero esas voces se traigan para refutarlas, demandar algo o como respaldo para fortalecer cierto punto de vista
 El uso de lenguaje que busca defender una posición sobre otra es contractiva 
 
 >[!Example]
@@ -399,7 +401,8 @@ El uso de lenguaje que busca defender una posición sobre otra es contractiva
 >- "Las leyes se pueden interpretar así, ese es el miedo que tengo " --> inv (No se especifica quien podría interpretar ley) + exv ("que tengo"). Esta complejo clausular reconoce otras voces para justificar su punto de vista
 >- "El estado no debería ser una empresa"--> el "no debería" reconoce implicitamente que hay perspectivas que lo ven así, y se opone a ellas. Esto lo hace heteroglosico y através de una inv
   
-  - En caso que si, y que esas voces se traigan para considerar su punto de vista *independiente de nivel de acuerdo con ellas*: **Expandir**
+  - **Heteroglosia Expansiva**: En caso que si, y que esas voces se traigan para considerar su punto de vista *independiente de nivel de acuerdo con ellas*.
+Implica también la invitación de otras voces,  intentos de integrar la perspectiva o conocimiento del otro a la conversacion
 Reconoce la contingencialidad de la posiciones del hablante, modalizaciones (podría, probablemente, eventualmente) son importantes acá
 
 
@@ -456,7 +459,7 @@ end
 ```
 
 
-**Cada enunciado en si mismo tiene una propiedad de respuesta y de iniciacion. El enunciado responde a y abre a algo al mismo tiempo**
+**Cada enunciado en si mismo tiene una propiedad de respuesta y de iniciacion. El enunciado responde a y abre a algo al mismo tiempo.**
 Esto significa que incluso entregar información objetiva en respuesta a alguien que solicita información es un acto heteroglósico en una conversación. Pues me estoy orientando hacia la voz de ese otro, y entregando información que permite el despliegue posterior de la conversación.
 
 >[!TIP] 
@@ -583,16 +586,17 @@ En términos de micromaniobras el acuerdo puede preceder oposiciones ("Efectivam
 
 - **Heteroglosia:Contraer:Proclamar:Respaldar**
 
-Implica referencias a fuentes especificadas o no especificadas que sirvan como evidencia para sostener la posicion. Estar atento a verbos procesuales (muestra, evidencia, señalan, apunta a). Se entra en una relación dialógica con aquel(lo) en base a lo cual se respalda cierta posición
+Implica referencias a fuentes especificadas o no especificadas que sirvan como evidencia para sostener la posicion. Estar atento a verbos procesuales (muestra, evidencia, señalan, apunta a). Se entra en una relación dialógica con aquel(lo) en base a lo cual se respalda cierta posición. Respaldar no necesariamente se ahce a través de terceros, también puede ser a través de las propias vivencias.
 
 >[!Example]
 >- "Es importante que los carabineros sean respaldados: Mis padres dirían que hay que fortalecer las atribuciones" --->Se extravocaliza voz de padres para servir de respaldo a una idea de participante
 >- "Es que con el gobierno de Boric quedó la sensación de que costaba condenar ciertas cosas" --->Apela a un "sentir general" (inv) durante el gobierno de Boric como evidencia de una afirmación
-
+>- "La evidencia muestra que revisar mochilas no sirve de nada"
+>- "Yo estaba ahí cuando sucedio" --->Clasula existencia que le da fuerza a mi relato pues respalda su veracidad
 
 - **Heteroglosia:Contraer:Proclamar:Reforzar**
 
-Pronunciamientos que buscan enfatizar cierta perspectiva. Esta función acentua y explicita el interés en defender un cierto punto de vista, típicamente en oposición a ota posición
+Pronunciamientos que buscan enfatizar cierta perspectiva. Esta función acentua y explicita el interés en defender un cierto punto de vista, típicamente en oposición a ota posición.
 Se diferencia de acordar en tanto en el caso de **reforzar no se trata de generar un acuerdo**, y se diferencia de respaldar  en que **reforzar no hay un imbricamiento entre dos o más voces para sostener dicha posición**
 
 >[!Example]
@@ -602,22 +606,22 @@ Se diferencia de acordar en tanto en el caso de **reforzar no se trata de genera
 
 - **Heteroglosia:Contraer:Refutar:Negar**
 
-Algo interesante de la negación es que introduce su positivo, es decir si algo se niega es que implicitamente se está reconociendo su contrario (esto es lo que le hace heteroglosico). Algo que no ocurre necesariamente con las afirmaciones
+Algo interesante de la negación es que introduce su positivo, es decir si algo se niega es que implicitamente se está reconociendo su contrario (esto es lo que le hace heteroglosico). Algo que no ocurre necesariamente con las afirmaciones.
 Esto hace a la negación una categoría muy útil para entender supuestos implícitos.
 
 >[!Example]
->"No te van a meter a un registro nacional de vándalos por un sticker" -->Niega la posibilidad de que alguien pueda ingresar al registro nacional de vándalos por pegar un sticker.
->"El estado no debería ser una empresa"  --> Implicitamente se reconoce que algunos piensan que el estado debería ser una empresa
+>- "No te van a meter a un registro nacional de vándalos por un sticker" -->Niega la posibilidad de que alguien pueda ingresar al registro nacional de vándalos por pegar un sticker.
+>- "El estado no debería ser una empresa"  --> Implicitamente se reconoce que algunos piensan que el estado debería ser una empresa
 
 - **Heteroglosia:Contraer:Refutar:Oponer**
 
-Una posición que toma el lugar de otra, remplaza lo que se esperaría en su lugar . Común que se de con conjunciones y conectivos ("a pesar de que...").
+Una posición que toma el lugar de otra, remplaza lo que se esperaría en su lugar . Común que se de con conjunciones y conectivos ("pero", "en cambio", "aunque").
 Puede presentarse en conjunto con negación
 
 >[!Example]
->"Pero yo prefiero cuidar la privacidad."
->"El Estado tiene que dar seguridad. Punto. Y castigar al que la rompe." --->Esto en si mismo puede parecer una proclamación, pero si es en respuesta a una oposición distinta esta oponiendo a ella
->"No sé si el Estado debería ser una empresa [negacion] Marco. Igual tiene un rol de cuidar a la gente. [oposición]" -->Al igual que en ejemplo anterior aca la segun parte se opone a una posición expresada por Marco.
+>- "Pero yo prefiero cuidar la privacidad."
+>- "El Estado tiene que dar seguridad. Punto. Y castigar al que la rompe." --->Esto en si mismo puede parecer una proclamación, pero si es en respuesta a una oposición distinta esta oponiendo a ella
+>- "No sé si el Estado debería ser una empresa [negacion] Marco. Igual tiene un rol de cuidar a la gente. [oposición]" -->Al igual que en ejemplo anterior aca la segun parte se opone a una posición expresada por Marco.
 
 
 
@@ -658,33 +662,44 @@ end
 
 - **Heteroglosia:Contraer:Proclamar:Acordar:Afirmar**
 
+Implica un alineamiento con un otro. Generalmente se realiaz a través de un lenguaje afirmativo ("sí", "efectivamente,", "obvio"). Pero hay casos donde incluso el uso del "no" puede ser un acordar afirmativo (por ejemplo, en tanto muestran alineamiento con comentario previo de alguien más).
+No necesariamente implica una ausencia de desacuerdo , de hecho la afirmación puede ser un recurso retórico para despues debatir (primero generando alineamiento para luego matizarlo, como se observa en el tercer ejemplo).
 
 >[!Example]
->
->
+>- "Sí"
+>- "Yo creo que tiene harto sentido, la verdad."
+>- "No, no toda, obvio." --->En respuesta a alguien que dijo "Tampoco toda la izquierda justifica la quema de buses"
+>- "Ahí estamos de acuerdo [afirmar]. Lo que pasa es que en la práctica uno no sabe cómo lo van a aplicar. [oponer]" -->La afirmación aquí sirve como antecesor para una oposición con el otro
 
 - **Heteroglosia:Contraer:Proclamar:Acordar:Conceder**
 
+La concesión necesariamante implica una comprensión secuencial de los enunciados, de modo que se pueda diferenciar de afirmar o de considerar. Conceder se puede mover entre un alto grado de renuencia ("Igual es cierto que...") hasta bajo ("Tienes razón")
 
 >[!Example]
->
->
+>- "La imagen igual tiene un punto re válido."  -->Seria conceder si antes de eso decirle la persona hablante pensaba algo distinto, y pasa a estar de acuerdo
+>- "Igual es verdad que la justicia en Chile es como medio lenta pa' algunas cosas y rápida pa' otras." --> Esto lo menciona alguien que hasta entonces tenía una posición ambigua frente a una discusión sobre lras prácticas de carabineros y tribunales.
 
 
 - **Heteroglosia:Contraer:Proclamar:Reforzar:Pronunciar**
 
+Son generalmente aserciones que se realizan desde una voz_a_mnf. Dan cuenta del punto de vista del hablante. 
+Debido a que se esperan pocas monoglosias producto de las características del discurso hablando, esta será la categoría que se use para afirmaciones también en voz_a_impl y cuando se describa lo que otros dicen (a no ser que sea un respaldo o justificación).
+También la usaremos para codificar metacomentarios sobre la situación interaccional
 
 >[!Example]
->
->
-
+>- "A los políticos de derecha siempre les baja toda la preocupación por la privacidad cuando se trata de levantar el secreto bancario" 
+>- "Estamos de acuerdo en rechazar la violencia y la destrucción." --> Esto es pronunciamiento y no afirmación si se está enunciado en el marco de imponer una cierta visión conjunta. Algo así como "acá todos estamos de acuerdo con eso, no?"
+>- "La primera imagen dice que la izquierda se queja de que la legítima protesta va a ser perseguida" --> exv: se describe lo que imagen dice sin hacer un juicio sobre eso. Solo se está dando ceutna del pronunciamiento de imagen
+>- "Chuta, aquí se puso tenso" -->Implica un pronunciamiento respecto a cómo hablante percibe situación en la que se encuentra
 
 - **Heteroglosia:Contraer:Proclamar:Reforzar:Justificar**
 
+Implican una consequencialidad. Dado X --> entonces/por lo tanto/de acuerdo/en consecuencia/ --> Y
+Son dialógicas en tanto involucran a la voz textual en una disposicion persuasiva
 
 >[!Example]
->
->
+>- "Viéndolo de forma súper práctica, quemar una micro es la peor inversión de la vida" --> La idea de que es uan mala inversión usa un argumento para justificar un rechazo a la quema de micros. No es solo que se está en cotnra de ella, es que se stá en contra porque es una mala inversión.
+>- "Las leyes se pueden interpretar así, ese es el miedo que tengo" --->El miedo de la hablante [pronunciamiento] está jsutificado por cierta interpretación de la ley
 
 
 
@@ -755,6 +770,13 @@ En caso que no se vea bien la negrita las categorías a usar son (entre parentes
 - Considerar (cnsdr)
 
 
+>[!NOTE] OTROS CASOS DE INTERES DURANTE CODIFICACIÓN
+> - Turnos de habla fallidos: Si alguien empieza a hablar y se corta antes de que quede claro al función retórica o valoración  **NO SE CODIFICA**
+> - Muletillas: El uso del lenguaje hablado está lleno de muletillas. Por ejemplo, el uso de "pero" o "igual" al inicio de hablar. Esto puede dar la idea de que hay oposicion o concesión, por lo que es importante saber si tienen esa función o son muletillas
+> - Funciones repetidas: Si un hablante repite la misma función retórica varias veces en el mismo movimiento se codifica una sola vez. EXCEPTO SI hay cambio de tipo de voz en el mismo turno
+>   - "Pero en esos países después se abusa [voz_a_impl:oponer]. No, yo prefiero cuidar la privacidad. [voz_a_mnf:oponer]" -->Hay cambio de tipo de voz entonces se registrna ambas funciones
+
+
 ---
 
 
@@ -783,8 +805,8 @@ En la pagina 9 de este texto se presenta una clina de modos de invocacion de act
 
 - Recordemos que el subsistema de ACTITUD se divide a su vez en tres:
 
-  -**JUICIO:** Valoración de personas y sus acciones
   -**AFECTO:** Emociones y disposiciones al valorar algo
+  -**JUICIO:** Valoración de personas y sus acciones
   -**APRECIACION:** Valoración de cosas, proceso o entidades abstractas
   
 A continuación vamos a describir el modo de codificación de cada uno por separado
@@ -792,14 +814,9 @@ A continuación vamos a describir el modo de codificación de cada uno por separ
 >[NOTE]
 > Estas categorías no actuán de forma aislada, sino que se entrelazan en el discurso para construir una actitud. 
 
-### Juicio: 
+### AFECTO: 
 
-
-
-
-### Afecto: 
-
-nunciados o formulaciones que caracterizan de forma positiva o negativa el carácter aféctivo o disposicional de seres humanos. Se divide en cuatro categorías bipolares
+Enunciados o formulaciones que caracterizan de forma positiva o negativa el carácter aféctivo o disposicional de seres humanos. Se divide en cuatro categorías bipolares
 
 - felicidad/infelicidad:
 - seguridad/inseguridad: sentimientos de paz, ansiedad, temor
@@ -823,24 +840,54 @@ Para la codificación que haremos este será el nivel de Actitud más sencillo d
 
 - **Afecto negativo** (afecto_n)
 >[!EXAMPLE]
-> "Preocupa que se use mal contra la protesta pacífica."
-> "Ese sería el miedo que me da" ---> Ojo como acá el afecto es frente a una situación hipótetica. Esto gramaticalmente se llamada *modo irrealis*
-> "Me parece mal el metro quemado"
-> "Me da ene ansiedad pensar en estar en la calle y que pasen esas cosas"
+>- "Preocupa que se use mal contra la protesta pacífica."
+>- "Ese sería el miedo que me da" ---> Ojo como acá el afecto es frente a una situación hipótetica. Esto gramaticalmente se llamada *modo irrealis*
+>- "Me parece mal el metro quemado"
+>- "Me da ene ansiedad pensar en estar en la calle y que pasen esas cosas"
 
 - **Afecto positivo** (afecto_p)
 >[!EXAMPLE]
-> "Me gustaría ver nuevas regulaciones" -->Irrealis
-> "Ella quedo satisfecha con lo que paso en el senado"
-> "Me da tranquilidad saber que se persiguen a los criminales"
-> "Gabriel quedo contento con su nuevo libro"
-
-En general 
+>- "Me gustaría ver nuevas regulaciones" -->Irrealis
+>- "Ella quedo satisfecha con lo que paso en el senado"
+>- "Me da tranquilidad saber que se persiguen a los criminales"
+>- "Gabriel quedo contento con su nuevo libro"
 
 
+### JUICIO: 
 
-### Apreciacion: 
+- ESTIMA SOCIAL:
+  -negativa (estimasocial_n)
+  
+>[!EXAMPLE]
+>-
+>-
+>-
 
+  -positiva (estimasocial_p)
+ 
+>[!EXAMPLE]
+>-
+>-
+>-
+ 
+- SANCIÓN SOCIAL
+  -negativa (sancionsocial_n)
+  
+>[!EXAMPLE]
+>-
+>-
+>-
+
+  -positiva (sancionsocial_p)
+  
+>[!EXAMPLE]
+>-
+>-
+>-
+
+
+
+### APRECIACION: 
 
 
 
