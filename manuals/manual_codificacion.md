@@ -701,7 +701,7 @@ También la usaremos para codificar metacomentarios sobre la situación interacc
 
 - **Heteroglosia:Contraer:Proclamar:Reforzar:Justificar**
 
-Implican una consequencialidad. Dado X --> entonces/por lo tanto/de acuerdo/en consecuencia/ --> Y
+Implican una consecuencialidad. Dado X --> entonces/por lo tanto/de acuerdo/en consecuencia/ --> Y
 Son dialógicas en tanto involucran a la voz textual en una disposicion persuasiva
 
 >[!Example]
@@ -798,7 +798,7 @@ En caso que no se vea bien la negrita las categorías a usar son (entre parentes
 Si bien se espera que se hayan revisado algunos textos que expliquen el sistema de ACTITUD, voy a realziar un breve punteo de algunas ideas importantes a tener en mente al momento de codificar.
 - La actitud no es un fenómeno aislado, se contruye en relación con otros. Es decir, implica un posicionamiento frente a un hecho, evento, o conducta. Al momento de codificar entonces no basta con solo fijarnos en las palabras que se usan para calificar algo, hay que entender como esas palabras están vinculadas con el contexto más amplio de la interacción que se está llevando a cabo.
 >[!Example] 
->-"La policia está actuando de forma super agresiva"
+>- "La policia está actuando de forma super agresiva"
 >Para alguien típicamente de izquierda esto puede ser una crítica, pero para alguien que cree que el principal deber del estado es garantizar la seguridad esta frase puede ser indicativa de resolutividad. Por lo tanto, tenemos que ver la relación con el texto circundante.
 
 - Por lo mismo la actitud puede servir para establecer vínculos de afinidad, distancia, o conflicto. Acá la relación de actitud con los análisis de COMPROMISO, son super útiles, pues nos permiten entender como se construye una voz colectiva o propia alineada o desalineada con otros.
@@ -807,7 +807,8 @@ A veces la identificación del tipo de función retórica nos va a ayudar a ente
 - **LA DISTINCION ENTRE ACTITUD INVOCADA Y ACTITUD INSCRITA ES FUNDAMENTAL**
 Para profundizar más en esto recomiendo *e n c a r e c i d a m e n t e* leer [DON, 2016](https://link.springer.com/article/10.1186/s40554-016-0033-1) que entrega una serie de recursos muy utiles para identificar actitudes invocadas y sus distintos "grados"
 
->[!NOTE] Si bien en la codificación no se hará distintiones entre actitud invocada e inscrita, es importante estar atento a ello pues es común que los desacuerdos se expresen más de forma invocada que inscrita, em especial en contextos en que hay personas con distintas creencias políticas.
+>[!NOTE]
+Si bien en la codificación no se hará distintiones entre actitud invocada e inscrita, es importante estar atento a ello pues es común que los desacuerdos se expresen más de forma invocada que inscrita, em especial en contextos en que hay personas con distintas creencias políticas.
 
 En la pagina 9 de este texto se presenta una clina de modos de invocacion de actitudes. Que van desde evocacion (que implica señales textuales que "marcan" cierta actitud ) hasta evocación (que implica el uso de elementos experienciales que dan a entender algo).
 
@@ -826,7 +827,7 @@ En la pagina 9 de este texto se presenta una clina de modos de invocacion de act
   
 A continuación vamos a describir el modo de codificación de cada uno por separado
 
->[NOTE]
+>[!NOTE]
 > Estas categorías no actuán de forma aislada, sino que se entrelazan en el discurso para construir una actitud. 
 
 ### AFECTO: 
@@ -867,6 +868,12 @@ Para la codificación que haremos este será el nivel de Actitud más sencillo d
 >- "Me da tranquilidad saber que se persiguen a los criminales"
 >- "Gabriel quedo contento con su nuevo libro"
 
+Una categoría con la que se puede confundir afecto es con reacción (ver más abajo). Hay enunciaciones que hablan del impacto que generan ciertos entes ("esa iamgen está brigida"). El criterio para identificar entre afecto y reacción es **¿Hay un experimentante en la cláusula?** y **¿Se trata de una clausula mental?**
+Solo en caso de que la respuesta a ambas sea sí se codifica como afecto
+
+- "Me da miedo la imagen [afecto_n]" $\rightarrow$ Hay alguien que experimenta el miedo como proceso mental
+- "La imagen da miedo [reaccion_n]" $\rightarrow$ Si bien en estricto rigor para que una imagen de miedo alguien debe de sentirlo, acá se esta describiendo una propiedad de la imagen (la de dar miedo). El miedo se vuelve una propiedad de la imagen
+
 
 ### JUICIO: 
 
@@ -875,7 +882,7 @@ Valoraciones centradas en las conductas o creencias de individuos específicos o
 Hay casos límite en que se habla de grupos de personas pero que tienen un comportamietno más similar a una entidad no humana. Por ejemplo: "El estado" o "El gobierno" son instituciones que se pueden evaluar usando un lenguaje típicamente asociado a personas "son corruptos", y por lo tanto entrarían en esta categoría. 
 Sin embargo, el criterio que usaremos, es que cuando se habla de grupos de personas con un orden institucional o reglamentario los trataremos como entidades no humanas. Con este mismo criterio halar de grupso humanos amplios como "la izquierda" o "la derecha" sí entraría en la categoría de juicio, ya que "la izquierda" no tiene en si misma un orden institucional. Por el contrario, si se habla de "La Democracia Cristiana" si estamos frente a una institucionalidad que entrega un orden no sujeto simplemente a la conducta de los individuos.
 
-- ESTIMA SOCIAL: Enunciados o formulaciones que responden de forma positiva o negativa a características de individuos típicamente asociados a habilidades o capacidades que generan admiración o crítica hacia estos. 
+- **ESTIMA SOCIAL:** Enunciados o formulaciones que responden de forma positiva o negativa a características de individuos típicamente asociados a habilidades o capacidades que generan admiración o crítica hacia estos. 
 Típicamente en los juicios de estima social se trata de comentarios que responden a la normalidad, capacidad o tenacidad de una persona o grupo.
   
 >[!EXAMPLE] Ejemplo de estima social negativa (estimasocial_n)
@@ -888,7 +895,7 @@ Típicamente en los juicios de estima social se trata de comentarios que respond
 >- "No le deberían hacer nada a quien anda marchando piola" ---> La conducta de "marchar piola" se valora como Comportamiento aceptable que no merece sanción o reproche de capacidad
 
  
-- SANCIÓN SOCIAL: Enunciados o formulaciones que responden de forma positiva o negativa a características de individuos típicamente asociados a la moralidad o fidelidad de sus acciones o creencias. 
+- **SANCIÓN SOCIAL:** Enunciados o formulaciones que responden de forma positiva o negativa a características de individuos típicamente asociados a la moralidad o fidelidad de sus acciones o creencias. 
 Típicamente en los juicios de sanción social se trata de comentarios que responden a la integridad, honestidad, y moralidad de una persona o grupo
 
 
@@ -905,12 +912,12 @@ Típicamente en los juicios de sanción social se trata de comentarios que respo
 ### APRECIACION: 
 
 Se refiere a enunciados o formulaciones que evaluán de forma positiva o negativa productos, procesos y entidades no humanas de origen natural, manufacturado, insitucional o abstracto. En caso que se hable de entes humanos como entes abstractos (por ejemplo "el papa" como símbolo de poder religioso y no como individuo) particular se puede incluir en esta categoría.
+
 Recordar además que en base a lo señalado en la sección anterior consideramos aquí tambien valoraciones en torno a conductas de grupos humanos en el marco de un orden institucional ("Carabineros actúa de forma desproporcionada" sería Apreciación, mientras que "Ese carabinero actúo de forma desproporcionada sería Juicio)
 
 La nominalización es particularmente desafiante. La nominalización (o sustantivación) es el proceso lingüístico por el cual se transforma una palabra que pertenece a otra categoría gramatical (como un verbo o un adjetivo) en un sustantivo. Por ejemplo decir: "El operativo militar en el territorio ocupado" vuelve una acción (invasión, matanza, control) en un sustantivo "operativo militar"
 
-Cuando un comportamiento es nominalizado esta entre un acción y un producto. Se podría pensar que es una apreciacion o un juicio.
-El criterio de Thompson, 2014 (en Evaluation in Context), es basarse en la lexis, el hecho que se hable de una maenra y no otra es informativo (esta es una orientación paradigmática). Por lo que decir "La pelicula era inteligente", teóricamente se puede descomponer en "La película fue hecha por el director de forma inteligente", pero lo cierto es que no se decidio eso, el peso se puso sobre la pelicula, no el director.
+Cuando un comportamiento es nominalizado esta entre un acción y un producto. Se podría pensar que es una apreciacion o un juicio. El criterio de Thompson, 2014 (en Evaluation in Context), es basarse en la lexis, el hecho que se hable de una maenra y no otra es informativo (esta es una orientación paradigmática). Por lo que decir "La pelicula era inteligente", teóricamente se puede descomponer en "La película fue hecha por el director de forma inteligente", pero lo cierto es que no se decidio eso, el peso se puso sobre la pelicula, no el director.
 
 - **REACCION:** Valoraciones en torno al impacto que la entidad tiene sobre hablante o audiencia.
 
@@ -939,7 +946,7 @@ Además para nuestra codificación utilizaremos 4 categorías más propuestas po
 >- ejemplo de conflictividad_p: "La lucha armada era la única solución en esos momentos de represión" --> Se valora de foram positiva la lucha armada en función de un contexto de alta conflcitividad (represión). Si se hablara de las consecuencia de esa lucha armada pasaría a ser aprecacion:impacto
 >- ejemplo de conflictividad_n: "Los tribunales son incapaces de lidiar con el problema del narcotráfico por culpa de las garantías a los crimiales" -->Se identifca un conflicto entre lidiar con narcotrafico vs garantías. Hablante señala consecuencias negativas de este conflicto
 
-- **PODER:**Refiere a la representación de eventos o procesos en los que se muestra el ejercicio del poder desde posiciones dominantes o de resistencia en contextos de desigualdad social. Como dimensión de acción de los seres humanos, puede manifestarse en todas las esferas de la vida social.
+- **PODER:** Refiere a la representación de eventos o procesos en los que se muestra el ejercicio del poder desde posiciones dominantes o de resistencia en contextos de desigualdad social. Como dimensión de acción de los seres humanos, puede manifestarse en todas las esferas de la vida social.
 
 >[!EXAMPLE]
 >- ejemplo de poder_p: "El Estado tiene que dar seguridad. Punto. Y castigar al que la rompe."--> Este enunciado da cuenta de una visión positiva  del ejercicio de poder del estado sobre la seguridad.
@@ -961,19 +968,19 @@ Además para nuestra codificación utilizaremos 4 categorías más propuestas po
 
 ```mermaid
 graph LR;
-a[ACTITUD] --> b[**juicio** sobre conductas] & c[afecto] & d[**apreciacion** sobre eventos/figuras]
+a[ACTITUD] --> b[juicio sobre conductas] & c[afecto] & d[**apreciacion** sobre eventos/figuras]
 
-1[conflictividad] 
-2[poder]
-4[integridad] 
-5[impacto]
-r[reacion] 
-ev[valuacion] 
-cm[composicion]
+1[**conflictividad**] 
+2[**poder**]
+4[**integridad**] 
+5[**impacto**]
+r[**reacion**] 
+ev[**valuacion**] 
+cm[**composicion**]
 
-b--> es[**estima social** : normalidad, capacidad y resolutividad] & ss[**sancion social** : veracidad y eticidad]
+b--> es[**estima social**] & ss[**sancion social**]
 
-c-->p[positivo] & n[negativo]
+c-->p[**afecto positivo**] & n[**afecto negativo**]
 
 subgraph sh0[nivel 1]
 b & c & d
@@ -991,7 +998,8 @@ end
 d---> sg1 & sg2
 ```
 
->[!NOTE] Recordar que para categoria de Juicio y Apreciacion si codifica sie s negativo (_n) o positivo (_p)
+>[!NOTE] Recordar que para categoria de Juicio y Apreciacion si codifica si es negativo (_n) o positivo (_p)
+
 
 
 
@@ -1023,6 +1031,10 @@ En caso que no se vea bien la negrita las categorías a usar son (entre parentes
 > Puedo imaginar que ver esta tremenda lista de códigos se vea super intimidante
 > Probablemente el análisis estadístico se realice hasta el nivel 1 INCLUYENDO LA DIFERENCIA ENTRE _n y _p. Por lo tanto es importante lograr la mayor precisión posible en diferenciar juicio, afecto y apreciación. Igual se solciitará en la codificación usar las categorías con mayor sensibilidad, pero no es tan terrible confundir apreciacion:impacto con apreciacion:reaccion.
 
+Al igual que sucede con las funciones retóricas, múltiples valoraciones pueden convivir en un mismo turno de habla. Es por lo tanto importante capturarlas. 
+
+- "Sí, quemar un bus no se justifica [**sancionsocial_n**], pero me hace ruido [**afecto_n**] que la imagen meta a todos en el mismo saco [**composicion_n**]"
+
 
 >[!INFO]
 > OTROS CASOS DE INTERES DURANTE CODIFICACIÓN
@@ -1031,6 +1043,13 @@ En caso que no se vea bien la negrita las categorías a usar son (entre parentes
 >- Para cada codificación de VALORACION hay que marcar la entidad que se está valorando. Esto se explicará en más detalle en el manual técnico sobre la codificación
 >- Cuando solo se este citando (exv) lo que dice un tercero sobre algo no se codifica VALORACIÓN. Solo se codifica VALORACION cuando se trata de como hablanta evalua cierto tema
 > -"Ya, la primera imagen dice que la izquierda se queja de que la legítima protesta va a ser perseguida, pero que la protesta es buses quemados y destrozos. Jaja, bueno, algo de cierto tiene po."--->En este ejemplo solo el "algo de ceirto tiene po" se codificaria
+
+
+### Regla de 3 pasos para saber si se codifica o no un enunciado con VALORACION
+
+- ¿Pertenece al tema/estímulo? Si es solo gestión del turno o presentación de participantes $\rightarrow$ No se codifica.
+- ¿Es paráfrasis neutral (extravocalizada)? Si solo describe el contenido del estímulo sin tomar postura ni matizar $\rightarrow$ No se codifica. 
+- ¿Hay posicionamiento evaluativo (inscrito o evocado)? Solo si la respuesta es sí, se procede a codificar Actitud.
 
 
 ---
