@@ -57,7 +57,9 @@ De este texto es particularmente importante enfocarse en los siguiente
 -   Diferencias entre actitud evocada e inscrita.
 
 >[!NOTE] 
-> Toda la terminología acá puede marear, más adelante se presentará de una forma un poco mas ordenada. Por lo pronto enfocarse en entender las diferencias entre esos 3 subsistemas.
+>- Toda la terminología acá puede marear, más adelante se presentará de una forma un poco mas ordenada. Por lo pronto enfocarse en entender las diferencias entre esos 3 subsistemas.
+>- Se habrá notado que los nombres de los sistemas y subsistemas están anotados en <span style="font-variant: small-caps;">versalitas</span> (o Small Caps en inglés). Esto se usar para diferenciar el uso de los términos cuando hace referencia a las redes paradgimáticas y cuando se usan con otra función.
+>- Si se está viendo este manual en GITHUB no se notará esta diferencia y los conceptos aparecerán en minúscula pues GITHUB no puede renderizar este formato. 
 
 **4**. "El sistema de <span style="font-variant: small-caps;">valoración</span>  como herramienta teórico-metodológica para el estudio social e ideológico del discurso" de Oteíza y Pinuer (2019) Este artículo lleva lo revisado hasta ahora el español, además de introducir algunas propuestas al sistema de <span style="font-variant: small-caps;">actitud</span> 
 
@@ -83,12 +85,12 @@ Si bien las lecturas anteriores van a realizar una mejor introducción que cualq
 
 Tal y como se revisó en los textos un principio básico de la LSF es que el lenguaje se ordena en distintos estratos de distintos niveles de abstracción, los patrones en cada uno de estos estratos se organiza de la siguiente manera:
 
-![asajsa]
+![Imagen-organizacion-estratos](https://github.com/augusto-rp/phd_experiment2/blob/master/manuals/organizacionestratal.jpg)
 
 La codificación que haremos está fundamentalmente centrado en el estrato Semántico-Discursivo. Sin embargo, hay elementos que se dan a nivel léxicogramatical que pueden ayudar a entender mejor qué está sucediendo a nivel semántico. Veamos las situientes frases:
 
 > [!EXAMPLE] 
->- "Se debe privilegiar el acuerdo" -> Usa el clítico "se"", puede incluir o no al hablante. El actor queda indeterminado y difumina la responsabilidad, proyectando una necesidad normativa/institucional. 
+>- "Se debe privilegiar el acuerdo" -> Usa el clítico "se". El actor queda indeterminado y difumina la responsabilidad, proyectando una necesidad normativa/institucional. 
 >- "Debemos privilegiar el acuerdo" -> Usa voz personal, se entiende que el hablante está incluido en la demanda. Invita a la solidaridad. 
 >- "El acuerdo debe ser privilegiado" -> Acá el foco se vuelve el acuerdo, no el agente que privilegia. La demanda se naturaliza sobre la entidad misma, reduciendo el margen para la disidencia al invisibilizar la agencia humana.
 >
@@ -103,7 +105,9 @@ La codificación que haremos está fundamentalmente centrado en el estrato Semá
 
 **Consideraciones sobre las metafunciones**
 
-La simultaneidad de las metafunciones implica que nunca operan una sola. Sin embargo, no por ello debemos olvidar que cada una de estas aporta a configurar el registro desde "lados" distintos. Cada metafunción se realiza (típicamente) en el registro a través de una variable: la textual en el modo, la interpersonal en el tenor, la ideacional en el campo. Típicamete por que la relación no es mecánica, el tenor también se podría realizar a través de significados textuales e ideacionales
+La simultaneidad de las metafunciones implica que nunca operan una sola. Operan siempre juntas, pero podemos tomar una decisión meotodológica de privilegiar el análisis de una sobre otra en función de lso objetivos de investigación.
+
+Sin embargo, no por ello debemos olvidar que cada una de estas aporta a configurar el registro desde "lados" distintos. Cada metafunción se realiza (típicamente) en el registro a través de una variable: la textual en el modo, la interpersonal en el tenor, la ideacional en el campo. Típicamete por que la relación no es mecánica, el tenor también se podría realizar a través de significados textuales e ideacionales.
 
 - **METAFUNCIÓN TEXTUAL:** Organización del mensaje como texto
 
@@ -121,7 +125,7 @@ La simultaneidad de las metafunciones implica que nunca operan una sola. Sin emb
 **¿De qué manera lo que se dice construye lo que se está haciendo?** $\rightarrow$ Nos puede hablar de diferencias en la metafunción ideacional (y esto a su vez en el campo del registro) 
 >[!EXAMPLE] Es distinto plantear una actividad como una lucha ideológica o como un acto de trolleo, aun cuando el resultado final sea el mismo: cambian los procesos y participantes que se seleccionan para construir el evento.
 
-Si bien podemos separar estas metafunciones, queda claro que se influyen mutuamente. Una persona trolleando en la sección de comentarios de Emol probablemente va a actuar de forma distinta a alguien en la vida real para quién discutir tiene un matiz de lucha ideológica. Un dicho común es que una forma de perder frente a un troll es personalizar los ataques, es decir, el trolleo, por ejemplo, funciona en tanto es capaz de instaurar cierto vínculo interpersonal pero esto también es facilitado de formas distintas según el modo en que se da (es distinto en cara-a-cara que online)
+Si bien podemos separar metodológicamente estas metafunciones, queda claro que se influyen mutuamente. Una persona trolleando en la sección de comentarios de Emol probablemente va a actuar de forma distinta a alguien en la vida real para quién discutir tiene un matiz de lucha ideológica. Un dicho común es que una forma de perder frente a un troll es personalizar los ataques, es decir, el trolleo, por ejemplo, funciona en tanto es capaz de instaurar cierto vínculo interpersonal, pero esto también es facilitado de formas distintas según el modo en que se da (es distinto en cara-a-cara que online)
 
 
 ---
@@ -129,7 +133,8 @@ Si bien podemos separar estas metafunciones, queda claro que se influyen mutuame
 
 **Consideraciones sobre discurso hablado**
 
-La mayoría de lo que se ha visto hasta acá, incluido los textos recomendados, están centrados en el análisis de texto escrito. Sin embargo, lo que vamos a analizar es discurso oral. El discurso oral obviamente tiene diferencias importantes con el escrito, por lo que haré un breve repaso de elementos a tener en cuenta. Al final de esta sección agregaré una serie de textos recomendados y por qué.
+La mayoría de lo que se ha visto hasta acá, incluido los textos recomendados, están centrados en el análisis de texto escrito. Sin embargo, lo que vamos a analizar es discurso oral. El discurso oral obviamente tiene diferencias importantes con el escrito, por lo que haré un breve repaso de elementos a tener en cuenta. Al final de esta sección señalaré un par de textos recomendados si se quiere profundizar en sus particularidades.
+
 Las conversaciones están organizadas en torno a **turnos de habla**  (más adelante veremos otros modos de dividir el discurso). Durante estos turnos las personas adoptar y negocian roles: entregan y solicitando información, bienes y servicios.
 Es decir, hay una dinámica de intercambio entre un turno y otro. En base a esto White y Rose (2007) proponen 13 funciones distintas que se realizan en la interacción entre hablantes (que también podría ser entre dos personas hablándose por chat)
 
@@ -145,11 +150,11 @@ A estas 8 funciones se le pueden sumar 5 más
 - Llamado (¡Oye!) y respuesta a llamado (¿si?)
 - Exclamaciones (¡Ahhh!)
 
-Cada uno de estos actos implica adoptar un rol y asignarle un rol a otro que puede o no puede ser aceptado. Por eso es que a este sistema se le llama sistema de NEGOCIACIÓN.
+Cada uno de estos actos implica adoptar un rol y asignarle un rol a otro que puede o no puede ser aceptado. Por eso es que a este sistema se le llama sistema de <span style="font-variant: small-caps;">negociacion</span>.
 
-Si bien no vamos a codificar dicho sistema, tratar de siempre tener en el fondo de la cabeza la siguiente pregunta **¿Esta persona está entregando o solicitando algo?**
+Si bien no vamos a codificar dicho sistema, tratar de siempre tener en el fondo de la cabeza la siguiente pregunta **¿Esta persona está entregando o solicitando algo (información/bienes/servicios?**
 
-Tipicamente la solicitud se realiza a través de una pregunta, y las afirmaciones a través de aserciones. Estas formas "típicas" se llaman **formas congruentes** ¡Pero no siempre es así!
+Típicamente la solicitud se realiza a través de una pregunta, y las afirmaciones a través de aserciones. Estas formas "típicas" o no metafóricas se llaman **formas congruentes** ¡Pero no siempre es así!
 
 >[!EXAMPLE] Digamos que quiero que alguien me pase una cerveza.
 >La forma congruente seria una solicitud con una pregunta "¿Me pasas una chela?"
@@ -158,31 +163,31 @@ Tipicamente la solicitud se realiza a través de una pregunta, y las afirmacione
 >
 
 En cada uno de estos ejemplos solicito lo mismo, pero el tipo de relación que se establece con el oyente es muy distinta.
-A estas formas de realizar ciertas clausulas de forma no congruente se le llama **metáfora gramatical** y son muy útiles en tanto nos hablan del MODO (MOOD) el cual es el sistema que analiza la metafunción interpersonal a nivel lexiogramatical.
+A estas formas de realizar  claúsulas de forma no congruente se le llama **metáfora gramatical** y son muy útiles en tanto nos hablan del <span style="font-variant: small-caps;">modo</span> (MOOD) el cual es el sistema que analiza la metafunción interpersonal a nivel lexiogramatical.
 
 >[!EXAMPLE] Un caso más extremo al anterior, es como puedo mostrar desacuerdo con alguien incluso a través de preguntas retóricas
-> "No creo que estes en lo correcto" vrs "¿De verdad crees que estás en lo correcto?" 
-> Dependiendo del tono en que se haga la pregunta puede ser que realmente este preguntandole a la otra persona eso, o que en verdad sea una pregunta retórica que dé cuenta de que no le creo
+> "No creo que estés en lo correcto" vrs "¿De verdad crees que estás en lo correcto?" 
+> Dependiendo del tono en que se haga la pregunta puede ser que realmente este preguntándole a la otra persona, o que en realidad sea una pregunta retórica que dé cuenta de que no le creo
 
 
 
->[!INFO] Algunos textos recomendados e caso que se quiera profundizar en esto son
+>[!INFO] Algunos textos recomendados en caso que se quiera profundizar en esto son
 >
 >- Linell - Approaching Dialogue Talk
->- Eggins & Slade - Analysung Casual Conversatio
+>- Eggins & Slade - Analysing Casual Conversations
 >
 
 
 **Modos de división del discurso**
 
-Las presentamos desde el "corte" más pequeño que se puede a una unidad de discurso hastas la más global. Por lo general distintas divisiones están al servicio de análisis estratales distintos. Un análisis semántico discursivo no puede limitarse a un análisis clausular, pero sin duda el análisis clausular puede dar insights de elementos semánticos discursivos. No todas estas categorías son propias de la LSF, pero son utiles para poder entender cómo organizar y dividir el discurso hablado.
+Las presentamos desde el "corte" más pequeño que se puede a una unidad de discurso hastas la más global. Por lo general distintas divisiones están al servicio de análisis estratales distintos. Un análisis semántico discursivo no puede limitarse a un análisis clausular, pero sin duda el análisis clausular puede dar pistas de elementos semánticos discursivos. No todas estas categorías son propias de la LSF, pero son útiles para poder entender cómo organizar y dividir el discurso hablado.
 Es muy probable que para el análisis de las conversaciones que se hará sea suficiente con entender bien la diferencia hasta Turno de habla.
 
 - **1.Cláusula** :  Unidad mínima de análisis en el discurso, con una estructura sintáctica completa (sujeto, predicado, etc.). Es la base de todo lo que viene después
 
 >[!Example] "El gobierno implementó nuevas políticas educativas". Esta es una cláusula material (el sujeto es un actor que realiza una meta).
 
- El sistema de TRANSITIVIDAD está orientado al análisis lexiogramatical que permite diferenciar distintos tipos de cláusulas, en función de las formas de representar la experiencia (función ideacional). Esto no es necesario de aprender para esta codificación pero si es posible recomiendo encarecidamente revisar este texto introductorio de <!--[Quiroz(2023)](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-93032023000100529)--> que explica los componentes de una cláusula
+ El sistema de TRANSITIVIDAD está orientado al análisis lexiogramatical que permite diferenciar distintos tipos de cláusulas, en función de las formas de representar la experiencia (función ideacional). Esto no es necesario de aprender para esta codificación, pero si es posible recomiendo encarecidamente revisar este texto introductorio de <!--[Quiroz(2023)](https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-93032023000100529)--> que explica los componentes de una cláusula
  
  Podemos identificar 6 tipos de procesos 
  
@@ -201,22 +206,22 @@ Es muy probable que para el análisis de las conversaciones que se hará sea suf
  
 - **3.Movimiento discursivo**: Segmento del discurso que cumple una función retórica o discursiva
 
-Se le puede conceptualiar de distintas formas. En Eggins y Slade(1997): "*a unit which speaker change could occur without turn transfer being seen as an interruption*” (p.186). El movimiento como unidad de análisis busca identificar funciones discursivas. La noción de función discursiva es una derivada de los tipos de intercambio y roles presentes en el lenguaje (NEGOCIACION).
-Estas autoras usan criterios gramaticales (que la clausula sea independiente de cualquier otra clausula) y prosódicos (por ejemplo el silencio al terminar de hablar, entonaciones hacia el final del enunciado) para identificar cuando empieza y termina un movimiento
+Se le puede conceptualiar de distintas formas. En Eggins y Slade(1997): "*a unit which speaker change could occur without turn transfer being seen as an interruption*” (p.186). El movimiento como unidad de análisis busca identificar funciones discursivas. La noción de función discursiva es una derivada de los tipos de intercambio y roles presentes en el lenguaje (<span style="font-variant: small-caps;">negociación</span>).
+Estas autoras usan criterios gramaticales (que la claúsula sea independiente de cualquier otra clausula) y prosódicos (por ejemplo el silencio al terminar de hablar, entonaciones hacia el final del enunciado) para identificar cuando empieza y termina un movimiento.
 
 >[!EXAMPLE]
 > - Patricia: Gusto en conocerlos   -> Respuesta a saludo (movimiento 1)
 > - Patricia: Ya, oye, el tiempo corre y tenemos como 4 minutos. Veamos las fotos que nos dejaron acá en la mesa. -> Hace una solicitud (movimiento 2)
 > - Patricia: La primera foto esta medio brígida -->Entrega información (movimiento 3)
 
-En el ejemplo anterior Patricia podría haber dejado de hablar en cualquier momento de los 3 movimientos. Cada uno se entiende por si mismo, cada uno realiza una función distinta
+En el ejemplo anterior Patricia podría haber dejado de hablar en cualquier momento de los 3 movimientos. Cada uno se entiende por si mismo, cada uno realiza una función distinta.
 
 >[!TIP]
 >Un truco para determinar cuando termina un movimiento independiente (al margen que pueda haber mas de una en mismo turno) es agrega "o no?" al final.
 >Esto técnicamente se dice "a move that can be tagged" 
 > - Turno1: "Trajiste el pollo a la casa, o no?"
-> - Turno2: m1 "Ahi esta, o no?" m2"Ahora podemos cocinarlo, o no?"
-> Hay excepciones para esta reglas. En particular en exlamaciones o saludos
+> - Turno2: m1 "Ahi esta, o no?" m2"Ahora podemos hablar de algo distinto al pollo, o no?"
+> Hay excepciones para esta reglas. En particular en exclamaciones o saludos
 
 En el contexto de un estudio de las prácticas de argumentación colectiva <!--[Nuñez y Oyadenel (2009)](https://drive.google.com/file/d/1K4vy0euKa1OYVqnJZSKmpBvPPYSTGR8P/view?usp=sharing)--> desarrollan una tipología de 16 movimientos basada en la presencia o no de seis elementos binarios, para la clasificación de funciones en el marco de una tarea conjunta:
  
@@ -235,7 +240,7 @@ En el contexto de un estudio de las prácticas de argumentación colectiva <!--[
 
 >[!EXAMPLE] En el ejemplo anterior los tres movimientos de Patricia son un solo turno de habla
 
-- **5.Episodio**: Segmento del discurso organizado alrededor de un tópico o tema central, que incluye tanto el contenido proposicional como los procedimientos conversacionales que lo organizan. Un episodio puede contener múltiples turnos y movimientos discursivos, pero comparte una coherencia temática y participativa
+- **5.Episodio**: Segmento del discurso organizado alrededor de un tópico o tema central, que incluye tanto el contenido proposicional como los procedimientos conversacionales que lo organizan. Un episodio puede contener múltiples turnos y movimientos discursivos, pero comparte una coherencia temática y participativa.
 
 El episodio se define por su tema central, pero también por cómo los participantes lo abordan (ej.: turnos que introducen, desarrollan o cierran el tema).
 
@@ -244,14 +249,14 @@ El episodio se define por su tema central, pero también por cómo los participa
 
 - **6.Etapa y Fase** : Los género discursivos son definidos por la LSF por una serie de etapas predecibles 
 
-Etapa: Segmento más amplio de un género discursivo (ej.: en una entrevista, las etapas podrían ser "introducción", "desarrollo" y "cierre"). Estas se dan siempre
-Fase: Subsegmento dentro de una etapa, con funciones específicas (ej.: en la etapa "desarrollo", una fase podría ser "presentación de argumentos" o "respuesta a objeciones"). Estas pueden variar
+Etapa: Segmento más amplio de un género discursivo (ej.: en una entrevista laboral, las etapas podrían ser "presentación", "revisión de competencias" y "negociación"). Estas se dan siempre
+Fase: Subsegmento dentro de una etapa, con funciones específicas (ej.: en la etapa "revisión de competencias", una fase podría ser "revisión de antecedentes" o "tarea para demostrar competencias"). Estas pueden variar
 
 - **Ejemplo Integrado:**
 
   - Cláusula: "El gobierno no ha cumplido sus promesas" (Clausula conductual).
   - Complejo clausular: "El gobierno no ha cumplido sus promesas // porque los fondos se desviaron a otros proyectos" (cláusula principal + subordinada causal).
-  - Movimiento discursivo: El gobierno no ha cumplido sus promesas porque los fondos se desviaron a otros proyectos ---> Justifica la problamacion inicial con argumento del desvio de dinero
+  - Movimiento discursivo: El gobierno no ha cumplido sus promesas porque los fondos se desviaron a otros proyectos ---> Justifica la proClamacion inicial con argumento del desvio de dinero
   - Turno de habla: "A: El gobierno no ha cumplido sus promesas. B: Eso es falso, porque..." (A proclama; B refuta).
   - Episodio: "Críticas a la gestión del gobierno en educación" (incluye varios turnos sobre el tema).
   - Etapa: "Desarrollo de argumentos".
