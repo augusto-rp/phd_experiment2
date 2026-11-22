@@ -1,28 +1,30 @@
 # Manual de Codificacion Estudio 2
 
-Este manual sirve de Introducción a aspectos generales de la Ligüistica Sistémico Funcional (a partir de ahora: LSF) y al sistema de codificación que se usará para el proyecto
+Este manual sirve de Introducción a aspectos generales de la Ligüística Sistémico Funcional (a partir de ahora: LSF) y al sistema de codificación que se usará para el proyecto
 
-Es importante tener en consideración que este manual está orientado a orientar en la codificación de una tesis doctoral de psicología. La LSF es un modelo teórico muchísimo más amplio de lo que aquí se presenta, en este texto solo nos enfocaremos en una pequeñísima parte de este, y en función de los objetivos centrales de la tesis.
+Es importante tener en consideración que este manual está orientado a guiar la codificación de una tesis doctoral de psicología. La LSF es un modelo teórico muchísimo más amplio de lo que aquí se presenta, en este texto solo nos enfocaremos en una pequeñísima parte de este, y en función de los objetivos centrales de la tesis.
 
 >[!NOTE]
-> Los objetivos de esta tesis no serán explicados en detalle, ya que esto puede sesgar la codificación. Es importante que los asistentes no tengan conocimientos de ello, en tanto esto puede empujar a privilegiar ciertos códigos por sobre otros. Para mí como investigador es importante que haya otra persona codificando de modo de tener un punto de comparación,que me permita también revisar criticamente mis propios sesgos en la codificación.
+> Los objetivos de esta tesis no serán explicados en detalle, ya que esto puede sesgar la codificación. Es importante que los asistentes no tengan conocimientos de ello, en tanto esto puede empujar a privilegiar ciertos códigos por sobre otros. Para mí como investigador es importante que haya otra persona codificando de modo de tener un punto de comparación, que me permita también revisar críticamente mis propios sesgos en la codificación.
 
 Objetivo de Aprendizaje:
 
--   Reconocer los principios generales de la Teoría Lingüistica Sistémico Funcional.
--   Identificar las categorías analíticas específicas que serán utilizadas en el sistema de codificación Lingüistica Sistémico Funcional.
--   Describir un texto en base a las categorías análiticas de la Lingüistica Sistémico Funcional.
--   Analizar diferencias entre textos en base a las categorías análiticas de la Lingüistica Sistémico Funcional. 
+-   Reconocer los principios generales de la Teoría Lingüística Sistémico Funcional.
+-   Identificar las categorías analíticas específicas de la Teoría Lingüistica Sistémico Funcional que serán utilizadas en el sistema de codificación. 
+-   Describir un texto en base a las categorías análiticas de la Lingüística Sistémico Funcional.
+-   Analizar diferencias entre textos en base a las categorías análiticas de la Lingüística Sistémico Funcional. 
 
 ## LECTURAS RECOMENDADAS
 
-Hay muchos elementos de la LSF que no van a poder ser abordados en este manual, por lo tanto **leer los siguientes textos introductorios primero.** Están ordenados siguiendo en una secuencia de creciente especificidad. Por lo tanto recomiendo encarecidamente leerlos en el orden que se presentan
+Hay muchos elementos de la LSF que no van a poder ser abordados en este manual, por lo tanto **leer los siguientes textos introductorios primero.** Están ordenados siguiendo en una secuencia de creciente especificidad. Por lo tanto recomiendo encarecidamente leerlos en el orden que se presentan.
 
 Todos los textos que se recomiendan pueden encontrarse <!--[aqui](https://drive.google.com/drive/folders/1pWMyKpSVkNSnL8bgZwiQ9-xjFY5rohHK?usp=sharing)-->
+La única excepción es el Capítulo 1 ("Dialogicidad en Epsñaol: Una mirada desde el subsistema de Compromiso en el marco de la Lingüística Sistémico Funcional") del libro  "Dialogicidad en el Discurso"
+Este se puede encontrar en la Colección General de la Biblioteca de Humanidades de la PUC (código: 401.41 D536d 2026)
 
 >[!NOTE] 
 > Los textos están anotados con mis comentarios, asi que ignoren si ven alguna tontera entre ellos.
-> A lo largo del manuel iré agregando links a textos, no es necesario leer todos. Concentrarse en estos primeros 4. Los otros queda a criterio e interés de cada cual.
+> A lo largo del manuel iré agregando links a textos, no es necesario leer todos. Concentrarse en estos primeros 5. Los otros queda a criterio e interés de cada cual.
 
 
 
@@ -63,6 +65,10 @@ Acá enfocarse en lo siguiente:
 -   Reforzar diferencias entre Actitud, Compromiso y Gradación ahora con ejemplos en español
 -   Categorías de apreciación para evaluación de eventos, procesos y situaciones sociales.
 
+
+**5**. Capítulo 1 del libro "Dialogicidad en el Discurso" de Oteiza & Arancibia (2026)
+
+Este libro sirve como una introducción al sistema de <span style="font-variant: small-caps;">COMPROMISO</span>
 
 ---
 
