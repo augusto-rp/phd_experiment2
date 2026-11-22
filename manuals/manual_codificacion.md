@@ -30,81 +30,60 @@ Este se puede encontrar en la Colección General de la Biblioteca de Humanidades
 
 **1**. Sección 1.3 (pp.20-31) del Capítulo 1 del libro "Halliday's Introduction to Functional Grammar" de Halliday & Matthiesen (2013)
 
-Esta sección introduce los conceptos centrales que se deben entender la LSF para lo que se hablará en el manual. Centrarse especialmente en los siguientes conceptos:
+Esta sección introduce los conceptos centrales que se deben entender de la LSF de los que se hablará a lo largo del manual. Centrarse especialmente en los siguientes conceptos:
 
--   Estratificación: Comprender el lenguaje como un sistema organizado en niveles de abstracción socio-semiótica: Contexto $\leftrightarrow$ Semántica $\leftrightarrow$ Lexicogramática $\leftrightarrow$ Fonología/Grafología8.\
+-   Estratificación: Comprender el lenguaje como un sistema organizado en niveles de abstracción socio-semiótica: Contexto $\leftrightarrow$ Semántico-Discursivo $\leftrightarrow$ Léxico-Gramatical $\leftrightarrow$ Fonología.
 -   Instanciación: Comprender la relación de generalización entre el sistema (el potencial global de significado) y el texto (la elección concreta en uso).
 -   Relaciones paradigmáticas (Sistema vs. Estructura): Comprender el eje del sistema como el conjunto de opciones contrastivas ("lo que se puede decir en lugar de otra cosa") expresadas técnicamente mediante redes sistémicas
 -   Diferencias entre metafunciones: Reforzar sus diferencias, y su simultaneidad metafuncional al interior de una misma cláusula (partes de una oración para quienes no somos lingüistas)
 
-**2**.Capitulo de Introduccion del libro "The Language of Evaluation" de Martin & White (2005). Llegar hasta página 34, justo antes de empezar sección 1.4
+**2**.Capítulo de Introduccion del libro "The Language of Evaluation" de Martin & White (2005). Llegar hasta página 34, justo antes de empezar sección 1.4
 
-Al igual que el anterior es un capítulo introductorio, pero más centrado en un estrado semántico discursivo. Enfocarse en que quede claro lo siguiente:
+Al igual que el anterior es un capítulo introductorio, pero más centrado en el estrato semántico-discursivo. Enfocarse en que quede claro lo siguiente:
 
+-   Estrato Semántico-Discursivo: ¿Qué lo diferencia, que aporta este nivel de análisis?
 -   Revisión de las metafunciones desde la semántica discursiva: Identificar cómo el significado evaluativo trasciende los límites de una sola cláusula para desplegarse prosódicamente a lo largo del texto
 -   Relaciones paradigmáticas en la semántica interpersonal: Comprender cómo los recursos evaluativos se organizan en paradigmas y matrices de elección contrastiva (por ejemplo, valores de probabilidad, orientación subjetiva u objetiva y grados de delicadeza)
--   Estrato Semántico-Discursivo: ¿Qué lo diferencia, que aporta este nivel de análisis?
+
 
 **3**. "Appraisal" de Hood (2019). Capitulo 15 del libro: The Cambridge Handbook of Systemic Functional Linguistics
 
-Se introduce más en detalle en el sistema de VALORACION (appraisal) que será el foco de la codificación y de este manual. Hay elementos que este capítulo no tiene, debido a que no tiene los desarrollos más recientes
+Se introduce más en detalle el sistema de <span style="font-variant: small-caps;">valoracion</span>  (appraisal) que será el foco de la codificación y de este manual. Debido a la fecha de publicación hay desarrollos contemporáneos del sistema de <span style="font-variant: small-caps;">valoración</span> que no aparecen en este texto.
 De este texto es particularmente importante enfocarse en los siguiente
 
--   ¿Qué es el subsistema de Actitud?
--   ¿Qué es el subsistema de Compromiso (engagement)?
--   ¿Qué es el subsistema de Gradación (gradation)?
+-   ¿Qué es el subsistema de <span style="font-variant: small-caps;">actitud</span> ?
+-   ¿Qué es el subsistema de <span style="font-variant: small-caps;">compromiso</span>  (engagement)?
+-   ¿Qué es el subsistema de <span style="font-variant: small-caps;">gradación</span>  (gradation)?
 -   Diferencias entre actitud evocada e inscrita.
 
 >[!NOTE] 
 > Toda la terminología acá puede marear, más adelante se presentará de una forma un poco mas ordenada. Por lo pronto enfocarse en entender las diferencias entre esos 3 subsistemas.
 
-**4**. "El sistema de valoración como herramienta teórico-metodológica para el estudio social e ideológico del discurso" de Oteíza y Pinuer (2019) Este artículo lleva lo revisado hasta ahora el español, además de introducir algunas propuestas al sistema de actitud
+**4**. "El sistema de <span style="font-variant: small-caps;">valoración</span>  como herramienta teórico-metodológica para el estudio social e ideológico del discurso" de Oteíza y Pinuer (2019) Este artículo lleva lo revisado hasta ahora el español, además de introducir algunas propuestas al sistema de <span style="font-variant: small-caps;">actitud</span> 
 
 Acá enfocarse en lo siguiente:
 
--   Reforzar diferencias entre Actitud, Compromiso y Gradación ahora con ejemplos en español
+-   Reforzar diferencias entre <span style="font-variant: small-caps;">actitud</span> , <span style="font-variant: small-caps;">compromiso</span> , <span style="font-variant: small-caps;">gradación</span>  ahora con ejemplos en español
 -   Categorías de apreciación para evaluación de eventos, procesos y situaciones sociales.
 
 
 **5**. Capítulo 1 del libro "Dialogicidad en el Discurso" de Oteiza & Arancibia (2026)
 
-Este libro sirve como una introducción al sistema de <span style="font-variant: small-caps;">COMPROMISO</span>
+Este libro sirve como una introducción al sistema de <span style="font-variant: small-caps;">compromiso</span>
+Además permite reforzar en términos generales todos los conceptos revisados hasta ahora.
 
 ---
 
 
 ## TEORIA
 
-Si bien las lecturas anteriores van a aportar una mejor introducción a cualquier cosa que yo pueda hacer, hay algunas cosas que me interesa reforzar en tanto van a ser importantes de tener en mente para entender la codificación que se hará. Además se agregarán algunos otros antecedentes teóricos que no están incluidos en las lecturas anteriores, pero que aportan información adicional para entender algunas particularidades del discurso hablado.
+Si bien las lecturas anteriores van a realizar una mejor introducción que cualquiera que yo pueda hacer, hay algunas cosas que me interesa reforzar en tanto van a ser importantes de tener en mente para entender la codificación que se hará. Además se agregarán algunos otros antecedentes teóricos que no están incluidos en las lecturas anteriores, pero que aportan información adicional para entender algunas particularidades del discurso hablado.
 
 **Consideracciones importantes sobre estratificación**
 
 Tal y como se revisó en los textos un principio básico de la LSF es que el lenguaje se ordena en distintos estratos de distintos niveles de abstracción, los patrones en cada uno de estos estratos se organiza de la siguiente manera:
 
-```mermaid
-graph LR
-
-
-subgraph lenguaje
-direction LR;
-fonético--->lexico-gramatical--->semantico-discursivo
-end
-
-subgraph contexto
-direction LR;
-registro--->género
-end
-
-subgraph registro
-direction TB;
-campo
-tenor
-modo
-
-end
-
-lenguaje-->contexto
-```
+![asajsa]
 
 La codificación que haremos está fundamentalmente centrado en el estrato Semántico-Discursivo. Sin embargo, hay elementos que se dan a nivel léxicogramatical que pueden ayudar a entender mejor qué está sucediendo a nivel semántico. Veamos las situientes frases:
 
