@@ -266,38 +266,41 @@ Fase: Subsegmento dentro de una etapa, con funciones específicas (ej.: en la et
 
 ---
 
-# VALORACION
+# VALORACIÓN
 
-La VALORACION tiene que ver con la negociación de significados entre interlocutores reales o potenciales, de modo que cada enunciado entra en procesos de alineamiento o desalineamiento con otros, lo que nos ayuda a comprender los niveles y tipos de solidaridad ideológica que los autores mantienen con sus posibles lectores u oyentes.
->Texto Original: Appraisal has to do with the negotiation of meanings among real or potential interlocutors, such that every utterance enters into processes of alignment or misalignment with others, helping us to understand the levels and types of ideological solidarity that authors maintain with their potential readers/listeners. En Schleppegrell & Oteiza (2017), p.457. Del "The Routledge Handbook of Systemic Funcional Linguistics"
+La <span style="font-variant: small-caps;">valoración</span> tiene que ver con la negociación de significados entre interlocutores reales o potenciales, de modo que cada enunciado entra en procesos de alineamiento o desalineamiento con otros. Esto ayuda a comprender los niveles y tipos de solidaridad ideológica que los autores mantienen con sus posibles lectores u oyentes.
+>Texto Original: <span style="font-variant: small-caps;">appraisal</span> has to do with the negotiation of meanings among real or potential interlocutors, such that every utterance enters into processes of alignment or misalignment with others, helping us to understand the levels and types of ideological solidarity that authors maintain with their potential readers/listeners. En Schleppegrell & Oteiza (2017), p.457. Del "The Routledge Handbook of Systemic Funcional Linguistics"
 
 ## Codificación de VALORACION:Compromiso
 
-Una idea que debe guiar toda la comprensión del sistema de COMPROMISO es la siguiente cita de <!--[Martin & White (2005), p.94](https://drive.google.com/drive/folders/1pWMyKpSVkNSnL8bgZwiQ9-xjFY5rohHK?usp=sharing)-->
+Una idea que debe guiar toda la comprensión del sistema de <span style="font-variant: small-caps;">compromiso</span> es la siguiente cita de <!--[Martin & White (2005), p.94](https://drive.google.com/drive/folders/1pWMyKpSVkNSnL8bgZwiQ9-xjFY5rohHK?usp=sharing)-->
 
->[!QUOTE] " El marco agrupa juntas bajo el titular de "Compromiso" todas esas locuciones que proveen los medios para que la voz autorial se posicione a sí misma en relación con otras voces, y que así se ‘comprometa’ con ellas y con las posiciones alternativas construidas como tomando parte en el contexto comunicativo" 
-> En el original: "The framework groups together under the heading of ‘engagement’ all those locutions which provide the means for the authorial voice to position itself with respect to, and hence to ‘engage’ with, the other voices and alternative positions con- strued as being in play in the current communicative contex""
+>[!QUOTE] " El marco agrupa juntas bajo el titular de <span style="font-variant: small-caps;">compromiso</span> todas esas locuciones que proveen los medios para que la voz autorial se posicione a sí misma en relación con otras voces, y que así se ‘comprometa’ con ellas y con las posiciones alternativas construidas como tomando parte en el contexto comunicativo" 
+> En el original: "The framework groups together under the heading of <span style="font-variant: small-caps;">engagement</span> all those locutions which provide the means for the authorial voice to position itself with respect to, and hence to ‘engage’ with, the other voices and alternative positions con- strued as being in play in the current communicative contex""
 
-Si bien la organización del subsistema de COMPROMISO que presentaremos acá es un poco distinta a la que plantean Martin y White (ya que se introducirán los diversos aportes de Oteiza) esta definición me parece súper esclarecedora de **en qué fijarnos al codificar y analizar COMPROMISO**
-
->[!NOTE] 
->Es una convención en la literatura de la LSF escribir en mayuscula los distintos sistemas ysubsistemas organizados en redes semánticas (VALORACION, COMPROMISO, ACTITUD) para diferenciar cuando se habla de estas en esos términos o en uso ordinario
+Si bien la organización del subsistema de <span style="font-variant: small-caps;">compromiso</span> que presentaremos acá es un poco distinta a la que plantean Martin y White (ya que se introducirán los diversos aportes de Oteiza) esta definición me parece súper esclarecedora de **¿ En qué fijarnos al codificar y analizar <span style="font-variant: small-caps;">compromiso</span> ?**
 
 
 Esta es una red semántica super compleja, así que vamos a ir por distintos "niveles": desde los niveles más generales hasta los más específicos.
 
-Primero vamos a ver **Tipo de Voz** y luego veremos las distintas **Funciones Retóricas** que este tipo de voces puces realizar
+Primero vamos a ver **Tipo de Voz** y luego veremos las distintas **Funciones Retóricas** que este tipo de voces puede realizar
+
+Tipo de Voz y Función Retórica son dos dimensiones de análisis del sistema de <span style="font-variant: small-caps;">compromiso</span> . Caracterizan distintos aspectos de las locuciones de los hablantes, por lo que la decisión de analizar una y no otra corresponde solamente a deciciones metodológicas en función de los objetivos.
+Cómo resulta evidente en el texto de Oteiza y Arancibia (2026) hay otras dimensiones de análisis tales como Naturaleza y Medicación. Pero no nos enfocaremos en ellas.
 
 ```mermaid
 graph LR;
-a[COMPROMISO] --> b[Tipo de voz] & c[Función Retorica]
+COMPROMISO
+a@{ shape: comment, label: "tipo de voz"} 
+b@{ shape: comment, label: "funcion retórica"} 
+COMPROMISO---a & b
 ```
 
 ### Tipo de Voz
 
-Esta es una categoría para el análisis de COMPROMISO que propone <!--[Oteiza, 2026](https://drive.google.com/file/d/1oxj9yBCrtPzcMaUxexByoQzIGHEUIK88/view?usp=drive_link)-->. Tiene que ver con (valga la redundancia) el tipo de voz que se utiliza para comunicar algo: **la fuente y grado de especificación de su origen**. 
+Esta es una categoría para el análisis de <span style="font-variant: small-caps;">compromiso</span> que propone <!--[Oteiza, 2026](https://drive.google.com/file/d/1oxj9yBCrtPzcMaUxexByoQzIGHEUIK88/view?usp=drive_link)-->. Tiene que ver con (valga la redundancia) el tipo de voz que se utiliza para comunicar algo: **la fuente y grado de especificación de su origen**. 
 
-A veces "traemos" la voz de otras personas para citar una idea, para apoyarnos en ellas, para criticarlas. Pero ese "traer otras voces" puede hacerse reconociendola explícitamente, o haciendola pasar como una "voz de la razón". También a veces no citamos a nadie, y hablamos de nuestra opinión tratandola de hacerla pasar por la verdad, o explicitando que es "nuestra opinión". Todos estos son tipos de voces distintas Y las diferencias entre los tipos de voz usadas pueden ayudarnos a entender mejor **qué intentamos hacer con las voces que insertamos en nuestro hablar**.
+A veces "traemos" la voz de otras personas para citar una idea, para apoyarnos en ellas, para criticarlas. Pero ese "traer otras voces" puede hacerse reconociendola explícitamente, o haciendola pasar como una "voz de la razón". También a veces no citamos a nadie, y hablamos de nuestra opinión tratándola de hacerla pasar por la verdad, o explícitando que es "nuestra opinión". Todos estos son tipos de voces distintas Y las diferencias entre los tipos de voz usadas pueden ayudarnos a entender mejor **qué intentamos hacer con las voces que insertamos en nuestro hablar**.
 
 Hay 4 tipos de voz que codificaremos (entre paréntesis la sigla que se usará en su codificación) 
 
@@ -313,8 +316,8 @@ Habiendo dicho lo anterior, los enunciados que quieren parecer objetivos típica
 
 - Voz autoral Manifiesta (voz_a_mnf) 
 
-El autor (o autores) de la enunciación es identificable por distintos tipos de marcadores conversacionales ("personalmente", "en mi opinion"), conjugaciones verbales y otros recursos (vb. uso del "yo")  que ponen de manifiesto al subejtividad de quien realiza el enunciado.  Este mismo tipo de manifestación de la voz autora no necesariamente tiene que ser singular, también puede plurarizarse siempre que incluya al hablante
-La risa también la tomaremos como un indicador de voz autoral manifiesta en tanto acentua una reacción subjetiva del hablante frente a lo que dice.
+El autor (o autores) de la enunciación es identificable por distintos tipos de marcadores conversacionales ("personalmente", "en mi opinión"), conjugaciones verbales y otros recursos (vb. uso del "yo")  que ponen de manifiesto la subjetividad de quien realiza el enunciado.  Este mismo tipo de manifestación de la voz autoral no necesariamente tiene que ser singular, también puede plurarizarse siempre que incluya al hablante
+La risa también la tomaremos como un indicador de voz autoral manifiesta en tanto acentúa una reacción subjetiva del hablante frente a lo que dice.
 
 >[!EXAMPLE]
 > - "A mi juicio quemar una micro no es "legítima protesta", es vandalismo puro y duro" -->"A mi juicio" localiza el texto como una propiedad del hablante específico. La valoración engativa es idéntica al caso anterior, pero al plantearlo com "a mi juicio" se especifica como una opinión específica del hablante particular
@@ -322,24 +325,23 @@ La risa también la tomaremos como un indicador de voz autoral manifiesta en tan
 
 - Extravocalización (exv) 
 
-El autor (o autores) son identificados, es decir, **el enunciado es atribuido a un tercero** (que puedo ser yo mismo) que puede ser humano o cosa. Así mismo ese tercero a quién se le atribuye la enunciación puede variar en su grado de especificidad (puede ser Manuel Francisco Antonio Julián Montt Torres o simplemente "la gente"). Siempre que se adjudique una acción a un personaje (independiente del grado de especificación) será extravocalización.
+El autor (o autores) son identificados, es decir, **el enunciado es atribuido a un tercero** que puede ser humano (que puedo ser yo mismo)o cosa. Así mismo ese tercero a quién se le atribuye la enunciación puede variar en su grado de especificidad (puede ser Manuel Francisco Antonio Julián Montt Torres o simplemente "la gente"). Siempre que se adjudique una acción a un personaje (independiente del grado de especificación) será extravocalización.
 Un caso que puede pareceer contraintuitivo es el uso del "nadie". Por ejmplo: "Nadie diría ....X" Esto también es extravocalización, en tanto el nadie indica que se le esta atribuyendo a todo mundo una oposicion contraria a lo que se afirma
 
 
 >[!EXAMPLE]
->
 >- "De acuerdo a la ley quemar una micro no es "legítima" protesta, es vandalismo puro y duro" --> Acá la aseveración es "lo que dice la ley". Es la ley quien habla, no yo.
 >- "La gente piensa que quemar una micro no es "legítima" protesta, es vandalismo puro y duro" --> Acá la aseveración es "la gente". Recurso muy útil para construir retóricamente "el sentido común"
->- "En ese momento yo te habría dicho que quemar una micro no es "legítima" protesta, es vandalismo puro y duro " --> Acá hay una autocitación, me trato a mi mismo como un tercero desde el cual viene el enunciado
+>- "En ese momento yo te habría dicho que quemar una micro no es "legítima" protesta, es vandalismo puro y duro " --> Acá hay una autocitación, me trato a mí mismo como un tercero desde el cual viene el enunciado
 
 - Intravocalizacion (inv) 
 
 Como su nombre sugiere, se insertan otras voces pero de forma implícita. No hay indicadores textuales que permitan identificar de quién es propiedad el enunciado, pero tampoco se presenta como una mera aseveración 
-Para identificar estos casos sirve saber un poco de las categoria sde TRANSITIVIDAD descritas arriba, cuando procesos mentales (sentir/querer/percibir y que por ende requierne un experimentando) se describen como procesos materiales es probable que haya intravocalizacion  
+Para identificar estos casos sirve saber un poco de las categorias de TRANSITIVIDAD descritas arriba, cuando procesos mentales (sentir/querer/percibir y que por ende requieren un experimentando) se describen como procesos materiales es probable que haya intravocalizacion  
 
 >[!EXAMPLE]
->- "Tras el estallido, quedo la convicción de que quemar una micro no es "legítima" protesta, es vandalismo puro y duro" --> Es una convicción que podemos intuir que le pertenence a la gente, o a algún grupo de personas. Peor no hay ningún marcador en el texto. Acá "quedo la sensación" habla de un estado de las cosas (proceso material), que sin embargo, le pertenece a alguien/un grupo (proceso mental)
->- "La lectura que aquí puede realizarse es que se está frente a un hito" --> Implicito esta la posibilidad de que puen derealizarse distinta lecturas, si bien no hay ningun marcador de quién podría realizarla. 
+>- "Tras el estallido, quedó la convicción de que quemar una micro no es "legítima" protesta, es vandalismo puro y duro" --> Es una convicción que podemos intuir que le pertenence a la gente, o a algún grupo de personas. Pero no hay ningún marcador en el texto. Acá "quedo la sensación" habla de un estado de las cosas (proceso material), que sin embargo, le pertenece a alguien/un grupo (proceso mental)
+>- "La lectura que aquí puede realizarse es que se está frente a un hito" --> Implicito esta la posibilidad de que pueden realizarse distintas lecturas, si bien no hay ningún marcador de quién podría realizarla. 
 
 
 ### Función Retórica
@@ -350,7 +352,7 @@ Vamos a ver cuatro niveles de profundidad.
 - El siguiente nivel desglosa aun más los modos de **refutacion** y de **proclamación** 
 - El siguiente nivel (el más específico al que llegaremos) desglosa aun más sub-tipos específicos de proclamación.
 
-Esto puede ser mucho así que iremos paso por paso. Tomando los mismos ejemplos y progresivamente especificandolos más y más. **Se espera que al menos los dos primeros niveles queden 100% claros**
+Esto puede ser mucho así que iremos paso por paso. Tomando los mismos ejemplos y progresivamente especificándolos más y más. **Se espera que al menos los dos primeros niveles queden 100% claros**
 
 **Nivel 1: DISTINCIÓN FUNDAMENTAL 1** $\rightarrow$ Esta distinción debe quedar 100% clara
 
@@ -372,23 +374,23 @@ b & d & e
 end
 ```
 
-Para este primer nivel, la identificación de qué tipo de función retórica se estpa realizando se responde con la pregunta
-**¿Hay un reconocimiento de que puede haber una perspectiva distinta a la expresada?**
+Para este primer nivel, la identificación de qué tipo de función retórica se realiza se responde con la pregunta
+**¿Hay un reconocimiento de que existe una perspectiva distinta a la expresada?**
+
 - En caso de que **NO**: Monoglosia. 
   - La monoglosia se da necesariamente a través de un tipo de voz_a_impl(voz autoral implicita). Esto pues  los otros tipos de voz implican el reconocimiento de forma explicita o implicita de otras voces posibles.
-Clausulas declarativas con fuerte presencia de procesos relacionales, existenciales o materiales. En general cuando algo "se da por sentado" se tata de monoglosia, sin embargo, como se verá más abajo el lenguaje oral complica esto
+Claúsulas declarativas con fuerte presencia de procesos relacionales, existenciales o materiales. En general cuando algo "se da por sentado" se tata de monoglosia, sin embargo, como se verá más abajo el lenguaje oral complica esto
 
 >[!Example]
->- "El estado debe proteger"
+>- "El gobierno busca defender intereses particulares"
 >- "La delincuencia igual está súper desatada hoy en día"
 >- "La foto de abajo es una micro quemada"
 >- "La gente tiene miedo"
->- "El gobierno no quiere levantar el secreto bancario"
 
 
 
 - **Heteroglosia Contractiva**: En caso que si, pero esas voces se traigan para refutarlas, demandar algo o como respaldo para fortalecer cierto punto de vista
-El uso de lenguaje que busca defender una posición sobre otra es contractiva 
+El uso de lenguaje que busca defender una posición sobre otra es contractiva .
 
 >[!Example]
 >- "Un sticker es una falta menor, nadie debería ir al registro por eso"
@@ -397,19 +399,19 @@ El uso de lenguaje que busca defender una posición sobre otra es contractiva
 >- "Las leyes se pueden interpretar así, ese es el miedo que tengo " --> inv (No se especifica quien podría interpretar ley) + exv ("que tengo"). Esta complejo clausular reconoce otras voces para justificar su punto de vista
 >- "El estado no debería ser una empresa"--> el "no debería" reconoce implicitamente que hay perspectivas que lo ven así, y se opone a ellas. Esto lo hace heteroglosico y através de una inv
   
-- **Heteroglosia Expansiva**: En caso que si, y que esas voces se traigan para considerar su punto de vista *independiente de nivel de acuerdo con ellas*.
+- **Heteroglosia Expansiva**: En caso que sí, y que la perspectiva de esas otras voces sea considerada *independiente de nivel de acuerdo con ellas*.
 Implica también la invitación de otras voces,  intentos de integrar la perspectiva o conocimiento del otro a la conversacion
-Reconoce la contingencialidad de la posiciones del hablante, modalizaciones (podría, probablemente, eventualmente) son importantes acá
+Reconoce la contingencialidad de la posiciones del hablante, modalizaciones (podría, probablemente, eventualmente) son importantes acá.
 
 
 >[!Example]
->- "Pensandolo bien, esa imagen igual tiene un punto re válido"
+>- "Pensándolo bien, esa imagen igual tiene un punto re válido"
 >- "Lo que dices me hace sentido"
->- "Podríamos agregar la idea de limitar las atribuciones de la policia"
+>- "Podríamos agregar tu idea de limitar las atribuciones de la policia"
 >- "Eventualmente sus ideas se sumarían al plan de gobierno"
 
 
-Cómo se observa en uno de los ejemplos de Contraer, un mismo complejo clausular puede tener varias funciones retóricas juntas. Estas **Micromaniobras** son despliegues al interior de un mismo complejo de distintos recursos de COMPROMISO, y tienen un efecto acumulativo. Es decir, construyen progresivamente cierta perspectiva
+Un mismo complejo clausular puede tener varias funciones retóricas juntas. Estas **Micromaniobras** son despliegues al interior de un mismo complejo de distintos recursos de <span style="font-variant: small-caps;">compromiso</span>, y tienen un efecto acumulativo. Es decir, construyen progresivamente una perspectiva del hablante.
 
 
 Los marcadores discursivos cumplen un rol para negociar significados. Existen distintos tipos
@@ -419,7 +421,7 @@ Los marcadores discursivos cumplen un rol para negociar significados. Existen di
 - Enfocadores de alteridad (mira, oye, ¿no?)
 - Metadiscursivos conversacionales (ya, bien, ajá)
 
-Estos marcadores pueden tener un rol importante en la introducción de otras voces. Por ejemplo:  "Es como que (...)" $\rightarrow$ :Esta formulación de tipo argumentativo que además tiene una función atenuadora al parafrasear cumple un rol insertando voces externas y alineandose/desalieandose de estas
+Estos marcadores tienen un rol importante en la introducción de otras voces. Por ejemplo:  "Es como que (...)" $\rightarrow$ Esta formulación de tipo argumentativo que además tiene una función atenuadora al parafrasear inserta voces externas y  permite alinearse/desalienearse de estas.
 
 
 **Particularidad del Discurso Hablado**
@@ -430,7 +432,7 @@ Este autor plantea tres principios característicos de una interacción dialógi
 
 - **Secuencialidad:** Cada acción, contribución o secuencia constituyente obtiene una parte significativa de su significado de su posición dentro de una secuencia (la cual, en la interacción en tiempo real, es, por supuesto, de naturaleza temporal). p.85
 - **Construcción Conjunta:** Ninguna parte es producto o experiencia exclusiva de un solo individuo. Por otro lado, la distribución de las contribuciones al diálogo co-construido suele ser asimétrica. p.96
-- **Interdependencia acto-actividad:** Los actos, enunciados y secuencias en el discurso están siempre, en esencia, situados dentro de una actividad que los engloba (un diálogo, un encuentro), la cual es producida conjuntamente por los participantes. Esta actividad puede entenderse, a menudo, como la representación de un tipo general o como perteneciente a un género particular. Algunos aspectos del significado de los actos elementales derivan del hecho de que están integrados en dicha actividad global y contribuyen a su realización. Al mismo tiempo, el tipo de actividad o género se manifiesta —en un sentido wittgensteiniano, es decir, de forma implícita más que explícitamente formulada o «dicha»— a través de las maneras en que los actores se expresan en el discurso. p.87
+- **Interdependencia acto-actividad:** Los actos, enunciados y secuencias en el discurso están siempre, en esencia, situados dentro de una actividad que los engloba (un diálogo, un encuentro), la cual es producida conjuntamente por los participantes. Esta actividad puede entenderse, a menudo, como la representación de un tipo general o como perteneciente a un género particular. Algunos aspectos del significado de los actos elementales derivan del hecho de que están integrados en dicha actividad global y contribuyen a su realización. Al mismo tiempo, el tipo de actividad o género se manifiesta a través de las maneras en que los actores se expresan en el discurso. p.87
 
 Esto describe muy bien la estructura conjunta y secuencial de una conversación.
 
@@ -456,7 +458,8 @@ end
 
 
 **Cada enunciado en si mismo tiene una propiedad de respuesta y de iniciacion. El enunciado responde a y abre a algo al mismo tiempo.**
-Esto significa que incluso entregar información objetiva en respuesta a alguien que solicita información es un acto heteroglósico en una conversación. Pues me estoy orientando hacia la voz de ese otro, y entregando información que permite el despliegue posterior de la conversación.
+
+Por lo tanto incluso entregar información objetiva en respuesta a alguien que solicita información es un acto heteroglósico en una conversación. Pues me estoy orientando hacia la voz de ese otro, y entregando información que permite el despliegue posterior de la conversación.
 
 >[!TIP] 
 > No usar la categoría de monoglosia a no ser que hayan muchas razones para hacerlo. No me cierro a la posibilidad de encontrar casos donde ocurra en discurso hablado, pero sería muuuuuuy poco común que corura
@@ -464,7 +467,7 @@ Esto significa que incluso entregar información objetiva en respuesta a alguien
 
 **Nivel 2: DISTINCIÓN FUNDAMENTAL 2** $\rightarrow$ Esta distinción debe quedar 100% clara
 
-Acá empezamos a desglosar especificamente las funciones heteroglósicas. Es probable que los análisis estadisticos que se hagan con los datos lleguen hasta este nivel de especificidad. Por lo tanto es **muuuuuy importante** que estas queden 100% claras.
+Acá empezamos a desglosar específicamente las funciones heteroglósicas. Es probable que los análisis estadísticos que se hagan con los datos lleguen hasta este nivel de especificidad. Por lo tanto es **muuuuuy importante** que estas queden 100% claras.
 
 Además empezamos a complejizar un poco más la codificación. La sección anterior pudo haber dado la impresión de que basta con que nos fijemos en la cláusula para definir si estamos frente a una monoglosia, hetergolosia:contractiva o heteroglosia:expansiva ¡No!. 
 
@@ -473,10 +476,13 @@ Recordar que estamos trabajando a un nivel de análisis semántico discursivo, p
 Algo que puede parecer una señal de acuerdo con alguien en realidad puede ser una apertura a considerar una perspectiva nueva, si es que el hablante hasta entonces se había mantenido en una posición de oposición.
 Esto no quiere decir, que fijarse en elementos lexicogramaticales no sirva para diferenciar entre funciones retóricas. Ayudan y por lo mismo en la sección anterior se señalan un par de recursos, el tema es que no podemos limitar el análisis a eso.
 
+De ahí la importancia del **cotexto** para la codificación en el estrado Semántico-Discursivo. Es decir, el "ambiente linguistico" en que se da un específico enunciado. Este se diferencia del **contexto** en que este último corresponde a un estrato de organización lingüística de alta abstracción conformado por registro y género.
+
 >[!TIP]
 > LEER EL TEXTO ENTERO ANTES DE EMPEZAR A CODIFICAR
 >
-> Familiarizarse con él y con los hablantes. Esto permite dar una perspectiva global de como ciertos turnos pueden estar conectrados entre sí. Recordar los principios de Linell recien revisados, lo que sucede en una conversación esta conectado. Por lo tanto, qué es contractivo y qué es expansivo va a depender en gran medida de las posiciones que van tomando y como evolucionan en el tiempo.
+> Familiarizarse con él y con los hablantes. Esto permite dar una perspectiva global de como ciertos turnos pueden estar conectrados entre sí (cotexto). Recordar los principios de Linell recién revisados, lo que sucede en una conversación está conectado. Por lo tanto, qué es contractivo y qué es expansivo va a depender en gran medida de las posiciones que van tomando y su evolución en el tiempo.
+
 
 Habiendo hecho esta breve introducción al segundo nivel analítico. Pasamos ahora a caracterizar en mayor detalle las funciones heteroglósicas.
 
@@ -498,14 +504,14 @@ end
 ```
 
 - **Heteroglosia:Refutar**
-Implica una oposicion a otra posición, ya sea por un rechazo explicito o una suplantación. Para identificarlas también es importante ver la secuencia, pues puede hacer referencia directa o indirecta a posiciones previamente expresadas.
-El uso de palabras como  "No" y "Pero" suelen ser buenos indicadores de que se trata de una refutación **PERO NO BASARSE EXCLUSIVAMENTE EN ESO**
+Implica una oposicion a otra posición, ya sea por un rechazo explícito o una suplantación. Para identificarlas también es importante ver la secuencia, pues puede hacer referencia directa o indirecta a posiciones previamente expresadas.
+El uso de palabras como  "No" y "Pero" suelen ser buenos indicadores de que se trata de una refutación **PERO NO BASARSE EXCLUSIVAMENTE EN ESO**. A veces también se usan como muletillas al hablar.
 
 >[!EXAMPLE]
 >- "Eso no va a solucionar nadar"
->- "El estado no debería ser una empresa" ---> Esta podría ser una proclamación (ver abajo) o una refutación si se esta diciendo en oposición a alguien que planteó esa idea.
+>- "El estado no debería ser una empresa" ---> Esta podría ser una proclamación (ver abajo) o una refutación si se esta diciendo en oposición a alguien que planteó esa idea. 
 >- "Pero yo prefiero cuidar la privacidad." --> El "pero" es un buen indicador de refutación, ¡pero no siempre es asi! Recordar revisar que viena antes
->- "Nadie te va a menter preso por pegar un sticker" --> No se reconoce la posibilidad de que así sea. La voz_a_impl se posiciona entonces negando esa otra voz
+>- "Nadie te va a meter preso por pegar un sticker" --> No se reconoce la posibilidad de que así sea. La voz_a_impl se posiciona entonces negando esa otra voz
 
 - **Heteroglosia:Demandar**
 Formulaciones de obligación que implican un esfuerzo de reducción de las posibilidades del oyente. En las órdenes o demandas la voz autoral o una voz externa propone que el lector ideal o putativo realice una determinada acción con diferentes grados de obligación (debes/te pido/haz), la cual típicamente refleja una posición del mundo o una posición ideológica particular.
@@ -516,10 +522,10 @@ Formulaciones de obligación que implican un esfuerzo de reducción de las posib
 >- "El secreto bancario debería poder levantarse con control judicial para investigar delitos graves."
 >- "Vamos a seguir en lo que estabamos" 
 >
->Ojo como "exigimos" / "debería poder levantarse" / "a seguir" tienen distinta Fuerza. Esto es para lo cual el sistema de MODALIDAD (estato lexicogramatical) y GRADACIÓN (estrato semántico discursivo) sirven. En este manual tocaré brevemente sobre el sistema de GARADACIÓN pero no es foco del análisis en la codificación. 
+>Ojo como "exigimos" / "debería poder levantarse" / "a seguir" tienen distinta Fuerza. Esto es para lo cual el sistema de <span style="font-variant: small-caps;">modalidad</span> (estato lexicogramatical) y <span style="font-variant: small-caps;">gradación</span> (estrato semántico discursivo) sirven. En este manual tocaré brevemente sobre el sistema de <span style="font-variant: small-caps;">gradación</span> pero no es foco del análisis en la codificación. 
 
 - **Heteroglosia:Proclamar**
-Implica representar una posicion como dada, o válida que a su vez suprime o desestima otras posiciones alternativas. Estás pueden ser un poco más dificiles de identificar porque no hay un rechazo directo de otra posición, sino que más bien en virtud de lo que comunican reducen las alternativas existentes, disminuyen las posiciones esperadas en conversacion/texto.
+Implica representar una posicion como dada, o válida que a su vez suprime o desestima otras posiciones alternativas. Estás pueden ser un poco más dificiles de identificar porque no hay un rechazo directo de otra posición, sino que más bien en virtud de lo que comunican reducen las alternativas existentes, disminuyen las posiciones esperadas en la conversación/texto.
 
 >[!EXAMPLE]
 >- "Mis padres dirían que hay que fortalecer las atribuciones"
@@ -527,18 +533,17 @@ Implica representar una posicion como dada, o válida que a su vez suprime o des
 >- "Viéndolo de forma súper práctica, quemar una micro es la peor inversión de la vida"
 
 - **Heteroglosia:Considerar**
-Esta categoría es la única de expandir. Por lo que funcionalmente no mucho más que agregar respecto a lo que en la sección pasada se habló de considerar.
+Esta categoría es la única de expandir. Por lo que funcionalmente no hay mucho más que agregar respecto a lo que en la sección pasada se habló de considerar.
 Solo agregar que
   - Algo puede parecer un acuerdo o desacuerdo con otra voz, pero en realidad tratarse de una consideración en la medida que en la secuencia de la interacción se reconoce una apertura a considerar esa otra voz.
-  - El uso de preguntas retóricas o abiertas, puede ser indicativo de una "invitación" a otras voces a hacerse presentes (a veces las pregutnas retóricas también pueden ser para refutar)
+  - El uso de preguntas retóricas o abiertas, puede ser indicativo de una "invitación" a otras voces a hacerse presentes (otras veces las preguntas retóricas también pueden ser para refutar)
   - Recordar que considerar otras voces **no necesariamente implica acuerdo con ellas** Pero si al menos estar dispuesto a reconocerlas sin necesariamente buscar limitarlas
 
 
 >[!EXAMPLE]
 >- "Pongamos que la ley tiene que ser pareja para todos" -->En el contexto de una discusión con puntos de vista distintos y alguien que intenta dar cabida a puntos de vista distintos que han habido en la discusión
->- "¿Se estará acabando el futuro?""
+>- "¿Se estará acabando el futuro?" --> Pregunta retórica que puede estar invitando a otros a dar su opinión
 >- "Podríamos agregar la idea de limitar las atribuciones de la policia" --> Invita a considerar ideas anteriores 
->- "Dudo que te vayan a meter a un registro nacional de vándalos por un sticker" --> Eso podría ser una oposición pero el "Dudo mucho" relativiza (técnicamente se dice "modaliza") la posición en la voz_a_mnf: Esto tiene como resultado que se mantiene abierta la posibilidad de que así sea
 
 
 
@@ -574,8 +579,8 @@ end
 
 - **Heteroglosia:Contraer:Proclamar:Acordar**
 
-De forma explicita se genera un acuerdo con un otro, hay una concurrencia de posiciones. Debe haber al menos dos para que se acuerde algo, pero no necesariamente tiene que estar citado el otro
-En términos de micromaniobras el acuerdo puede preceder oposiciones ("Efectivamente hace calor[acordar], pero lo prefiero al frio [oposicion]")
+De forma explícita se genera un acuerdo con un otro, hay una concurrencia de posiciones. Debe haber al menos dos para que se acuerde algo, pero no necesariamente tiene que estar citado explícitamente el otro
+En términos de micromaniobras el acuerdo puede preceder oposiciones ("Efectivamente hace calor[acordar], pero lo prefiero al frio [oposición]")
 
 >[!Example] 
 >- "Yo creo que tiene harto sentido, la verdad."
@@ -583,49 +588,49 @@ En términos de micromaniobras el acuerdo puede preceder oposiciones ("Efectivam
 
 - **Heteroglosia:Contraer:Proclamar:Respaldar**
 
-Implica referencias a fuentes especificadas o no especificadas que sirvan como evidencia para sostener la posicion. Estar atento a verbos procesuales (muestra, evidencia, señalan, apunta a). Se entra en una relación dialógica con aquel(lo) en base a lo cual se respalda cierta posición. Respaldar no necesariamente se ahce a través de terceros, también puede ser a través de las propias vivencias.
+Implica referencias a fuentes especificadas o no especificadas que sirvan como evidencia para sostener la posición. Estar atento a verbos procesuales (muestra, evidencia, señalan, apunta a). Se entra en una relación dialógica con aquel(lo) en base a lo cual se respalda cierta posición. Respaldar no necesariamente se hace a través de terceros, también puede ser a través de las propias vivencias.
 
 >[!Example]
->- "Es importante que los carabineros sean respaldados: Mis padres dirían que hay que fortalecer las atribuciones" --->Se extravocaliza voz de padres para servir de respaldo a una idea de participante
->- "Es que con el gobierno de Boric quedó la sensación de que costaba condenar ciertas cosas" --->Apela a un "sentir general" (inv) durante el gobierno de Boric como evidencia de una afirmación
+>- "Es importante que los carabineros sean respaldados: Mis padres dirían que hay que fortalecer las atribuciones" ---> Se extravocaliza voz de padres para servir de respaldo a una idea de participante
+>- "Es que con el gobierno de Boric quedó la sensación de que costaba condenar ciertas cosas" ---> Apela a un "sentir general" (inv) durante el gobierno de Boric como evidencia de una afirmación
 >- "La evidencia muestra que revisar mochilas no sirve de nada"
->- "Yo estaba ahí cuando sucedio" --->Clasula existencia que le da fuerza a mi relato pues respalda su veracidad
+>- "Yo estaba ahí cuando sucedió" ---> Claúsula existencial que le da fuerza a mi relato pues respalda su veracidad
 
 - **Heteroglosia:Contraer:Proclamar:Reforzar**
 
-Pronunciamientos que buscan enfatizar cierta perspectiva. Esta función acentua y explicita el interés en defender un cierto punto de vista, típicamente en oposición a ota posición.
-Se diferencia de acordar en tanto en el caso de **reforzar no se trata de generar un acuerdo**, y se diferencia de respaldar  en que **reforzar no hay un imbricamiento entre dos o más voces para sostener dicha posición**
+Pronunciamientos que buscan enfatizar cierta perspectiva. Esta función acentúa y explicita el interés en defender cierto punto de vista, típicamente en oposición a otra posición.
+Se diferencia de acordar por que en **reforzar no se trata de generar un acuerdo**, y se diferencia de respaldar en que **reforzar no hay un imbricamiento entre dos o más voces para sostener dicha posición**
 
 >[!Example]
->- "Es que la delincuencia igual está súper desatada hoy en día"" -->El conector "es que" sirve como un reforzador explicativo que busca servir de justificación
->- "Viéndolo de forma súper práctica, quemar una micro es la peor inversión de la vida" -->"Viendolo de forma super practica" -->Establece un marco conceptual desde el cual lo que se dice hace sentido.
+>- "Es que la delincuencia igual está súper desatada hoy en día"" --> El conector "es que" sirve como un reforzador explicativo que busca servir de justificación
+>- "Viéndolo de forma súper práctica, quemar una micro es la peor inversión de la vida" --> "Viéndolo de forma súper practica" Establece un marco conceptual desde el cuál lo que se dice hace sentido.
 
 
 - **Heteroglosia:Contraer:Refutar:Negar**
 
-Algo interesante de la negación es que introduce su positivo, es decir si algo se niega es que implicitamente se está reconociendo su contrario (esto es lo que le hace heteroglosico). Algo que no ocurre necesariamente con las afirmaciones.
-Esto hace a la negación una categoría muy útil para entender supuestos implícitos.
+Algo interesante de la negación es que introduce su positivo, es decir si algo se niega es que implícitamente se está reconociendo su contrario (esto es lo que le hace heteroglósico). Algo que no ocurre necesariamente con las afirmaciones.
+Esto hace a la negación una categoría muy útil para identificar supuestos implícitos.
 
 >[!Example]
->- "No te van a meter a un registro nacional de vándalos por un sticker" -->Niega la posibilidad de que alguien pueda ingresar al registro nacional de vándalos por pegar un sticker.
+>- "No creo que te vayan a meter a un registro nacional de vándalos por un sticker" -- >Niega la posibilidad de que alguien pueda ingresar al registro nacional de vándalos por pegar un sticker. El uso de "no creo" relativiza (técnicamente se dice: modaliza) la fuerza de la afirmación. Hablante no tiene certeza pero igual niega.
 >- "El estado no debería ser una empresa"  --> Implicitamente se reconoce que algunos piensan que el estado debería ser una empresa
 
 - **Heteroglosia:Contraer:Refutar:Oponer**
 
-Una posición que toma el lugar de otra, remplaza lo que se esperaría en su lugar . Común que se de con conjunciones y conectivos ("pero", "en cambio", "aunque").
+Una posición que toma el lugar de otra, remplaza lo que se esperaría en su lugar . Común que se dé con conjunciones y conectivos ("pero", "en cambio", "aunque").
 Puede presentarse en conjunto con negación
 
 >[!Example]
 >- "Pero yo prefiero cuidar la privacidad."
->- "El Estado tiene que dar seguridad. Punto. Y castigar al que la rompe." --->Esto en si mismo puede parecer una proclamación, pero si es en respuesta a una oposición distinta esta oponiendo a ella
->- "No sé si el Estado debería ser una empresa [negacion] Marco. Igual tiene un rol de cuidar a la gente. [oposición]" -->Al igual que en ejemplo anterior aca la segun parte se opone a una posición expresada por Marco.
+>- "El Estado tiene que dar seguridad. Punto. Y castigar al que la rompe." ---> Esto en sí mismo puede parecer una proclamación, pero si es en respuesta a una oposición distinta esta oponiendo a ella
+>- "No sé si el Estado debería ser una empresa [negacion] Marco. Igual tiene un rol de cuidar a la gente. [oposición]" --> Al igual que en ejemplo anterior acá la segun parte se opone a una posición expresada por Marco.
 
 
 
 **Nivel 4: Modos de proclamar::acordar y proclamar:reforzar**
 
 Este es el nivel más exhaustivo al que llegaremos. Se entiende si llegado a este punto ya se está medio mareada. Son un nivel de sensibilidad muy alto que permite hacer distinciones finas respecto a modos de estar de acuerdo con otros o de reforzar un punto
-Si bien en la codificación se usaran estas categorías, lo cierto es que para fines estadístincis no es tan terrible si hay errores en estos, siempre y cuando la codificación del nivel 2 este correcta.
+Si bien en la codificación se usaran estas categorías, lo cierto es que para fines estadístincos no es tan terrible si hay errores en estos, siempre y cuando la codificación del nivel 2 esté correcta.
 
 
 ```mermaid
@@ -659,14 +664,14 @@ end
 
 - **Heteroglosia:Contraer:Proclamar:Acordar:Afirmar**
 
-Implica un alineamiento con un otro. Generalmente se realiaz a través de un lenguaje afirmativo ("sí", "efectivamente,", "obvio"). Pero hay casos donde incluso el uso del "no" puede ser un acordar afirmativo (por ejemplo, en tanto muestran alineamiento con comentario previo de alguien más).
-No necesariamente implica una ausencia de desacuerdo , de hecho la afirmación puede ser un recurso retórico para despues debatir (primero generando alineamiento para luego matizarlo, como se observa en el tercer ejemplo).
+Implica un alineamiento con un otro. Generalmente se realia a través de un lenguaje afirmativo ("sí", "efectivamente,", "obvio"). Pero hay casos donde incluso el uso del "no" puede ser un acordar afirmativo (por ejemplo, en tanto muestran alineamiento con comentario previo de alguien más).
+No necesariamente implica una ausencia de desacuerdo , de hecho la afirmación puede ser un recurso retórico para después refutar (primero generando alineamiento para luego matizarlo, como se observa en el tercer ejemplo).
 
 >[!Example]
 >- "Sí"
 >- "Yo creo que tiene harto sentido, la verdad."
->- "No, no toda, obvio." --->En respuesta a alguien que dijo "Tampoco toda la izquierda justifica la quema de buses"
->- "Ahí estamos de acuerdo [afirmar]. Lo que pasa es que en la práctica uno no sabe cómo lo van a aplicar. [oponer]" -->La afirmación aquí sirve como antecesor para una oposición con el otro
+>- "No, no toda, obvio." ---> En respuesta a alguien que dijo "Tampoco toda la izquierda justifica la quema de buses"
+>- "Ahí estamos de acuerdo [afirmar]. Lo que pasa es que en la práctica uno no sabe cómo lo van a aplicar. [oponer]" --> La afirmación aquí sirve como antecesor para una oposición con el otro
 
 - **Heteroglosia:Contraer:Proclamar:Acordar:Conceder**
 
@@ -680,14 +685,13 @@ La concesión necesariamante implica una comprensión secuencial de los enunciad
 - **Heteroglosia:Contraer:Proclamar:Reforzar:Pronunciar**
 
 Son generalmente aserciones que se realizan desde una voz_a_mnf. Dan cuenta del punto de vista del hablante. 
-Debido a que se esperan pocas monoglosias producto de las características del discurso hablando, esta será la categoría que se use para afirmaciones también en voz_a_impl y cuando se describa lo que otros dicen (a no ser que sea un respaldo o justificación).
+En nuestra codificación también se codificarán como pronunciar aserciones en voz_a_impl que típicamente serían monoglosías, pero que acá tiene un carácter dialógico por la dinámica conversacional.
 También la usaremos para codificar metacomentarios sobre la situación interaccional
 
 >[!Example]
 >- "A los políticos de derecha siempre les baja toda la preocupación por la privacidad cuando se trata de levantar el secreto bancario" 
 >- "Estamos de acuerdo en rechazar la violencia y la destrucción." --> Esto es pronunciamiento y no afirmación si se está enunciado en el marco de imponer una cierta visión conjunta. Algo así como "acá todos estamos de acuerdo con eso, no?"
->- "La primera imagen dice que la izquierda se queja de que la legítima protesta va a ser perseguida" --> exv: se describe lo que imagen dice sin hacer un juicio sobre eso. Solo se está dando ceutna del pronunciamiento de imagen
->- "Chuta, aquí se puso tenso" -->Implica un pronunciamiento respecto a cómo hablante percibe situación en la que se encuentra
+>- "Chuta, aquí se puso tenso" --> Implica un pronunciamiento respecto a cómo hablante percibe situación en la que se encuentra
 
 - **Heteroglosia:Contraer:Proclamar:Reforzar:Justificar**
 
@@ -785,7 +789,7 @@ En caso que no se vea bien la negrita las categorías a usar son (entre parentes
 
 
 
-Si bien se espera que se hayan revisado algunos textos que expliquen el sistema de ACTITUD, voy a realziar un breve punteo de algunas ideas importantes a tener en mente al momento de codificar.
+Si bien se espera que se hayan revisado algunos textos que expliquen el sistema de <span style="font-variant: small-caps;">actitud</span>, voy a realizar un breve punteo de algunas ideas importantes a tener en mente al momento de codificar.
 - La actitud no es un fenómeno aislado, se contruye en relación con otros. Es decir, implica un posicionamiento frente a un hecho, evento, o conducta. Al momento de codificar entonces no basta con solo fijarnos en las palabras que se usan para calificar algo, hay que entender como esas palabras están vinculadas con el contexto más amplio de la interacción que se está llevando a cabo.
 >[!Example] 
 >- "La policia está actuando de forma super agresiva"
